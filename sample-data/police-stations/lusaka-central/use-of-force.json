@@ -1,0 +1,25 @@
+[
+  {
+    "Id": 1,
+    "ReportId": "UOF-LUS001-2024-001",
+    "OfficerId": "LUS001-OFF-102",
+    "OfficerName": "Sergeant Alice Mwanza",
+    "IncidentNumber": "LUS001-2024-002",
+    "IncidentDate": "2024-01-08T19:30:00Z",
+    "Location": "Freedom Way Bar, Independence Avenue",
+    "SubjectName": "Daniel Mbewe",
+    "SubjectAge": 28,
+    "ForceType": "Physical Restraint",
+    "ForceLevel": "Low",
+    "WeaponUsed": null,
+    "InjuryToSubject": "Minor bruising",
+    "InjuryToOfficer": "None",
+    "Justification": "Subject was actively resisting arrest and attempting to flee scene. Minimum force applied to secure subject.",
+    "WitnessOfficers": ["LUS001-OFF-103"],
+    "BodyCameraFootage": "BWC-20240108-001",
+    "SupervisorReview": "Appropriate use of force given circumstances",
+    "ReviewedBy": "Inspector John Banda",
+    "ReviewDate": "2024-01-09T09:00:00Z",
+    "Status": "Approved"
+  }
+]

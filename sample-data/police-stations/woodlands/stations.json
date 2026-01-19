@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 5,
+    "Type": "Station",
+    "Name": "Woodlands Police Station",
+    "StationCode": "LUS005",
+    "DistrictId": 1,
+    "IsActive": true,
+    "ContactNumber": "+260211890234",
+    "EmergencyNumber": "991",
+    "Email": "woodlands@police.gov.zm",
+    "Address": "Addis Ababa Road, Woodlands",
+    "Latitude": -15.4400,
+    "Longitude": 28.3100,
+    "JurisdictionAreaId": 5,
+    "OfficerInCharge": "Chief Inspector David Mwale",
+    "NumberOfOfficers": 55,
+    "OpeningHours": "24/7",
+    "Notes": "Police station serving Woodlands upmarket and surrounding areas",
+    "CreatedDate": "2022-05-18T08:00:00Z"
+  }
+]

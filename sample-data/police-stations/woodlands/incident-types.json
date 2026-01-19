@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Burglary",
+    "Code": "BU",
+    "Description": "Unlawful entry with intent to commit crime",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 2,
+    "Name": "Fraud - Financial",
+    "Code": "FF",
+    "Description": "Financial fraud and unauthorized transactions",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 3,
+    "Name": "Hijacking",
+    "Code": "HJ",
+    "Description": "Unlawful seizure of vehicle with weapons",
+    "DefaultPriority": "Critical",
+    "RequiresReport": true
+  },
+  {
+    "Id": 4,
+    "Name": "Cybercrime",
+    "Code": "CY",
+    "Description": "Crime involving computer systems",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 5,
+    "Name": "Organized Crime",
+    "Code": "OC",
+    "Description": "Criminal activity by organized groups",
+    "DefaultPriority": "Critical",
+    "RequiresReport": true
+  }
+]

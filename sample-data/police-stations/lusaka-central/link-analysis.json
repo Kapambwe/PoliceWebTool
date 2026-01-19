@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "EntityId": "PERSON-1001",
+    "EntityType": "Person",
+    "RelatedToId": "PERSON-1002",
+    "RelatedToType": "Person",
+    "RelationshipType": "Known Associate",
+    "Strength": 0.85,
+    "IncidentNumbers": ["LUS001-2024-001", "LUS001-2024-005"],
+    "SharedLocations": ["Cairo Road", "City Market"],
+    "ContactFrequency": "High",
+    "Notes": "Frequently seen together in CCTV footage at crime scenes"
+  },
+  {
+    "Id": 2,
+    "EntityId": "PERSON-1001",
+    "EntityType": "Person",
+    "RelatedToId": "VEH-BAZ1234",
+    "RelatedToType": "Vehicle",
+    "RelationshipType": "Owner",
+    "Strength": 1.0,
+    "IncidentNumbers": ["LUS001-2024-001"],
+    "Notes": "Registered owner of white Toyota Hilux used in robbery"
+  },
+  {
+    "Id": 3,
+    "EntityId": "PERSON-1002",
+    "EntityType": "Person",
+    "RelatedToId": "LOC-CITYMARKET",
+    "RelatedToType": "Location",
+    "RelationshipType": "Frequent Visitor",
+    "Strength": 0.75,
+    "SharedLocations": ["City Market"],
+    "ContactFrequency": "Daily",
+    "Notes": "Operates mobile phone repair booth at City Market"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "AlertId": "INTEL-LUS001-2024-001",
+    "Priority": "High",
+    "Category": "Organized Crime",
+    "Title": "Suspected robbery gang planning operation",
+    "Description": "Intelligence indicates group of 3 individuals planning armed robbery targeting mobile money booths in CBD area this weekend",
+    "Source": "Confidential Informant",
+    "Reliability": "B - Usually Reliable",
+    "ReceivedDate": "2024-01-14T10:00:00Z",
+    "ValidUntil": "2024-01-20T23:59:59Z",
+    "TargetLocation": "Lusaka CBD - Cairo Road area",
+    "SuspectInformation": "3 males, aged 20-30, using white Toyota Hilux",
+    "RecommendedAction": "Increase patrols in CBD, monitor mobile money locations, brief patrol officers",
+    "Status": "Active",
+    "DisseminatedTo": ["Patrol Units", "CID", "Traffic Division"]
+  },
+  {
+    "Id": 2,
+    "AlertId": "INTEL-LUS001-2024-002",
+    "Priority": "Medium",
+    "Category": "Drug Trafficking",
+    "Title": "Drug distribution network operating from City Market",
+    "Description": "Intelligence suggests drug dealers using market stalls as cover for distribution operations",
+    "Source": "Surveillance",
+    "Reliability": "C - Fairly Reliable",
+    "ReceivedDate": "2024-01-13T14:00:00Z",
+    "ValidUntil": "2024-01-30T23:59:59Z",
+    "TargetLocation": "City Market, Lusaka",
+    "RecommendedAction": "Conduct undercover operations, coordinate with Drug Enforcement",
+    "Status": "Under Investigation",
+    "DisseminatedTo": ["CID", "Drug Enforcement Unit"]
+  }
+]

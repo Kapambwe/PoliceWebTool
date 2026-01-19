@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 11,
+    "CaseNumber": "CYBER-LUS002-2024-011",
+    "IncidentType": "SIM Swap Fraud",
+    "Severity": "High",
+    "Status": "UnderInvestigation",
+    "ReportedDate": "2024-01-14T11:00:00Z",
+    "VictimName": "Peter Zulu",
+    "VictimContact": "+260977666777",
+    "Description": "Victim's phone number hijacked through SIM swap. Mobile money account emptied.",
+    "SuspectInformation": "Under investigation",
+    "AssignedInvestigator": "Det. Cyber - Alice Chanda",
+    "LastUpdated": "2024-01-15T10:00:00Z"
+  }
+]

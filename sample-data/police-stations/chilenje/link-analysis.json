@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 11,
+    "EntityId": "PERSON-2001",
+    "EntityType": "Person",
+    "RelatedToId": "PERSON-2002",
+    "RelatedToType": "Person",
+    "RelationshipType": "Known Associate",
+    "Strength": 0.70,
+    "IncidentNumbers": ["LUS002-2024-011"],
+    "Notes": "Suspects in burglary ring"
+  }
+]

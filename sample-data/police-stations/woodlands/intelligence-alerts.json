@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 5,
+    "AlertId": "INTEL-LUS005-2024-001",
+    "Priority": "Critical",
+    "Category": "Professional Crime Syndicate",
+    "Title": "High-value burglary ring targeting Woodlands upmarket residences",
+    "Description": "Intelligence indicates sophisticated burglary operation targeting high-net-worth individuals in Woodlands. Professional safe-cracking skills demonstrated. Estimated stolen goods value exceeds ZMW 1.5 million across incidents.",
+    "Source": "Multiple burglary reports and forensic analysis",
+    "Reliability": "A - Completely Reliable",
+    "ReceivedDate": "2024-01-07T08:30:00Z",
+    "ValidUntil": "2024-01-31T23:59:59Z",
+    "TargetLocation": "Woodlands Upmarket Residential Areas",
+    "SuspectInformation": "Organized gang of 3-5 members. Professional burglars. Interstate operations suspected.",
+    "RecommendedAction": "Coordination with national organized crime unit, community alert to residents, intelligence sharing with neighboring jurisdictions",
+    "Status": "Active",
+    "DisseminatedTo": ["Patrol Units", "CID", "Organized Crime Unit", "National Security"]
+  },
+  {
+    "Id": 6,
+    "AlertId": "INTEL-LUS005-2024-002",
+    "Priority": "Critical",
+    "Category": "Armed Hijacking",
+    "Title": "Armed vehicle hijacking gang - Woodlands area",
+    "Description": "Armed hijacking gang targeting high-value vehicles in Woodlands. Incidents involve 2-3 armed suspects. Weapons include firearms. Pattern suggests chop shop operation.",
+    "Source": "Hijacking reports and vehicle recovery",
+    "Reliability": "A - Completely Reliable",
+    "ReceivedDate": "2024-01-13T14:30:00Z",
+    "ValidUntil": "2024-01-27T23:59:59Z",
+    "TargetLocation": "Addis Ababa Road and Woodlands main roads",
+    "SuspectInformation": "Armed suspects, Mercedes and other high-value vehicles targeted, operates daytime",
+    "RecommendedAction": "Armed response team deployment, roadblock operations, intelligence on chop shops, media warning to vehicle owners",
+    "Status": "Active",
+    "DisseminatedTo": ["Armed Response Unit", "Patrol Units", "Traffic Division", "CID"]
+  }
+]

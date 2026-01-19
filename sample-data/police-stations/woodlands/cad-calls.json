@@ -1,0 +1,53 @@
+[
+  {
+    "CallId": 7,
+    "CallNumber": "CAD-LUS005-20240107-001",
+    "CallerName": "Professor Kenneth Sichone",
+    "CallerPhone": "+260977567890",
+    "IncidentType": "Burglary",
+    "Priority": "High",
+    "Status": "Dispatched",
+    "Location": "123 Woodlands Drive, Upmarket Area",
+    "Latitude": -15.4398,
+    "Longitude": 28.3102,
+    "Description": "Homeowner reports burglary discovered upon returning home. Safe broken into. Valuables stolen. Security system was bypassed.",
+    "ReceivedAt": "2024-01-07T07:50:00Z",
+    "DispatchedAt": "2024-01-07T08:15:00Z",
+    "AssignedUnits": ["ZP-501"],
+    "CallTakerOfficerId": "DISP-009"
+  },
+  {
+    "CallId": 8,
+    "CallNumber": "CAD-LUS005-20240110-001",
+    "CallerName": "Beatrice Zulu",
+    "CallerPhone": "+260211345678",
+    "IncidentType": "Fraud",
+    "Priority": "High",
+    "Status": "On Scene",
+    "Location": "Woodlands Business Plaza",
+    "Latitude": -15.4402,
+    "Longitude": 28.3098,
+    "Description": "Company CFO reports unauthorized wire transfer of company funds. Large sum transferred to external account. Possible impersonation of company executive.",
+    "ReceivedAt": "2024-01-10T09:20:00Z",
+    "DispatchedAt": "2024-01-10T09:45:00Z",
+    "AssignedUnits": ["ZP-505"],
+    "CallTakerOfficerId": "DISP-010"
+  },
+  {
+    "CallId": 9,
+    "CallNumber": "CAD-LUS005-20240113-001",
+    "CallerName": "Emergency - Vehicle Hijacking",
+    "CallerPhone": "+260977999111",
+    "IncidentType": "Hijacking",
+    "Priority": "Critical",
+    "Status": "Completed",
+    "Location": "Addis Ababa Road, Woodlands",
+    "Latitude": -15.4400,
+    "Longitude": 28.3100,
+    "Description": "Armed vehicle hijacking in progress. Armed suspects forcibly removing driver from Mercedes. Two suspects with firearms visible.",
+    "ReceivedAt": "2024-01-13T14:05:00Z",
+    "DispatchedAt": "2024-01-13T14:10:00Z",
+    "AssignedUnits": ["ZP-508"],
+    "CallTakerOfficerId": "DISP-011"
+  }
+]

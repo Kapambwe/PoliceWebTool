@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 5,
+    "HotspotId": "HS-LUS005-01",
+    "Location": "123 Woodlands Drive and surrounding high-value residences",
+    "Latitude": -15.4398,
+    "Longitude": 28.3102,
+    "CrimeType": "Burglary - High Value Property",
+    "IncidentCount": 5,
+    "RiskScore": 0.78,
+    "PredictedIncidents": 2,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 5,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "High-value burglaries targeting upmarket residential properties. Occurs during weekend nights 22:00-06:00. Professional indicators present."
+  },
+  {
+    "Id": 6,
+    "HotspotId": "HS-LUS005-02",
+    "Location": "Addis Ababa Road, Woodlands Business Areas",
+    "Latitude": -15.4400,
+    "Longitude": 28.3100,
+    "CrimeType": "Hijacking and Robbery",
+    "IncidentCount": 3,
+    "RiskScore": 0.82,
+    "PredictedIncidents": 1,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 4,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Vehicle hijackings in upmarket area during daytime. Armed suspects. High-value targets."
+  }
+]

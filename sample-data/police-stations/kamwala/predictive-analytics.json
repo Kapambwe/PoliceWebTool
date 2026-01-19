@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 3,
+    "HotspotId": "HS-LUS004-01",
+    "Location": "Nasser Road Commercial Area, Kamwala",
+    "Latitude": -15.4252,
+    "Longitude": 28.2952,
+    "CrimeType": "Theft from Commercial",
+    "IncidentCount": 7,
+    "RiskScore": 0.72,
+    "PredictedIncidents": 3,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 4,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Commercial thefts occur primarily during night hours and early morning. Targeting hardware and electronics shops."
+  },
+  {
+    "Id": 4,
+    "HotspotId": "HS-LUS004-02",
+    "Location": "Kabulonga Road Market Area, Kamwala",
+    "Latitude": -15.4248,
+    "Longitude": 28.2948,
+    "CrimeType": "Assault",
+    "IncidentCount": 9,
+    "RiskScore": 0.65,
+    "PredictedIncidents": 2,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 3,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Assaults occur during busy market hours (06:00-18:00). Often market-related disputes."
+  }
+]

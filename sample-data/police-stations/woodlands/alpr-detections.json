@@ -1,0 +1,53 @@
+[
+  {
+    "Id": 7,
+    "PlateNumber": "BAZ 9999",
+    "VehicleMake": "Mercedes",
+    "VehicleModel": "GLE",
+    "VehicleColor": "Black",
+    "DetectedAt": "2024-01-13T14:20:00Z",
+    "Location": "Addis Ababa Road, Woodlands",
+    "Latitude": -15.4400,
+    "Longitude": 28.3100,
+    "CameraId": "CAM-LUS005-01",
+    "Confidence": 0.97,
+    "ImageUrl": "/images/alpr/lus005-001.jpg",
+    "IsWanted": true,
+    "IsStolen": true,
+    "Alerts": ["Vehicle recovered from hijacking incident LUS005-2024-003"]
+  },
+  {
+    "Id": 8,
+    "PlateNumber": "ABD 6543",
+    "VehicleMake": "BMW",
+    "VehicleModel": "M760",
+    "VehicleColor": "Silver",
+    "DetectedAt": "2024-01-14T08:30:00Z",
+    "Location": "Woodlands Business Plaza",
+    "Latitude": -15.4402,
+    "Longitude": 28.3098,
+    "CameraId": "CAM-LUS005-02",
+    "Confidence": 0.90,
+    "ImageUrl": "/images/alpr/lus005-002.jpg",
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  },
+  {
+    "Id": 9,
+    "PlateNumber": "AAB 2222",
+    "VehicleMake": "Range Rover",
+    "VehicleModel": "Sport",
+    "VehicleColor": "White",
+    "DetectedAt": "2024-01-07T03:00:00Z",
+    "Location": "123 Woodlands Drive",
+    "Latitude": -15.4398,
+    "Longitude": 28.3102,
+    "CameraId": "CAM-LUS005-03",
+    "Confidence": 0.86,
+    "ImageUrl": "/images/alpr/lus005-003.jpg",
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  }
+]

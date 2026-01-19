@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 1,
+    "CertificateNumber": "PC-LUS001-2024-001",
+    "ApplicantName": "James Mulenga",
+    "ApplicantNRC": "123456/78/9",
+    "ApplicantPhone": "+260977111222",
+    "ApplicantEmail": "james.mulenga@email.com",
+    "Purpose": "Employment - Bank Teller Position",
+    "ApplicationDate": "2024-01-10T09:00:00Z",
+    "Status": "Approved",
+    "IssuedDate": "2024-01-12T14:00:00Z",
+    "CollectionDate": null,
+    "ProcessedBy": "LUS001-OFF-110",
+    "VerificationNotes": "No criminal record found. Background check cleared.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  },
+  {
+    "Id": 2,
+    "CertificateNumber": "PC-LUS001-2024-002",
+    "ApplicantName": "Mary Mutale",
+    "ApplicantNRC": "987654/32/1",
+    "ApplicantPhone": "+260966333444",
+    "ApplicantEmail": "mary.mutale@email.com",
+    "Purpose": "Visa Application - United Kingdom",
+    "ApplicationDate": "2024-01-14T11:30:00Z",
+    "Status": "Under Review",
+    "IssuedDate": null,
+    "CollectionDate": null,
+    "ProcessedBy": "LUS001-OFF-111",
+    "VerificationNotes": "Background verification in progress.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  }
+]

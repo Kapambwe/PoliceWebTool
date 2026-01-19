@@ -1,0 +1,41 @@
+[
+  {
+    "DispatchId": 1,
+    "OfficerName": "Inspector John Banda",
+    "OfficerId": "LUS001-OFF-101",
+    "UnitNumber": "ZP-101",
+    "IncidentType": "Armed Robbery",
+    "Location": "Cairo Road, Lusaka CBD",
+    "Status": "Completed",
+    "DispatchTime": "2024-01-10T14:32:00Z",
+    "Latitude": -15.4170,
+    "Longitude": 28.2840,
+    "DispatchNotes": "Responded to armed robbery at mobile money booth. Secured scene and interviewed witnesses."
+  },
+  {
+    "DispatchId": 2,
+    "OfficerName": "Sergeant Alice Mwanza",
+    "OfficerId": "LUS001-OFF-102",
+    "UnitNumber": "ZP-105",
+    "IncidentType": "Domestic Disturbance",
+    "Location": "Flat 12B, Government Complex",
+    "Status": "En Route",
+    "DispatchTime": "2024-01-15T16:20:00Z",
+    "Latitude": -15.4175,
+    "Longitude": 28.2845,
+    "DispatchNotes": "Family dispute reported. Officers dispatched to mediate."
+  },
+  {
+    "DispatchId": 3,
+    "OfficerName": "Constable David Phiri",
+    "OfficerId": "LUS001-OFF-103",
+    "UnitNumber": "ZP-112",
+    "IncidentType": "Traffic Accident",
+    "Location": "Independence Avenue & Cairo Road Junction",
+    "Status": "On Scene",
+    "DispatchTime": "2024-01-15T17:05:00Z",
+    "Latitude": -15.4168,
+    "Longitude": 28.2838,
+    "DispatchNotes": "Minor traffic collision. No injuries. Clearing scene."
+  }
+]

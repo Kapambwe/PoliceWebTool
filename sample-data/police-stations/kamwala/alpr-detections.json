@@ -1,0 +1,53 @@
+[
+  {
+    "Id": 4,
+    "PlateNumber": "ACC 3456",
+    "VehicleMake": "Mercedes",
+    "VehicleModel": "Sprinter",
+    "VehicleColor": "Grey",
+    "DetectedAt": "2024-01-09T19:15:00Z",
+    "Location": "Nasser Road, Kamwala",
+    "Latitude": -15.4252,
+    "Longitude": 28.2952,
+    "CameraId": "CAM-LUS004-01",
+    "Confidence": 0.89,
+    "ImageUrl": "/images/alpr/lus004-001.jpg",
+    "IsWanted": true,
+    "IsStolen": false,
+    "Alerts": ["Vehicle connected to hardware store thefts - LUS004-2024-001"]
+  },
+  {
+    "Id": 5,
+    "PlateNumber": "ABC 7890",
+    "VehicleMake": "Toyota",
+    "VehicleModel": "Quantum",
+    "VehicleColor": "White",
+    "DetectedAt": "2024-01-11T17:00:00Z",
+    "Location": "Kabulonga Road, Kamwala Market",
+    "Latitude": -15.4248,
+    "Longitude": 28.2948,
+    "CameraId": "CAM-LUS004-02",
+    "Confidence": 0.85,
+    "ImageUrl": "/images/alpr/lus004-002.jpg",
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  },
+  {
+    "Id": 6,
+    "PlateNumber": "ABX 1111",
+    "VehicleMake": "BMW",
+    "VehicleModel": "X5",
+    "VehicleColor": "Black",
+    "DetectedAt": "2024-01-14T12:50:00Z",
+    "Location": "Kamwala Business Centre",
+    "Latitude": -15.4250,
+    "Longitude": 28.2950,
+    "CameraId": "CAM-LUS004-01",
+    "Confidence": 0.93,
+    "ImageUrl": "/images/alpr/lus004-003.jpg",
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  }
+]

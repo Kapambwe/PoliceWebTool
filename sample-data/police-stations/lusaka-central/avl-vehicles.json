@@ -1,0 +1,26 @@
+[
+  {
+    "VehicleId": "VEH-LUS001-101",
+    "UnitNumber": "ZP-101",
+    "Status": "Available",
+    "Latitude": -15.4167,
+    "Longitude": 28.2833,
+    "Heading": 90,
+    "Speed": 0,
+    "LastUpdate": "2024-01-15T18:50:00Z",
+    "OfficerIds": ["LUS001-OFF-101", "LUS001-OFF-102"],
+    "IsEmergency": false
+  },
+  {
+    "VehicleId": "VEH-LUS001-102",
+    "UnitNumber": "ZP-105",
+    "Status": "Dispatched",
+    "Latitude": -15.4172,
+    "Longitude": 28.2840,
+    "Heading": 45,
+    "Speed": 35,
+    "LastUpdate": "2024-01-15T18:51:00Z",
+    "OfficerIds": ["LUS001-OFF-103"],
+    "IsEmergency": false
+  }
+]

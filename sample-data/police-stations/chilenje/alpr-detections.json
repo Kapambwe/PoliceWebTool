@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 11,
+    "PlateNumber": "ABX 7890",
+    "VehicleMake": "Mazda",
+    "VehicleModel": "Demio",
+    "VehicleColor": "Silver",
+    "DetectedAt": "2024-01-15T16:30:00Z",
+    "Location": "Chilenje Main Road",
+    "Latitude": -15.3850,
+    "Longitude": 28.3226,
+    "CameraId": "CAM-LUS002-01",
+    "Confidence": 0.92,
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  }
+]

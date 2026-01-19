@@ -1,0 +1,41 @@
+[
+  {
+    "DispatchId": 7,
+    "OfficerName": "Chief Inspector David Mwale",
+    "OfficerId": "LUS005-OFF-501",
+    "UnitNumber": "ZP-501",
+    "IncidentType": "Burglary",
+    "Location": "123 Woodlands Drive, Upmarket Area",
+    "Status": "Completed",
+    "DispatchTime": "2024-01-07T08:15:00Z",
+    "Latitude": -15.4398,
+    "Longitude": 28.3102,
+    "DispatchNotes": "Responded to high-value burglary report. Secured scene, conducted preliminary investigation, recovered security footage from property."
+  },
+  {
+    "DispatchId": 8,
+    "OfficerName": "Inspector Patricia Chanda",
+    "OfficerId": "LUS005-OFF-502",
+    "UnitNumber": "ZP-505",
+    "IncidentType": "Fraud Investigation",
+    "Location": "Woodlands Business Plaza",
+    "Status": "On Scene",
+    "DispatchTime": "2024-01-10T09:45:00Z",
+    "Latitude": -15.4402,
+    "Longitude": 28.3098,
+    "DispatchNotes": "Attended fraud report at business premises. Collected transaction records and statements. Coordinated with bank fraud department."
+  },
+  {
+    "DispatchId": 9,
+    "OfficerName": "Sergeant Ismail Mwale",
+    "OfficerId": "LUS005-OFF-503",
+    "UnitNumber": "ZP-508",
+    "IncidentType": "Hijacking",
+    "Location": "Addis Ababa Road, Woodlands",
+    "Status": "Completed",
+    "DispatchTime": "2024-01-13T14:25:00Z",
+    "Latitude": -15.4400,
+    "Longitude": 28.3100,
+    "DispatchNotes": "Responded to vehicle hijacking. Engaged in pursuit of hijacked vehicle. Successfully recovered vehicle and apprehended suspects."
+  }
+]

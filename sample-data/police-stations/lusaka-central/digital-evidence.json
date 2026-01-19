@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "EvidenceId": "DIGI-LUS001-2024-001",
+    "CaseNumber": "LUS001-2024-001",
+    "EvidenceType": "Video",
+    "FileName": "cairo_road_robbery_cctv.mp4",
+    "FileSize": 157286400,
+    "FileSizeDisplay": "150 MB",
+    "CollectedDate": "2024-01-10T15:00:00Z",
+    "CollectedBy": "Det. Sarah Phiri",
+    "Description": "CCTV footage from mobile money booth showing armed robbery",
+    "HashValue": "a1b2c3d4e5f6...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/lusaka-central/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Det. Sarah Phiri",
+        "Action": "Collected",
+        "DateTime": "2024-01-10T15:00:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "EvidenceId": "DIGI-LUS001-2024-002",
+    "CaseNumber": "LUS001-2024-001",
+    "EvidenceType": "Image",
+    "FileName": "suspect_motorcycle_plate.jpg",
+    "FileSize": 2097152,
+    "FileSizeDisplay": "2 MB",
+    "CollectedDate": "2024-01-10T16:30:00Z",
+    "CollectedBy": "Det. Sarah Phiri",
+    "Description": "Enhanced image of motorcycle license plate from CCTV",
+    "HashValue": "z9y8x7w6v5u4...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/lusaka-central/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Det. Sarah Phiri",
+        "Action": "Collected",
+        "DateTime": "2024-01-10T16:30:00Z"
+      }
+    ]
+  }
+]

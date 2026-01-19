@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 1,
+    "CertificateNumber": "PC-LUS003-2024-001",
+    "ApplicantName": "Dorothy Kaponda",
+    "ApplicantNRC": "456789/12/3",
+    "ApplicantPhone": "+260966445566",
+    "ApplicantEmail": "dorothy.kaponda@email.com",
+    "Purpose": "Employment - Teaching Position",
+    "ApplicationDate": "2024-01-09T10:00:00Z",
+    "Status": "Approved",
+    "IssuedDate": "2024-01-11T15:00:00Z",
+    "CollectionDate": "2024-01-12T09:30:00Z",
+    "ProcessedBy": "LUS003-OFF-206",
+    "VerificationNotes": "No criminal record found. Background check completed successfully.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  },
+  {
+    "Id": 2,
+    "CertificateNumber": "PC-LUS003-2024-002",
+    "ApplicantName": "Vincent Sikaulu",
+    "ApplicantNRC": "321654/78/9",
+    "ApplicantPhone": "+260977667788",
+    "ApplicantEmail": "vincent.sikaulu@email.com",
+    "Purpose": "Visa Application - South Africa",
+    "ApplicationDate": "2024-01-13T14:15:00Z",
+    "Status": "Approved",
+    "IssuedDate": "2024-01-15T10:30:00Z",
+    "CollectionDate": null,
+    "ProcessedBy": "LUS003-OFF-207",
+    "VerificationNotes": "International background verification completed. No issues found.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  }
+]

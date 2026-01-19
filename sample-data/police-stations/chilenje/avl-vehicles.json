@@ -1,0 +1,14 @@
+[
+  {
+    "VehicleId": "VEH-LUS002-201",
+    "UnitNumber": "ZP-201",
+    "Status": "Available",
+    "Latitude": -15.3850,
+    "Longitude": 28.3226,
+    "Heading": 180,
+    "Speed": 0,
+    "LastUpdate": "2024-01-15T20:00:00Z",
+    "OfficerIds": ["LUS002-OFF-201"],
+    "IsEmergency": false
+  }
+]

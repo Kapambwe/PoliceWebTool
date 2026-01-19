@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "OfficerId": "LUS001-OFF-101",
+    "OfficerName": "Inspector John Banda",
+    "RecordingId": "BWC-20240115-001",
+    "StartTime": "2024-01-15T14:30:00Z",
+    "EndTime": "2024-01-15T16:45:00Z",
+    "Duration": 135,
+    "IncidentNumber": "LUS001-2024-001",
+    "Location": "Cairo Road, Lusaka CBD",
+    "FileSize": 2048000,
+    "IsEvidence": true,
+    "Status": "Archived",
+    "Tags": ["robbery", "evidence", "witness-interview"]
+  },
+  {
+    "Id": 2,
+    "OfficerId": "LUS001-OFF-103",
+    "OfficerName": "Constable David Phiri",
+    "RecordingId": "BWC-20240115-002",
+    "StartTime": "2024-01-15T17:00:00Z",
+    "EndTime": "2024-01-15T17:30:00Z",
+    "Duration": 30,
+    "IncidentNumber": "LUS001-2024-003",
+    "Location": "Independence Avenue",
+    "FileSize": 512000,
+    "IsEvidence": false,
+    "Status": "Active",
+    "Tags": ["traffic-accident", "routine"]
+  }
+]

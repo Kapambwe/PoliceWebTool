@@ -1,0 +1,12 @@
+[
+  {
+    "CaseId": 11,
+    "CaseNumber": "CR-LUS002-2024-011",
+    "CaseType": "Burglary",
+    "Status": "Active",
+    "OpenedDate": "2024-01-13T07:30:00Z",
+    "LeadInvestigator": "Det. Moses Phiri",
+    "VictimName": "Joseph Tembo",
+    "LastActivity": "2024-01-14T11:00:00Z"
+  }
+]

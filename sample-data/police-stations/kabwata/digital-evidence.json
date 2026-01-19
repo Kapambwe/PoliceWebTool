@@ -1,0 +1,73 @@
+[
+  {
+    "Id": 1,
+    "EvidenceId": "DIGI-LUS003-2024-001",
+    "CaseNumber": "LUS003-2024-001",
+    "EvidenceType": "Video",
+    "FileName": "kabwata_vehicle_theft_cctv.mp4",
+    "FileSize": 98304000,
+    "FileSizeDisplay": "93.75 MB",
+    "CollectedDate": "2024-01-08T10:00:00Z",
+    "CollectedBy": "Det. Robert Katongo",
+    "Description": "CCTV footage from residential compound showing vehicle theft",
+    "HashValue": "k9l8m7n6o5p4...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/kabwata/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Det. Robert Katongo",
+        "Action": "Collected",
+        "DateTime": "2024-01-08T10:00:00Z"
+      },
+      {
+        "Officer": "LUS003-OFF-201",
+        "Action": "Catalogued",
+        "DateTime": "2024-01-08T14:00:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "EvidenceId": "DIGI-LUS003-2024-002",
+    "CaseNumber": "LUS003-2024-001",
+    "EvidenceType": "Image",
+    "FileName": "vehicle_license_plate_enhanced.jpg",
+    "FileSize": 1048576,
+    "FileSizeDisplay": "1 MB",
+    "CollectedDate": "2024-01-08T11:00:00Z",
+    "CollectedBy": "Det. Robert Katongo",
+    "Description": "Enhanced image of vehicle license plate from CCTV",
+    "HashValue": "q3r2s1t0u9v8...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/kabwata/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Det. Robert Katongo",
+        "Action": "Collected",
+        "DateTime": "2024-01-08T11:00:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "EvidenceId": "DIGI-LUS003-2024-003",
+    "CaseNumber": "LUS003-2024-002",
+    "EvidenceType": "Image",
+    "FileName": "housebreaking_fingerprints.jpg",
+    "FileSize": 3145728,
+    "FileSizeDisplay": "3 MB",
+    "CollectedDate": "2024-01-10T09:00:00Z",
+    "CollectedBy": "Fingerprint Technician - Samu Moyo",
+    "Description": "Fingerprints lifted from broken door lock at housebreaking scene",
+    "HashValue": "w7x6y5z4a3b2...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/kabwata/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Fingerprint Technician - Samu Moyo",
+        "Action": "Collected",
+        "DateTime": "2024-01-10T09:00:00Z"
+      }
+    ]
+  }
+]

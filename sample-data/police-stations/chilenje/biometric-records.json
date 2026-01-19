@@ -1,0 +1,14 @@
+[
+  {
+    "PersonId": 2001,
+    "Name": "David Mwape",
+    "HasFaceRecord": true,
+    "FaceImageCount": 2,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "RightIndex", "LeftThumb"],
+    "HasDNAProfile": false,
+    "HasIrisScan": false,
+    "LastUpdated": "2024-01-10T09:00:00Z",
+    "EnrolledBy": "LUS002-OFF-203"
+  }
+]

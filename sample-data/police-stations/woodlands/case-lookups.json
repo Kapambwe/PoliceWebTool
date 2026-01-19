@@ -1,0 +1,43 @@
+[
+  {
+    "CaseId": 7,
+    "CaseNumber": "CR-LUS005-2024-001",
+    "CaseType": "Burglary",
+    "Status": "Active",
+    "OpenedDate": "2024-01-07T08:00:00Z",
+    "LeadInvestigator": "Det. Ronald Mwila",
+    "VictimName": "Professor Kenneth Sichone",
+    "SuspectCount": 2,
+    "WitnessCount": 1,
+    "EvidenceCount": 2,
+    "LastActivity": "2024-01-11T13:00:00Z"
+  },
+  {
+    "CaseId": 8,
+    "CaseNumber": "CR-LUS005-2024-002",
+    "CaseType": "Fraud - Bank",
+    "Status": "Under Investigation",
+    "OpenedDate": "2024-01-10T09:30:00Z",
+    "LeadInvestigator": "Det. Banking Fraud Unit",
+    "VictimName": "Woodlands Corporation Ltd",
+    "SuspectCount": 1,
+    "WitnessCount": 0,
+    "EvidenceCount": 2,
+    "LastActivity": "2024-01-13T14:00:00Z"
+  },
+  {
+    "CaseId": 9,
+    "CaseNumber": "CR-LUS005-2024-003",
+    "CaseType": "Hijacking",
+    "Status": "Closed",
+    "OpenedDate": "2024-01-13T14:20:00Z",
+    "ClosedDate": "2024-01-13T16:00:00Z",
+    "LeadInvestigator": "Det. Helena Kasonde",
+    "VictimName": "Vehicle Owner - James Moyo",
+    "SuspectCount": 2,
+    "WitnessCount": 2,
+    "EvidenceCount": 2,
+    "Outcome": "Suspects arrested and charged with hijacking and armed robbery",
+    "LastActivity": "2024-01-13T16:00:00Z"
+  }
+]

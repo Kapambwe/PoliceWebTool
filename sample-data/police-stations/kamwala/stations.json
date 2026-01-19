@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 4,
+    "Type": "Station",
+    "Name": "Kamwala Police Station",
+    "StationCode": "LUS004",
+    "DistrictId": 1,
+    "IsActive": true,
+    "ContactNumber": "+260211234890",
+    "EmergencyNumber": "991",
+    "Email": "kamwala@police.gov.zm",
+    "Address": "Nasser Road, Kamwala",
+    "Latitude": -15.4250,
+    "Longitude": 28.2950,
+    "JurisdictionAreaId": 4,
+    "OfficerInCharge": "Inspector Grace Zulu",
+    "NumberOfOfficers": 38,
+    "OpeningHours": "24/7",
+    "Notes": "Police station serving Kamwala and surrounding commercial areas",
+    "CreatedDate": "2022-04-10T08:00:00Z"
+  }
+]

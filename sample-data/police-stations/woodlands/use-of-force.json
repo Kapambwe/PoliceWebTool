@@ -1,0 +1,25 @@
+[
+  {
+    "Id": 3,
+    "ReportId": "UOF-LUS005-2024-001",
+    "OfficerId": "LUS005-OFF-503",
+    "OfficerName": "Sergeant Ismail Mwale",
+    "IncidentNumber": "LUS005-2024-003",
+    "IncidentDate": "2024-01-13T14:25:00Z",
+    "Location": "Addis Ababa Road, Woodlands",
+    "SubjectName": "Victor Mumba",
+    "SubjectAge": 29,
+    "ForceType": "Weapon Deployment",
+    "ForceLevel": "High",
+    "WeaponUsed": "Service weapon - warning shots",
+    "InjuryToSubject": "Gunshot wound - leg",
+    "InjuryToOfficer": "None",
+    "Justification": "Suspect armed with firearm during vehicle hijacking. Posed immediate threat to officer and public. Warning shots fired to prevent weapon use. Suspect wounded during apprehension when attempting to discharge weapon.",
+    "WitnessOfficers": ["LUS005-OFF-504"],
+    "BodyCameraFootage": "BWC-20240113-001",
+    "SupervisorReview": "Justified use of force in response to armed threat. Officer followed protocol. Incident appropriately documented.",
+    "ReviewedBy": "Chief Inspector David Mwale",
+    "ReviewDate": "2024-01-13T17:00:00Z",
+    "Status": "Approved"
+  }
+]

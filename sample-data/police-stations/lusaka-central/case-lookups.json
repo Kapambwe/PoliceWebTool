@@ -1,0 +1,30 @@
+[
+  {
+    "CaseId": 1,
+    "CaseNumber": "CR-LUS001-2024-001",
+    "CaseType": "Robbery",
+    "Status": "Active",
+    "OpenedDate": "2024-01-10T14:30:00Z",
+    "LeadInvestigator": "Det. Sarah Phiri",
+    "VictimName": "Grace Mwanza",
+    "SuspectCount": 2,
+    "WitnessCount": 3,
+    "EvidenceCount": 4,
+    "LastActivity": "2024-01-14T10:00:00Z"
+  },
+  {
+    "CaseId": 2,
+    "CaseNumber": "CR-LUS001-2024-002",
+    "CaseType": "Assault",
+    "Status": "Closed",
+    "OpenedDate": "2024-01-08T19:45:00Z",
+    "ClosedDate": "2024-01-12T15:00:00Z",
+    "LeadInvestigator": "Det. Michael Mwale",
+    "VictimName": "Thomas Zulu",
+    "SuspectCount": 1,
+    "WitnessCount": 3,
+    "EvidenceCount": 3,
+    "Outcome": "Suspect convicted - 2 years imprisonment",
+    "LastActivity": "2024-01-12T15:00:00Z"
+  }
+]

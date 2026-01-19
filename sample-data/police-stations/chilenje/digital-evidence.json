@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 11,
+    "EvidenceId": "DIGI-LUS002-2024-011",
+    "CaseNumber": "LUS002-2024-011",
+    "EvidenceType": "Image",
+    "FileName": "chilenje_burglary_fingerprints.jpg",
+    "FileSize": 1048576,
+    "FileSizeDisplay": "1 MB",
+    "CollectedDate": "2024-01-13T08:00:00Z",
+    "CollectedBy": "Det. Moses Phiri",
+    "Description": "Fingerprints from burglary scene",
+    "HashValue": "abc123def456...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/chilenje/2024/01/"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "Id": 5,
+    "CaseNumber": "CYBER-LUS005-2024-001",
+    "IncidentType": "Corporate Email Compromise",
+    "Severity": "Critical",
+    "Status": "UnderInvestigation",
+    "ReportedDate": "2024-01-10T09:45:00Z",
+    "VictimName": "Woodlands Corporation Ltd",
+    "VictimContact": "+260211234567",
+    "Description": "Executive email account compromised. Fraudulent transfers totaling ZMW 180,000 made to external accounts. Multiple follow-up attempts detected.",
+    "SuspectInformation": "Account access from foreign IP addresses. Credential harvesting phishing emails sent.",
+    "DigitalEvidence": ["Email logs", "IP geolocation", "Phishing emails", "Transaction trails"],
+    "IPAddresses": ["197.32.*.***", "190.104.*.***"],
+    "AssignedInvestigator": "Det. Cyber Unit - Jide Mumba",
+    "LastUpdated": "2024-01-13T14:00:00Z"
+  },
+  {
+    "Id": 6,
+    "CaseNumber": "CYBER-LUS005-2024-002",
+    "IncidentType": "Data Breach",
+    "Severity": "Critical",
+    "Status": "Active",
+    "ReportedDate": "2024-01-12T16:00:00Z",
+    "VictimName": "Woodlands Medical Centre",
+    "VictimContact": "+260211987654",
+    "Description": "Healthcare facility suffered data breach. Patient records compromised. Ransom demand received. Patient data (names, medical history, insurance) exposed.",
+    "SuspectInformation": "Ransomware group known as 'CyberZulu'. Bitcoin payment address provided.",
+    "DigitalEvidence": ["Ransom note", "Encryption keys", "Malware samples", "Network logs"],
+    "AssignedInvestigator": "Det. Cyber Unit - Kamalo Banda",
+    "LastUpdated": "2024-01-14T10:30:00Z"
+  }
+]

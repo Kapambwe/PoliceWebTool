@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "HotspotId": "HS-LUS001-01",
+    "Location": "Cairo Road & Independence Avenue",
+    "Latitude": -15.4168,
+    "Longitude": 28.2838,
+    "CrimeType": "Robbery",
+    "IncidentCount": 8,
+    "RiskScore": 0.85,
+    "PredictedIncidents": 3,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 4,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Incidents occur primarily on weekends between 18:00-22:00"
+  },
+  {
+    "Id": 2,
+    "HotspotId": "HS-LUS001-02",
+    "Location": "City Market Area",
+    "Latitude": -15.4180,
+    "Longitude": 28.2825,
+    "CrimeType": "Theft",
+    "IncidentCount": 15,
+    "RiskScore": 0.75,
+    "PredictedIncidents": 5,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 6,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Peak theft activity during market hours 09:00-17:00, especially Fridays and Saturdays"
+  }
+]

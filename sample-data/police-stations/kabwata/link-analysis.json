@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "EntityId": "PERSON-1003",
+    "EntityType": "Person",
+    "RelatedToId": "PERSON-1004",
+    "RelatedToType": "Person",
+    "RelationshipType": "Known Associate",
+    "Strength": 0.78,
+    "IncidentNumbers": ["LUS003-2024-001"],
+    "SharedLocations": ["Great North Road"],
+    "ContactFrequency": "Medium",
+    "Notes": "Seen together at scene of vehicle theft"
+  },
+  {
+    "Id": 2,
+    "EntityId": "PERSON-1003",
+    "EntityType": "Person",
+    "RelatedToId": "VEH-BAZ4567",
+    "RelatedToType": "Vehicle",
+    "RelationshipType": "Suspect User",
+    "Strength": 0.85,
+    "IncidentNumbers": ["LUS003-2024-001"],
+    "Notes": "Vehicle identified at checkpoint hours after theft report"
+  },
+  {
+    "Id": 3,
+    "EntityId": "PERSON-1005",
+    "EntityType": "Person",
+    "RelatedToId": "LOC-KABMALL",
+    "RelatedToType": "Location",
+    "RelationshipType": "Frequent Visitor",
+    "Strength": 0.65,
+    "SharedLocations": ["Kabwata Shopping Mall"],
+    "ContactFrequency": "Weekly",
+    "Notes": "Suspect previously detained for shoplifting at same location"
+  }
+]

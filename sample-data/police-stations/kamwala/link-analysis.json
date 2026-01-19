@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 4,
+    "EntityId": "PERSON-1006",
+    "EntityType": "Person",
+    "RelatedToId": "VEH-ACC3456",
+    "RelatedToType": "Vehicle",
+    "RelationshipType": "Operator",
+    "Strength": 0.90,
+    "IncidentNumbers": ["LUS004-2024-001"],
+    "Notes": "Suspect identified as operator of vehicle used in hardware store theft"
+  },
+  {
+    "Id": 5,
+    "EntityId": "PERSON-1007",
+    "EntityType": "Person",
+    "RelatedToId": "PERSON-1006",
+    "RelatedToType": "Person",
+    "RelationshipType": "Suspected Accomplice",
+    "Strength": 0.72,
+    "IncidentNumbers": ["LUS004-2024-001"],
+    "SharedLocations": ["Nasser Road"],
+    "ContactFrequency": "High",
+    "Notes": "Associates frequently seen together at crime scene area"
+  },
+  {
+    "Id": 6,
+    "EntityId": "PERSON-1007",
+    "EntityType": "Person",
+    "RelatedToId": "LOC-KAMMARKET",
+    "RelatedToType": "Location",
+    "RelationshipType": "Regular Location",
+    "Strength": 0.80,
+    "SharedLocations": ["Kabulonga Road Market"],
+    "ContactFrequency": "Daily",
+    "Notes": "Suspect frequents Kabulonga Road market area regularly"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "CaseId": 4,
+    "CaseNumber": "CR-LUS004-2024-001",
+    "CaseType": "Theft",
+    "Status": "Active",
+    "OpenedDate": "2024-01-09T10:30:00Z",
+    "LeadInvestigator": "Det. Emily Moyo",
+    "VictimName": "Kaluwa Moyo",
+    "SuspectCount": 1,
+    "WitnessCount": 1,
+    "EvidenceCount": 2,
+    "LastActivity": "2024-01-13T11:00:00Z"
+  },
+  {
+    "CaseId": 5,
+    "CaseNumber": "CR-LUS004-2024-002",
+    "CaseType": "Assault",
+    "Status": "Active",
+    "OpenedDate": "2024-01-11T16:45:00Z",
+    "LeadInvestigator": "Det. Kalichini Banda",
+    "VictimName": "Jabulani Mwenya",
+    "SuspectCount": 1,
+    "WitnessCount": 3,
+    "EvidenceCount": 2,
+    "LastActivity": "2024-01-12T09:00:00Z"
+  },
+  {
+    "CaseId": 6,
+    "CaseNumber": "CR-LUS004-2024-003",
+    "CaseType": "Fraud",
+    "Status": "Under Investigation",
+    "OpenedDate": "2024-01-14T13:00:00Z",
+    "LeadInvestigator": "Det. Fraud Unit",
+    "VictimName": "Chimuka Banda",
+    "SuspectCount": 1,
+    "WitnessCount": 0,
+    "EvidenceCount": 2,
+    "LastActivity": "2024-01-14T14:30:00Z"
+  }
+]

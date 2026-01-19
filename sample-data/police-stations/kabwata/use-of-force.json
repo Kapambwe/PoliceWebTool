@@ -1,0 +1,25 @@
+[
+  {
+    "Id": 1,
+    "ReportId": "UOF-LUS003-2024-001",
+    "OfficerId": "LUS003-OFF-203",
+    "OfficerName": "Constable Tessa Banda",
+    "IncidentNumber": "LUS003-2024-003",
+    "IncidentDate": "2024-01-12T11:25:00Z",
+    "Location": "Kabwata Shopping Mall",
+    "SubjectName": "Sibongile Njovu",
+    "SubjectAge": 32,
+    "ForceType": "Verbal Command",
+    "ForceLevel": "None",
+    "WeaponUsed": null,
+    "InjuryToSubject": "None",
+    "InjuryToOfficer": "None",
+    "Justification": "Subject was cooperative following apprehension by mall security. No force was required. Verbal commands sufficient for compliance.",
+    "WitnessOfficers": [],
+    "BodyCameraFootage": "BWC-20240112-001",
+    "SupervisorReview": "No use of force applied. Appropriate handling of situation.",
+    "ReviewedBy": "Superintendent Moses Phiri",
+    "ReviewDate": "2024-01-12T14:00:00Z",
+    "Status": "Approved"
+  }
+]

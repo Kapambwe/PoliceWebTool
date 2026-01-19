@@ -1,0 +1,27 @@
+[
+  {
+    "DispatchId": 11,
+    "OfficerName": "Sergeant Patrick Banda",
+    "OfficerId": "LUS002-OFF-201",
+    "UnitNumber": "ZP-201",
+    "IncidentType": "Burglary",
+    "Location": "Chilenje South",
+    "Status": "Completed",
+    "DispatchTime": "2024-01-13T07:35:00Z",
+    "Latitude": -15.3855,
+    "Longitude": 28.3230,
+    "DispatchNotes": "Responded to burglary report. Scene documented and fingerprints collected."
+  },
+  {
+    "DispatchId": 12,
+    "OfficerName": "Constable Mary Zulu",
+    "OfficerId": "LUS002-OFF-202",
+    "UnitNumber": "ZP-205",
+    "IncidentType": "Domestic Disturbance",
+    "Location": "Chilenje North, Block A",
+    "Status": "En Route",
+    "DispatchTime": "2024-01-15T19:10:00Z",
+    "Latitude": -15.3842,
+    "Longitude": 28.3220
+  }
+]

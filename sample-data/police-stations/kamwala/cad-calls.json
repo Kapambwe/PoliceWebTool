@@ -1,0 +1,53 @@
+[
+  {
+    "CallId": 4,
+    "CallNumber": "CAD-LUS004-20240109-001",
+    "CallerName": "Kaluwa Moyo",
+    "CallerPhone": "+260977345678",
+    "IncidentType": "Theft",
+    "Priority": "Medium",
+    "Status": "Dispatched",
+    "Location": "Nasser Road, Kamwala",
+    "Latitude": -15.4252,
+    "Longitude": 28.2952,
+    "Description": "Hardware store theft reported. Copper piping and electrical fixtures stolen overnight. Security alarm activated but suspects fled before arrival.",
+    "ReceivedAt": "2024-01-09T10:20:00Z",
+    "DispatchedAt": "2024-01-09T10:45:00Z",
+    "AssignedUnits": ["ZP-401"],
+    "CallTakerOfficerId": "DISP-006"
+  },
+  {
+    "CallId": 5,
+    "CallNumber": "CAD-LUS004-20240111-001",
+    "CallerName": "Market Vendor - Clement Phiri",
+    "CallerPhone": "+260966456789",
+    "IncidentType": "Assault",
+    "Priority": "High",
+    "Status": "Completed",
+    "Location": "Kabulonga Road, Kamwala Market",
+    "Latitude": -15.4248,
+    "Longitude": 28.2948,
+    "Description": "Violent altercation in market. Person stabbed with knife. Multiple witnesses present. Suspect still at scene.",
+    "ReceivedAt": "2024-01-11T16:35:00Z",
+    "DispatchedAt": "2024-01-11T16:50:00Z",
+    "AssignedUnits": ["ZP-405"],
+    "CallTakerOfficerId": "DISP-007"
+  },
+  {
+    "CallId": 6,
+    "CallNumber": "CAD-LUS004-20240114-001",
+    "CallerName": "Chimuka Banda",
+    "CallerPhone": "+260211567890",
+    "IncidentType": "Fraud",
+    "Priority": "Medium",
+    "Status": "Dispatched",
+    "Location": "Kamwala Business Centre",
+    "Latitude": -15.4250,
+    "Longitude": 28.2950,
+    "Description": "Property fraud reported. Fake land documents used in property transaction. Substantial financial loss reported.",
+    "ReceivedAt": "2024-01-14T13:00:00Z",
+    "DispatchedAt": "2024-01-14T13:15:00Z",
+    "AssignedUnits": ["ZP-412"],
+    "CallTakerOfficerId": "DISP-008"
+  }
+]
