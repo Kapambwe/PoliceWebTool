@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "DU3xV0AB",
+  "version": "9jSTugn8",
   "assets": [
     {
       "hash": "sha256-CPBjqaqxukq/GF2JbYIsTgi5NUxJFwe7PAOaAGl6+Ts=",
@@ -214,20 +214,20 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-R7WGwM/9E00Ia9qoyrzLPoqLWLDzVZfY0QDGP51ozwE=",
-      "url": "_framework/CompanyApp.Client.LawOrder.b39ti48uq7.wasm"
+      "hash": "sha256-nl6ykUo9bC+KB9VJcY4PkJCTUTcGakvDx7LzYaU2wo4=",
+      "url": "_framework/CompanyApp.Client.LawOrder.6n6rbf0jic.wasm"
     },
     {
-      "hash": "sha256-7GOmJrH1Iw8a5eZy6NdlQx0qLr3AdbWNNNGmgo4JRFA=",
-      "url": "_framework/CompanyApp.Components.Dashboard.Police.wbovjxsw0j.wasm"
+      "hash": "sha256-JGZAZmWXTk+pW29wAHFrrKun0y4SkvKJIy3BMlvcxqI=",
+      "url": "_framework/CompanyApp.Components.Dashboard.Police.s4bea8sljv.wasm"
     },
     {
-      "hash": "sha256-kT5u0ToII2QDdQ15sdfaFkIF+0U6W0USKvE4sgFzZlc=",
-      "url": "_framework/CompanyApp.Components.Police.1gpjj9kxyp.wasm"
+      "hash": "sha256-p1LoZR1syp0tjB03TUfVFZE+rxFJMK2mIspRglWt+Jg=",
+      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.78wirljp1d.wasm"
     },
     {
-      "hash": "sha256-kwAMTApAy8yO4Wty/YLuIwoEXPah5YXCVowTBaziNOQ=",
-      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.1byjrovyb8.wasm"
+      "hash": "sha256-w5WYlZMSV+mxHr2htza/N8g+I3uXk8WyxUdDbzMFj2g=",
+      "url": "_framework/CompanyApp.Components.Police.tgiff8d8lz.wasm"
     },
     {
       "hash": "sha256-7MB/AdpJ1M5QLPfFuGFjCLGIJyd1QJSLoYMVWiC8/QU=",
@@ -1106,7 +1106,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-5gaRnvsaKvg5tRW/WxGOsSNwRzRM3pv5FCXMj+9NiF4=",
+      "hash": "sha256-XkG7/FtS1qsMjf36YZP0/N0+DAC33tFWv7x7jwbzDCo=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1448,6 +1448,366 @@ self.assetsManifest = {
     {
       "hash": "sha256-8xNadz+zGvzX7iYp8D0KyeEZ3//AyZTgSQs8elLTdJI=",
       "url": "manifest.webmanifest"
+    },
+    {
+      "hash": "sha256-s+koz4Iu1pZNgxqPwWmBVmSG1eNZ0I1Bt0XhCp0xnoA=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/alpr-detections.json"
+    },
+    {
+      "hash": "sha256-77YwTNtNzRDlLYJYGPOmujeAX0nefF/gTBpHuCejqCo=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/authcomponent.json"
+    },
+    {
+      "hash": "sha256-lZ8yX1DZy+vhUJ9B1NG819q0kwQvw+YowEp8nGBlhFc=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/avl-vehicles.json"
+    },
+    {
+      "hash": "sha256-AlCpWu5KIa4zEmz2EsfoH/U30eayD1cqoYqTawPExms=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/biometric-records.json"
+    },
+    {
+      "hash": "sha256-mzDplio0Pk4MHAMdLpOCA0HYWwl8BzK22WXYbevpctA=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/body-camera-footage.json"
+    },
+    {
+      "hash": "sha256-SBo0x6LpDCzb2YCjzrGkfb3Sb+Sw6ZW3xJXmcR9E8X0=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/cad-calls.json"
+    },
+    {
+      "hash": "sha256-qEfmKR4YRxSnfC+3CVvEUiDBuP0CQT4tCnOA5JtRc6M=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/case-lookups.json"
+    },
+    {
+      "hash": "sha256-Vb0oCsvOQvu5AGmAsJbRfleFeyoefmpR/y89OWI9Ngo=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/certificates.json"
+    },
+    {
+      "hash": "sha256-1j71cgI2s5nQpKN4qqX6lPe6lz40bLlMEAWEEdPsWYQ=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/crime-incidents.json"
+    },
+    {
+      "hash": "sha256-jCb19YpLWk5Rf5luvFrYouKzXatGJ8gs97bjnid7khE=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/cybercrime-cases.json"
+    },
+    {
+      "hash": "sha256-Jhmb/vl0v3An2QiTHUwxdbFnGQbarfE71ckKYwvps5k=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/digital-evidence.json"
+    },
+    {
+      "hash": "sha256-FLhW4er8oOhVMrrZ1IgOA/w6967wBOFRRfxmr030u5A=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/dispatches.json"
+    },
+    {
+      "hash": "sha256-cf/vS3YOUtxa4DOSZAqpucjvKjqtPrkrL68izAZUQ0U=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/incident-types.json"
+    },
+    {
+      "hash": "sha256-SeP2s13NgAsx+7fQmuwfKBfAqB+PLHYvjSaOCOJm2Tw=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/intelligence-alerts.json"
+    },
+    {
+      "hash": "sha256-Hf/GhvS5HrYOe0mmppkOQcl9yJLiQN29no3qj50XwCg=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/link-analysis.json"
+    },
+    {
+      "hash": "sha256-STsUxDvG/+fdnRvEpBFHMnHvQEzIZ1xbdj2u5unYZHY=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/predictive-analytics.json"
+    },
+    {
+      "hash": "sha256-kL/mchfOYbJ9PBI58gl7s4kBPobVVZDmrKKEwkeoUBU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/stations.json"
+    },
+    {
+      "hash": "sha256-1EB/GOxMWpd4MrbTEkZfOD/oVqSbgEGCKTlpgTXeWIc=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/use-of-force.json"
+    },
+    {
+      "hash": "sha256-fK41HiHy/4UYK98iH3EGfwVkZDqArVKL1BM1wvwAAfY=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/alpr-detections.json"
+    },
+    {
+      "hash": "sha256-YN6TJgjXFn7MN88ytA0PCJqFbQfjP+3RQ+BFJjC8dSU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/authcomponent.json"
+    },
+    {
+      "hash": "sha256-bduc+8ZCfAvr584KA+MlCiPNXvMvtOKt2zDT2OHlL8I=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/avl-vehicles.json"
+    },
+    {
+      "hash": "sha256-hY4vMH/3luacGr6UNZtvfMZN4hWNJcd+fKmbTNRAShk=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/biometric-records.json"
+    },
+    {
+      "hash": "sha256-wqyhD31gea5VyEHItmD1mHPuclQpEmHki6uRo1mDOXU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/body-camera-footage.json"
+    },
+    {
+      "hash": "sha256-7FAlG84FBf21rEOjFIk6rUU4x08HN2CFVMxevWtY644=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/cad-calls.json"
+    },
+    {
+      "hash": "sha256-flobtNSBgfsV/fVNfuk/dnfY9nyPwuz8ayoZNE51TVU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/case-lookups.json"
+    },
+    {
+      "hash": "sha256-99P9sE6oVN1/KtcB9dsKB2mmbWCoLNNJZe2zyW1RrSM=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/certificates.json"
+    },
+    {
+      "hash": "sha256-XThKVIRHC19apj778bmUOfoq3Ms6lMYa+VvVFOT8NF8=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/crime-incidents.json"
+    },
+    {
+      "hash": "sha256-hmu494l+xnoEITu1bk5vnggBIkUfWpzrLdfXlYSV2CM=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/cybercrime-cases.json"
+    },
+    {
+      "hash": "sha256-YcKYzqMRz25c1ycUIX3AGSt0vcZ0+lkIjmFS1zQJWQ8=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/digital-evidence.json"
+    },
+    {
+      "hash": "sha256-Yz/RBTbbBbMdCQOAW3K98fjDG0Da8sNfduT1QWhnlCc=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/dispatches.json"
+    },
+    {
+      "hash": "sha256-3DhRhzlKt613jnB95QRubYXbJvChIEL6jgxgA7OJh7o=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/incident-types.json"
+    },
+    {
+      "hash": "sha256-ISP5y2uW+6AW9hbDfpLEhboUbLHFiK4tdF7k3UmKEXk=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/intelligence-alerts.json"
+    },
+    {
+      "hash": "sha256-dl4B61iPHmUUir0CTAn895aPu4PvrMiAkfymS9oQAQE=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/link-analysis.json"
+    },
+    {
+      "hash": "sha256-36r4ckhMUn16w7M9yCFcXa73KrQqWB+du8fqFWGwJ5g=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/predictive-analytics.json"
+    },
+    {
+      "hash": "sha256-5GjtRthMXxd8jJaTHNeTlZf/T7QJ04toSbiyJ3/1r7k=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/stations.json"
+    },
+    {
+      "hash": "sha256-Sj6k3MV/9n6QeSHoTvodBnM4zC9rD687o2BUXzNRX4Q=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/use-of-force.json"
+    },
+    {
+      "hash": "sha256-LKPOrn7oAynK/ee6zOKpvfbF8ajyrJ/T/aAJcs0TB2U=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/alpr-detections.json"
+    },
+    {
+      "hash": "sha256-aubTuW7SZYySQVUMqqRnbuVfFaJZWBfoEZAAGhUMIbc=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/authcomponent.json"
+    },
+    {
+      "hash": "sha256-6LmxMt5JmsjL0HWom2GeE9O6RdPgc8NNQ67nNW+cWho=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/avl-vehicles.json"
+    },
+    {
+      "hash": "sha256-BAMd4gKxQFVZwGw7DI7HpsiY7aQMRaSq/z23cEYXvbA=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/biometric-records.json"
+    },
+    {
+      "hash": "sha256-4aH/7nLWtGNDTCy0TShtQhlSknXn44QNEqHSUqUHU0o=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/body-camera-footage.json"
+    },
+    {
+      "hash": "sha256-Qvkeq0gC9jbSEYMmFYOLfe/oBUMvhnlGY8ITV3Xqcq0=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/cad-calls.json"
+    },
+    {
+      "hash": "sha256-iXxkpvRFU0EfmnKvEphnrxM58BnpSQXU/DSg1wMT9bw=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/case-lookups.json"
+    },
+    {
+      "hash": "sha256-TeDMAm9Ls8TQhmtwCQyKh2PaH22G7cnyvISKoRJuwdQ=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/certificates.json"
+    },
+    {
+      "hash": "sha256-rAsLQHHOLayNypcUTN3CUeenQWUW+6oDycrCfD3/uNo=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/crime-incidents.json"
+    },
+    {
+      "hash": "sha256-FpZKev4Bj+QAWXmJNci1g4mU3v3WPmSJf+nxrTc6hJs=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/cybercrime-cases.json"
+    },
+    {
+      "hash": "sha256-3JWr3xmCKe/k90Gk13Isn1u0ixKCMD1ir0kJiexLe0s=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/digital-evidence.json"
+    },
+    {
+      "hash": "sha256-1CCIstOSqL0K0OKHRvuSdH1WZizmEakkN9+prRz5ep0=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/dispatches.json"
+    },
+    {
+      "hash": "sha256-GlQDk450J1fOOXp7xX/4jeMpHWOaOIebI2PuYs+ft2E=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/incident-types.json"
+    },
+    {
+      "hash": "sha256-7j7GpO60Y+OMNpt5h50F/4nMijx2HebLq+AsbSvR2cc=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/intelligence-alerts.json"
+    },
+    {
+      "hash": "sha256-OYXIE7a0mgAPR1cD/6gHvVclsUmva77VFA5jX4WCy5I=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/link-analysis.json"
+    },
+    {
+      "hash": "sha256-ccNQ/mIoyS0xV9zfNhBkHVxe2BYgYHCQAnTQ3kTNrD0=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/predictive-analytics.json"
+    },
+    {
+      "hash": "sha256-23yyTIed3aEei5Tcv3/q78gvkB2TXtKbL5oYZcQFwkE=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/stations.json"
+    },
+    {
+      "hash": "sha256-X/bLBljntgkg1sJfyXZfgsf4CfEb68eptgUavbNQZDw=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/use-of-force.json"
+    },
+    {
+      "hash": "sha256-PXf+t4XDYN6USCnxXIr2tOEmwImBSL1VTikRQRPhr6M=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/alpr-detections.json"
+    },
+    {
+      "hash": "sha256-lJ3jliDnA4PDDoalPL14zef0XkoDI+RBt725jCJQ+9w=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/authcomponent.json"
+    },
+    {
+      "hash": "sha256-70lbNfP4p4tshYJ8NLDIpqOFvoMS+u3A58aZdCk4KAI=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/avl-vehicles.json"
+    },
+    {
+      "hash": "sha256-H2qFV7ZKA2Wn/hD3xLz29awVMdUCUg1iAs+l17ZHHPw=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/biometric-records.json"
+    },
+    {
+      "hash": "sha256-6RXIe03/sbj7jC5tlrvdWmrzQcRhCffA07cyVKLk64Y=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/body-camera-footage.json"
+    },
+    {
+      "hash": "sha256-k0DlT9iVlpwe6Ao8v9fD2JJb55xMOf2QSfVrvH7QKvM=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/cad-calls.json"
+    },
+    {
+      "hash": "sha256-Ra1qdywXeGquGcQMqxbrUcM1o5GJOivi7tcPxca2Eys=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/case-lookups.json"
+    },
+    {
+      "hash": "sha256-gQ8ldisZtgfDwLa+IYJS/wvB7CsygZ0FlhLSqdSB8po=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/certificates.json"
+    },
+    {
+      "hash": "sha256-6lRNx+TTZw0ntT8edgc0ZMTnjIudNiN0yuDI6aqzrWU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/crime-incidents.json"
+    },
+    {
+      "hash": "sha256-H2mTFnTVZL5JUwkPleUAKt3HZRuExmc7whybMJ2SfPE=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/cybercrime-cases.json"
+    },
+    {
+      "hash": "sha256-cNEYbIR6/z2zqMDnD1kMF05E56tli6Fli0TKww6+xSU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/digital-evidence.json"
+    },
+    {
+      "hash": "sha256-hNT0IyMhiMOF5ci4tfVVxw2eVSA7MdO6bMynHIF74GE=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/dispatches.json"
+    },
+    {
+      "hash": "sha256-DxI+6bV7QrmbMdfJg/T4eTbhVMk4UUSHLQYl65DID6c=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/incident-types.json"
+    },
+    {
+      "hash": "sha256-dMhlYZZdpSQUMlLzLQI9wr6GfgeN4Cn3bvWwf89nr0o=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/intelligence-alerts.json"
+    },
+    {
+      "hash": "sha256-lKj9RlZC3mx/Uk5o71aamzlHFyYdMtPGtXC0rYBRC/w=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/link-analysis.json"
+    },
+    {
+      "hash": "sha256-EjYJBfh+mUk2Ei9ZtMvl9l5VvIIQ42OFWOuxJ/9JPSw=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/predictive-analytics.json"
+    },
+    {
+      "hash": "sha256-alupKvlgmcoDJ8HoUjvfNDEBhFKvMIIM2F3wfUgFh6c=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/stations.json"
+    },
+    {
+      "hash": "sha256-EyQQrlPWc9KMp18IDKWgx0F0bAxfBEIRzn6NBv+wwwg=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/use-of-force.json"
+    },
+    {
+      "hash": "sha256-DOt70WM/AzluDq+fjwf4UxwA7rS0vhcaDEphK3Nmt1w=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/alpr-detections.json"
+    },
+    {
+      "hash": "sha256-xfa47xeOBMX2VFhhFDHFBop4wKy5+KATmNiXdwQTKGk=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/authcomponent.json"
+    },
+    {
+      "hash": "sha256-U9WH7CwOQvANziSGzO2/DnFiq4fhCLSj7G6Oghe0q+Q=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/avl-vehicles.json"
+    },
+    {
+      "hash": "sha256-xSJPghMoRgntQi9FIC9Q5nmS/yIUBwFmO9B1XWBFgNU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/biometric-records.json"
+    },
+    {
+      "hash": "sha256-3Ii+1ZdtZlyxCMnhKKdC7H3aylJJo5gvLi6F88IK0/Y=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/body-camera-footage.json"
+    },
+    {
+      "hash": "sha256-IpqxDcJcLBN4mcz+5mmU5gcWzXxjE1zrrRMK8PhgMPc=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/cad-calls.json"
+    },
+    {
+      "hash": "sha256-kktdy1lT+B0KMvPNg9CX0nNt41lMI0TDkod3KTK58fI=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/case-lookups.json"
+    },
+    {
+      "hash": "sha256-GFfN5dbFmttx3YCi66fTSup/52BLbIv+w3VO3AvsRQM=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/certificates.json"
+    },
+    {
+      "hash": "sha256-6g64jI39Fwz7tGQSWHO8iVx0jbYz89Wdn8VgwhuwUnE=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/crime-incidents.json"
+    },
+    {
+      "hash": "sha256-uz1HYksGbBVFX2oKUADeTpRO+SsA6vPlEm0e/VVodtU=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/cybercrime-cases.json"
+    },
+    {
+      "hash": "sha256-Sf/zeJ16ZklLY4oQPhjFHU7KWvhsni3tFSSa6fqXL8s=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/digital-evidence.json"
+    },
+    {
+      "hash": "sha256-QW7GqNcyKTcWH6xgruH/uiqcz26Su2IGZsJvkRHPQ/k=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/dispatches.json"
+    },
+    {
+      "hash": "sha256-lGO2YiWJwKWLt2j/thGomIX6Kjf2xtLBKqKjREuUCC0=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/incident-types.json"
+    },
+    {
+      "hash": "sha256-wLcqNmwtF9iU2IKvayJiSc4b7u0c2CzdgbhPLARnJ9Q=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/intelligence-alerts.json"
+    },
+    {
+      "hash": "sha256-q4tei3FHL0COc04V4Ly/dbFeJN3/f7NLPZwHfb73BDw=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/link-analysis.json"
+    },
+    {
+      "hash": "sha256-qspgaUyS5MZi1D/9EToSvzVJmeFkIqVkbt+/kNoE018=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/predictive-analytics.json"
+    },
+    {
+      "hash": "sha256-urZwbBPonzOikEeXtGqojl+iYYVdbq7N0+pT+drSJj4=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/stations.json"
+    },
+    {
+      "hash": "sha256-kA/RpFqfH8WNZm029SjjnteVZMA8oJ2O234w2o5bHsM=",
+      "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/use-of-force.json"
     },
     {
       "hash": "sha256-s+koz4Iu1pZNgxqPwWmBVmSG1eNZ0I1Bt0XhCp0xnoA=",
