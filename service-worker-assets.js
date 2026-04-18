@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "9jSTugn8",
+  "version": "5ChSxFny",
   "assets": [
     {
       "hash": "sha256-CPBjqaqxukq/GF2JbYIsTgi5NUxJFwe7PAOaAGl6+Ts=",
@@ -214,20 +214,20 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-nl6ykUo9bC+KB9VJcY4PkJCTUTcGakvDx7LzYaU2wo4=",
-      "url": "_framework/CompanyApp.Client.LawOrder.6n6rbf0jic.wasm"
+      "hash": "sha256-IPCdHtEd67R0pNPyRGPbPmfFMn9MphbbCJUAaG7PYpE=",
+      "url": "_framework/CompanyApp.Client.LawOrder.476bc4medu.wasm"
     },
     {
-      "hash": "sha256-JGZAZmWXTk+pW29wAHFrrKun0y4SkvKJIy3BMlvcxqI=",
-      "url": "_framework/CompanyApp.Components.Dashboard.Police.s4bea8sljv.wasm"
+      "hash": "sha256-SHPEUVUm8Jeh5U4YugplBUIRuy/owpQHDaWZU0kSYvA=",
+      "url": "_framework/CompanyApp.Components.Dashboard.Police.k1gmmn0wfj.wasm"
     },
     {
-      "hash": "sha256-p1LoZR1syp0tjB03TUfVFZE+rxFJMK2mIspRglWt+Jg=",
-      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.78wirljp1d.wasm"
+      "hash": "sha256-ChkoZsvDGpf9yn7+dCnXl3jjBM51UT2NayIcENl840o=",
+      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.y1z6w8bk74.wasm"
     },
     {
-      "hash": "sha256-w5WYlZMSV+mxHr2htza/N8g+I3uXk8WyxUdDbzMFj2g=",
-      "url": "_framework/CompanyApp.Components.Police.tgiff8d8lz.wasm"
+      "hash": "sha256-USqiofcKn36eFnX7XWGeFCD1U+lCIYhk3/yH2mw4zRc=",
+      "url": "_framework/CompanyApp.Components.Police.vcq5l3ii0o.wasm"
     },
     {
       "hash": "sha256-7MB/AdpJ1M5QLPfFuGFjCLGIJyd1QJSLoYMVWiC8/QU=",
@@ -1106,7 +1106,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-XkG7/FtS1qsMjf36YZP0/N0+DAC33tFWv7x7jwbzDCo=",
+      "hash": "sha256-piZahVEtx0MCA0iXwUzriuWpT0FB/u1OnbCdlVL4ANg=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1150,7 +1150,7 @@ self.assetsManifest = {
       "url": "appsettings.Github.json"
     },
     {
-      "hash": "sha256-kVmgBwVN53yZ94NLSdSie047I03bhHKQ5XdrVEFcVOw=",
+      "hash": "sha256-G74Y+FvNLUACDGrM/G9Ehp3oOpoinmkz/S4EhcoxpBA=",
       "url": "appsettings.Production.json"
     },
     {
