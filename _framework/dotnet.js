@@ -1394,9 +1394,9 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "debugLevel": 0,
   "appsettings": [
     "../appsettings.Development.json",
+    "../appsettings.Github.json",
     "../appsettings.json",
-    "../appsettings.Production.json",
-    "../appsettings.Github.json"
+    "../appsettings.Production.json"
   ],
   "globalizationMode": "sharded",
   "extensions": {

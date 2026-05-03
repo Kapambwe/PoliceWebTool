@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "rPm7h/++",
+  "version": "RVXsxcsS",
   "assets": [
     {
       "hash": "sha256-CPBjqaqxukq/GF2JbYIsTgi5NUxJFwe7PAOaAGl6+Ts=",
@@ -1106,7 +1106,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-k/OR6Ora2viA3QqBVDryQFT2vd2+VTEPNKgS4QBHqic=",
+      "hash": "sha256-egMXXXejfCBEXE0gUPq9mxnYz5tP7j3ud1rIRWzI24k=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1150,7 +1150,7 @@ self.assetsManifest = {
       "url": "appsettings.Github.json"
     },
     {
-      "hash": "sha256-G74Y+FvNLUACDGrM/G9Ehp3oOpoinmkz/S4EhcoxpBA=",
+      "hash": "sha256-T5rFaU2slRgR085KXFoL4wPePttBFQQO72b0/XFiXgI=",
       "url": "appsettings.Production.json"
     },
     {
