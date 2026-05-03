@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "RVXsxcsS",
+  "version": "l/nSRu2Q",
   "assets": [
     {
       "hash": "sha256-CPBjqaqxukq/GF2JbYIsTgi5NUxJFwe7PAOaAGl6+Ts=",
@@ -1150,7 +1150,7 @@ self.assetsManifest = {
       "url": "appsettings.Github.json"
     },
     {
-      "hash": "sha256-T5rFaU2slRgR085KXFoL4wPePttBFQQO72b0/XFiXgI=",
+      "hash": "sha256-YdLNVnP5GEJn8xK+Osuu+Q7WwhVuPswFKi17f/0gR+c=",
       "url": "appsettings.Production.json"
     },
     {
