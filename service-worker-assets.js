@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "BbtJsb+8",
+  "version": "rPm7h/++",
   "assets": [
     {
       "hash": "sha256-CPBjqaqxukq/GF2JbYIsTgi5NUxJFwe7PAOaAGl6+Ts=",
@@ -214,8 +214,8 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-a/i66k//hatJPJyDgXJNbJ5mXaQ1fhNm+quqB/Hgmo8=",
-      "url": "_framework/CompanyApp.Client.LawOrder.7xo5rgbgbx.wasm"
+      "hash": "sha256-zoUHtYkSaCDIClVfSn+hRzpFU0LDn/lvJOwSyWYkc6E=",
+      "url": "_framework/CompanyApp.Client.LawOrder.uletrwpqw4.wasm"
     },
     {
       "hash": "sha256-OEuZ2kRpp3C3lTBYar/zO4aVkPR62WZLbnDuuoGyVlY=",
@@ -1106,7 +1106,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-9idJTDjwPsnkzZg1qV0SyJgu2+/m2zLCtruGDEzo/X4=",
+      "hash": "sha256-k/OR6Ora2viA3QqBVDryQFT2vd2+VTEPNKgS4QBHqic=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1146,7 +1146,7 @@ self.assetsManifest = {
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-aECpcWdmMJ8YgrZt+WHUgJ1hZWzSSlQker8rFSMvUF8=",
+      "hash": "sha256-V8ncsloTKTUCaQ1H7A5Mbx8x4IWbv+QSD6dqd52KI0w=",
       "url": "appsettings.Github.json"
     },
     {
