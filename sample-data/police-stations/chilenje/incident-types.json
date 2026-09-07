@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Burglary",
+    "Code": "BU",
+    "Description": "Breaking and entering residential or commercial property",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 2,
+    "Name": "Theft",
+    "Code": "TH",
+    "Description": "Theft of property",
+    "DefaultPriority": "Medium",
+    "RequiresReport": true
+  }
+]

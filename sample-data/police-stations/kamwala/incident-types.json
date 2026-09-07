@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Theft",
+    "Code": "TH",
+    "Description": "Unlawful taking of property",
+    "DefaultPriority": "Medium",
+    "RequiresReport": true
+  },
+  {
+    "Id": 2,
+    "Name": "Assault",
+    "Code": "AS",
+    "Description": "Physical attack on person with or without weapon",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 3,
+    "Name": "Fraud",
+    "Code": "FR",
+    "Description": "Deception for financial gain",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 4,
+    "Name": "Market Disturbance",
+    "Code": "MD",
+    "Description": "Public disorder in market area",
+    "DefaultPriority": "Low",
+    "RequiresReport": false
+  },
+  {
+    "Id": 5,
+    "Name": "Commercial Crime",
+    "Code": "CC",
+    "Description": "Crime involving business or commercial activities",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  }
+]

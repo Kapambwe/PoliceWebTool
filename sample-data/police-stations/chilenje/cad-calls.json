@@ -1,0 +1,17 @@
+[
+  {
+    "CallId": 11,
+    "CallNumber": "CAD-LUS002-20240115-011",
+    "CallerName": "Grace Mbewe",
+    "CallerPhone": "+260977888999",
+    "IncidentType": "Noise Complaint",
+    "Priority": "Low",
+    "Status": "Pending",
+    "Location": "Chilenje Township",
+    "Latitude": -15.3850,
+    "Longitude": 28.3226,
+    "Description": "Loud music from neighbor's house",
+    "ReceivedAt": "2024-01-15T20:00:00Z",
+    "CallTakerOfficerId": "DISP-003"
+  }
+]

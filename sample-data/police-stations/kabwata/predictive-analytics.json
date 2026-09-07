@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "HotspotId": "HS-LUS003-01",
+    "Location": "Great North Road, Kabwata",
+    "Latitude": -15.4350,
+    "Longitude": 28.2900,
+    "CrimeType": "Vehicle Theft",
+    "IncidentCount": 4,
+    "RiskScore": 0.68,
+    "PredictedIncidents": 2,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 3,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Vehicle thefts occur primarily during night hours 22:00-06:00, weekends higher frequency"
+  },
+  {
+    "Id": 2,
+    "HotspotId": "HS-LUS003-02",
+    "Location": "Kabwata Shopping Mall Area",
+    "Latitude": -15.4355,
+    "Longitude": 28.2895,
+    "CrimeType": "Retail Theft",
+    "IncidentCount": 6,
+    "RiskScore": 0.55,
+    "PredictedIncidents": 1,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 2,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Peak shoplifting activity during weekend hours 10:00-16:00"
+  }
+]

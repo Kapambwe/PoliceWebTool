@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 11,
+    "OfficerId": "LUS002-OFF-201",
+    "OfficerName": "Sergeant Patrick Banda",
+    "RecordingId": "BWC-LUS002-20240113-001",
+    "StartTime": "2024-01-13T07:30:00Z",
+    "EndTime": "2024-01-13T09:00:00Z",
+    "Duration": 90,
+    "IncidentNumber": "LUS002-2024-011",
+    "Location": "Chilenje South",
+    "FileSize": 1536000,
+    "IsEvidence": true,
+    "Status": "Archived",
+    "Tags": ["burglary", "evidence"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "PersonId": 1006,
+    "Name": "Lushomo Kaunda",
+    "HasFaceRecord": true,
+    "FaceImageCount": 4,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "RightIndex", "RightMiddle", "LeftThumb", "LeftIndex"],
+    "HasDNAProfile": true,
+    "HasIrisScan": false,
+    "Tattoos": [
+      {
+        "Id": 3,
+        "BodyLocation": "Chest",
+        "Description": "Cross symbol",
+        "GangAffiliation": null,
+        "Recorded": "2023-12-05T11:00:00Z"
+      },
+      {
+        "Id": 4,
+        "BodyLocation": "Right Arm",
+        "Description": "Initials LK",
+        "GangAffiliation": null,
+        "Recorded": "2023-12-05T11:15:00Z"
+      }
+    ],
+    "LastUpdated": "2024-01-09T12:00:00Z",
+    "EnrolledBy": "LUS004-OFF-401"
+  },
+  {
+    "PersonId": 1007,
+    "Name": "Jabulani Mwenya",
+    "HasFaceRecord": true,
+    "FaceImageCount": 2,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "LeftThumb"],
+    "HasDNAProfile": false,
+    "HasIrisScan": true,
+    "Tattoos": [],
+    "LastUpdated": "2024-01-11T14:30:00Z",
+    "EnrolledBy": "LUS004-OFF-402"
+  },
+  {
+    "PersonId": 1008,
+    "Name": "Rachael Nsama",
+    "HasFaceRecord": true,
+    "FaceImageCount": 2,
+    "HasFingerprints": false,
+    "EnrolledFingerprints": [],
+    "HasDNAProfile": false,
+    "HasIrisScan": false,
+    "Tattoos": [],
+    "LastUpdated": "2024-01-14T13:45:00Z",
+    "EnrolledBy": "LUS004-OFF-403"
+  }
+]

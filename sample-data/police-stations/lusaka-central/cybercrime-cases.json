@@ -1,0 +1,33 @@
+[
+  {
+    "Id": 1,
+    "CaseNumber": "CYBER-LUS001-2024-001",
+    "IncidentType": "Online Fraud",
+    "Severity": "High",
+    "Status": "UnderInvestigation",
+    "ReportedDate": "2024-01-12T10:00:00Z",
+    "VictimName": "Sarah Banda",
+    "VictimContact": "+260977555666",
+    "Description": "Mobile money fraud. Victim received call from person claiming to be bank official, transferred K5,000 to fraudulent account.",
+    "SuspectInformation": "Phone number: +260966777888, Mobile Money Account: 0966777888",
+    "DigitalEvidence": ["Call logs", "SMS messages", "Transaction receipts"],
+    "IPAddresses": ["41.77.*.***"],
+    "AssignedInvestigator": "Det. Cyber Unit - Joseph Zulu",
+    "LastUpdated": "2024-01-14T16:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CaseNumber": "CYBER-LUS001-2024-002",
+    "IncidentType": "Social Media Harassment",
+    "Severity": "Medium",
+    "Status": "Reported",
+    "ReportedDate": "2024-01-13T14:30:00Z",
+    "VictimName": "Peter Phiri",
+    "VictimContact": "+260966222333",
+    "Description": "Cyberbullying and harassment on Facebook. Fake accounts created using victim's photos.",
+    "SuspectInformation": "Facebook profiles under investigation",
+    "DigitalEvidence": ["Screenshots", "Profile links"],
+    "AssignedInvestigator": "Det. Cyber Unit - Grace Mwanza",
+    "LastUpdated": "2024-01-13T14:30:00Z"
+  }
+]

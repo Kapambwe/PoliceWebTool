@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 3,
+    "Type": "Station",
+    "Name": "Kabwata Police Station",
+    "StationCode": "LUS003",
+    "DistrictId": 1,
+    "IsActive": true,
+    "ContactNumber": "+260211567890",
+    "EmergencyNumber": "991",
+    "Email": "kabwata@police.gov.zm",
+    "Address": "Great North Road, Kabwata",
+    "Latitude": -15.4350,
+    "Longitude": 28.2900,
+    "JurisdictionAreaId": 3,
+    "OfficerInCharge": "Superintendent Moses Phiri",
+    "NumberOfOfficers": 50,
+    "OpeningHours": "24/7",
+    "Notes": "Police station serving Kabwata and surrounding residential areas",
+    "CreatedDate": "2022-03-20T08:00:00Z"
+  }
+]

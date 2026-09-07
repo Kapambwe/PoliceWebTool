@@ -1,0 +1,43 @@
+[
+  {
+    "CaseId": 1,
+    "CaseNumber": "CR-LUS003-2024-001",
+    "CaseType": "Vehicle Theft",
+    "Status": "Active",
+    "OpenedDate": "2024-01-08T09:15:00Z",
+    "LeadInvestigator": "Det. Robert Katongo",
+    "VictimName": "Alinane Mwale",
+    "SuspectCount": 1,
+    "WitnessCount": 1,
+    "EvidenceCount": 2,
+    "LastActivity": "2024-01-12T14:30:00Z"
+  },
+  {
+    "CaseId": 2,
+    "CaseNumber": "CR-LUS003-2024-002",
+    "CaseType": "Housebreaking",
+    "Status": "Under Investigation",
+    "OpenedDate": "2024-01-10T07:45:00Z",
+    "LeadInvestigator": "Det. Mwila Mwanza",
+    "VictimName": "Chibesa Lungu",
+    "SuspectCount": 0,
+    "WitnessCount": 2,
+    "EvidenceCount": 3,
+    "LastActivity": "2024-01-13T10:00:00Z"
+  },
+  {
+    "CaseId": 3,
+    "CaseNumber": "CR-LUS003-2024-003",
+    "CaseType": "Shoplifting",
+    "Status": "Closed",
+    "OpenedDate": "2024-01-12T11:20:00Z",
+    "ClosedDate": "2024-01-12T15:00:00Z",
+    "LeadInvestigator": "Sergeant Kabwe Mwale",
+    "VictimName": "Namukolo Banda",
+    "SuspectCount": 1,
+    "WitnessCount": 2,
+    "EvidenceCount": 1,
+    "Outcome": "Suspect warned and community service ordered",
+    "LastActivity": "2024-01-12T15:00:00Z"
+  }
+]

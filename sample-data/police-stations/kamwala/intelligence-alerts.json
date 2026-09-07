@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 3,
+    "AlertId": "INTEL-LUS004-2024-001",
+    "Priority": "High",
+    "Category": "Commercial Crime",
+    "Title": "Coordinated hardware store theft ring",
+    "Description": "Intelligence indicates organized team targeting hardware stores across Kamwala and nearby areas. Multiple locations hit in coordinated operations.",
+    "Source": "Store Owners and CCTV Analysis",
+    "Reliability": "A - Completely Reliable",
+    "ReceivedDate": "2024-01-09T11:00:00Z",
+    "ValidUntil": "2024-01-22T23:59:59Z",
+    "TargetLocation": "Nasser Road Commercial Area and surrounding",
+    "SuspectInformation": "Suspects use grey Mercedes Sprinter van. Operate during night hours.",
+    "RecommendedAction": "Coordinate with commercial associations, increase night patrols, share intelligence with neighboring areas",
+    "Status": "Active",
+    "DisseminatedTo": ["Patrol Units", "CID", "Commercial Crime Unit"]
+  },
+  {
+    "Id": 4,
+    "AlertId": "INTEL-LUS004-2024-002",
+    "Priority": "High",
+    "Category": "Violent Crime",
+    "Title": "Market violence escalation alert",
+    "Description": "Increasing frequency of violent assaults in Kabulonga Road market area. Pattern suggests territorial disputes between different merchant groups.",
+    "Source": "Market Vendors and Police Reports",
+    "Reliability": "B - Usually Reliable",
+    "ReceivedDate": "2024-01-11T17:00:00Z",
+    "ValidUntil": "2024-01-28T23:59:59Z",
+    "TargetLocation": "Kabulonga Road Market",
+    "RecommendedAction": "Community policing meetings, increased market patrols, conflict resolution initiatives with merchant groups",
+    "Status": "Active",
+    "DisseminatedTo": ["Patrol Units", "Community Policing", "CID"]
+  }
+]

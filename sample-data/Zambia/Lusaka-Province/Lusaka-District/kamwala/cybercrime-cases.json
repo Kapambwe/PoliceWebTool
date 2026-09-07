@@ -1,0 +1,33 @@
+[
+  {
+    "Id": 3,
+    "CaseNumber": "CYBER-LUS004-2024-001",
+    "IncidentType": "Online Extortion",
+    "Severity": "High",
+    "Status": "UnderInvestigation",
+    "ReportedDate": "2024-01-10T14:00:00Z",
+    "VictimName": "Malama Investments Ltd",
+    "VictimContact": "+260211876543",
+    "Description": "Business threatened with negative online campaign unless extortion fee paid. Anonymous email with proof of database access.",
+    "SuspectInformation": "Email: secure-business@protonmail.com, Bitcoin wallet: 1A8d1m8f3u9k7l...",
+    "DigitalEvidence": ["Threatening emails", "Bitcoin transactions", "Database samples"],
+    "IPAddresses": ["190.115.*.***"],
+    "AssignedInvestigator": "Det. Cyber Unit - Solomon Banda",
+    "LastUpdated": "2024-01-13T15:30:00Z"
+  },
+  {
+    "Id": 4,
+    "CaseNumber": "CYBER-LUS004-2024-002",
+    "IncidentType": "Account Compromise",
+    "Severity": "Medium",
+    "Status": "Resolved",
+    "ReportedDate": "2024-01-11T09:30:00Z",
+    "VictimName": "Kamwala Tech Services",
+    "VictimContact": "+260966123456",
+    "Description": "Business email account compromised. Fraudulent invoices sent to clients. Estimated fraud loss ZMW 45,000.",
+    "SuspectInformation": "Access from remote location, IP not matching usual patterns",
+    "DigitalEvidence": ["Email logs", "IP addresses", "Forensic analysis"],
+    "AssignedInvestigator": "Det. Cyber Unit - Patricia Mwale",
+    "LastUpdated": "2024-01-12T10:00:00Z"
+  }
+]

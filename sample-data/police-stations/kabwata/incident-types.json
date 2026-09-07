@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Vehicle Theft",
+    "Code": "VT",
+    "Description": "Theft of motor vehicle",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 2,
+    "Name": "Housebreaking",
+    "Code": "HB",
+    "Description": "Unlawful entry into residential property",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 3,
+    "Name": "Shoplifting",
+    "Code": "SL",
+    "Description": "Theft from retail establishment",
+    "DefaultPriority": "Low",
+    "RequiresReport": true
+  },
+  {
+    "Id": 4,
+    "Name": "Malicious Damage",
+    "Code": "MD",
+    "Description": "Intentional damage to property",
+    "DefaultPriority": "Low",
+    "RequiresReport": false
+  },
+  {
+    "Id": 5,
+    "Name": "Illegal Entry",
+    "Code": "IE",
+    "Description": "Unlawful entry into property",
+    "DefaultPriority": "Medium",
+    "RequiresReport": true
+  }
+]

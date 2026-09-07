@@ -1,0 +1,41 @@
+[
+  {
+    "DispatchId": 1,
+    "OfficerName": "Sergeant Kabwe Mwale",
+    "OfficerId": "LUS003-OFF-201",
+    "UnitNumber": "ZP-301",
+    "IncidentType": "Vehicle Theft",
+    "Location": "Great North Road, Kabwata",
+    "Status": "Completed",
+    "DispatchTime": "2024-01-08T09:20:00Z",
+    "Latitude": -15.4352,
+    "Longitude": 28.2902,
+    "DispatchNotes": "Responded to vehicle theft report. Secured scene and took statement from property owner. Coordinated with traffic division for ALPR search."
+  },
+  {
+    "DispatchId": 2,
+    "OfficerName": "Constable Nkula Chansa",
+    "OfficerId": "LUS003-OFF-202",
+    "UnitNumber": "ZP-305",
+    "IncidentType": "Housebreaking",
+    "Location": "Plot 234, Kabwata Extension",
+    "Status": "Completed",
+    "DispatchTime": "2024-01-10T08:00:00Z",
+    "Latitude": -15.4348,
+    "Longitude": 28.2905,
+    "DispatchNotes": "Attended housebreaking scene. Collected evidence from entry point. Interviewed neighbors for witness statements."
+  },
+  {
+    "DispatchId": 3,
+    "OfficerName": "Constable Tessa Banda",
+    "OfficerId": "LUS003-OFF-203",
+    "UnitNumber": "ZP-312",
+    "IncidentType": "Shoplifting",
+    "Location": "Kabwata Shopping Mall",
+    "Status": "Completed",
+    "DispatchTime": "2024-01-12T11:25:00Z",
+    "Latitude": -15.4355,
+    "Longitude": 28.2895,
+    "DispatchNotes": "Responded to shoplifting report at supermarket. Suspect apprehended by security. Processed incident and warned suspect."
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "Id": 1,
+    "CaseNumber": "CYBER-LUS003-2024-001",
+    "IncidentType": "Online Fraud",
+    "Severity": "Medium",
+    "Status": "UnderInvestigation",
+    "ReportedDate": "2024-01-11T09:00:00Z",
+    "VictimName": "Christopher Zulu",
+    "VictimContact": "+260966556677",
+    "Description": "Facebook marketplace fraud. Victim sent money for non-existent laptop. Contact details belong to fraudster.",
+    "SuspectInformation": "Phone number: +260971234567, Email: market.deals@gmail.com",
+    "DigitalEvidence": ["Facebook messages", "Bank transaction records", "Payment confirmation"],
+    "IPAddresses": ["41.76.*.***"],
+    "AssignedInvestigator": "Det. Cyber Unit - Mwila Banda",
+    "LastUpdated": "2024-01-14T11:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CaseNumber": "CYBER-LUS003-2024-002",
+    "IncidentType": "Email Scam",
+    "Severity": "High",
+    "Status": "Active",
+    "ReportedDate": "2024-01-10T15:30:00Z",
+    "VictimName": "Lusaka Traders Union",
+    "VictimContact": "+260211234567",
+    "Description": "Phishing email targeting business accounts. Link redirected to fake payment portal. Multiple employees compromised.",
+    "SuspectInformation": "Email: support-lusaka@fake-domain.com, Domain registered recently",
+    "DigitalEvidence": ["Email headers", "Domain WHOIS", "Server logs"],
+    "AssignedInvestigator": "Det. Cyber Unit - Naome Mwale",
+    "LastUpdated": "2024-01-14T09:00:00Z"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 4,
+    "EvidenceId": "DIGI-LUS004-2024-001",
+    "CaseNumber": "LUS004-2024-001",
+    "EvidenceType": "Video",
+    "FileName": "hardware_store_cctv_theft.mp4",
+    "FileSize": 78643200,
+    "FileSizeDisplay": "75 MB",
+    "CollectedDate": "2024-01-09T11:30:00Z",
+    "CollectedBy": "Det. Emily Moyo",
+    "Description": "CCTV footage showing hardware store theft in progress",
+    "HashValue": "d4e5f6g7h8i9...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/kamwala/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Det. Emily Moyo",
+        "Action": "Collected",
+        "DateTime": "2024-01-09T11:30:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "EvidenceId": "DIGI-LUS004-2024-002",
+    "CaseNumber": "LUS004-2024-001",
+    "EvidenceType": "Image",
+    "FileName": "suspect_vehicle_alpr.jpg",
+    "FileSize": 1572864,
+    "FileSizeDisplay": "1.5 MB",
+    "CollectedDate": "2024-01-09T12:00:00Z",
+    "CollectedBy": "Traffic Division",
+    "Description": "ALPR detection of suspect vehicle from traffic camera",
+    "HashValue": "j1k2l3m4n5o6...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/kamwala/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Traffic Division",
+        "Action": "Collected",
+        "DateTime": "2024-01-09T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "EvidenceId": "DIGI-LUS004-2024-003",
+    "CaseNumber": "LUS004-2024-002",
+    "EvidenceType": "Video",
+    "FileName": "market_assault_cctv.mp4",
+    "FileSize": 45088768,
+    "FileSizeDisplay": "43 MB",
+    "CollectedDate": "2024-01-11T17:30:00Z",
+    "CollectedBy": "Det. Kalichini Banda",
+    "Description": "CCTV footage of market assault incident showing weapon use",
+    "HashValue": "p7q8r9s0t1u2...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/kamwala/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Det. Kalichini Banda",
+        "Action": "Collected",
+        "DateTime": "2024-01-11T17:30:00Z"
+      }
+    ]
+  }
+]

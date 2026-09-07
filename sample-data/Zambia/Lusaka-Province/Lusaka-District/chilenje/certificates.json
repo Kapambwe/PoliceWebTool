@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 11,
+    "CertificateNumber": "PC-LUS002-2024-011",
+    "ApplicantName": "Sarah Mulenga",
+    "ApplicantNRC": "555555/55/5",
+    "ApplicantPhone": "+260966444555",
+    "Purpose": "Employment - Security Guard",
+    "ApplicationDate": "2024-01-11T10:00:00Z",
+    "Status": "Approved",
+    "IssuedDate": "2024-01-13T15:00:00Z",
+    "ProcessedBy": "LUS002-OFF-210",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  }
+]

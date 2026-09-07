@@ -1,0 +1,36 @@
+[
+  {
+    "PersonId": 1001,
+    "Name": "Patrick Mwamba",
+    "HasFaceRecord": true,
+    "FaceImageCount": 3,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "RightIndex", "LeftThumb", "LeftIndex"],
+    "HasDNAProfile": false,
+    "HasIrisScan": false,
+    "Tattoos": [
+      {
+        "Id": 1,
+        "BodyLocation": "Right Forearm",
+        "Description": "Skull with wings",
+        "GangAffiliation": null,
+        "Recorded": "2023-07-15T10:00:00Z"
+      }
+    ],
+    "LastUpdated": "2023-12-10T14:00:00Z",
+    "EnrolledBy": "LUS001-OFF-105"
+  },
+  {
+    "PersonId": 1002,
+    "Name": "Mercy Banda",
+    "HasFaceRecord": true,
+    "FaceImageCount": 2,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "RightIndex", "RightMiddle", "LeftThumb", "LeftIndex"],
+    "HasDNAProfile": true,
+    "DNAProfile": "DNA-LUS001-1002",
+    "HasIrisScan": true,
+    "LastUpdated": "2023-11-20T09:30:00Z",
+    "EnrolledBy": "LUS001-OFF-106"
+  }
+]

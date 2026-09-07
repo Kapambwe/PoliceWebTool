@@ -1,0 +1,40 @@
+[
+  {
+    "Id": 11,
+    "IncidentNumber": "LUS002-2024-011",
+    "CrimeType": "Burglary",
+    "Severity": "Medium",
+    "Status": "UnderInvestigation",
+    "ReportedDate": "2024-01-13T07:30:00Z",
+    "IncidentDate": "2024-01-12T22:00:00Z",
+    "LocationAddress": "House 234, Chilenje South",
+    "Latitude": -15.3855,
+    "Longitude": 28.3230,
+    "Description": "Residential burglary. Thieves broke through security bars. TV, laptop and cash stolen.",
+    "ReportedBy": "Homeowner - Joseph Tembo",
+    "AssignedOfficerId": 11,
+    "VictimIds": [11],
+    "EvidenceIds": [11, 12],
+    "Notes": "Fingerprints collected. Similar pattern to recent burglaries in area.",
+    "LastUpdated": "2024-01-14T11:00:00Z",
+    "UpdatedBy": "Det. Moses Phiri"
+  },
+  {
+    "Id": 12,
+    "IncidentNumber": "LUS002-2024-012",
+    "CrimeType": "Assault",
+    "Severity": "Medium",
+    "Status": "Reported",
+    "ReportedDate": "2024-01-14T18:00:00Z",
+    "IncidentDate": "2024-01-14T17:30:00Z",
+    "LocationAddress": "Chilenje Market",
+    "Latitude": -15.3848,
+    "Longitude": 28.3228,
+    "Description": "Dispute between vendors escalated to physical altercation.",
+    "ReportedBy": "Market Chairman",
+    "VictimIds": [12],
+    "SuspectIds": [11],
+    "WitnessIds": [11, 12],
+    "Notes": "Both parties known to each other. Mediation attempted."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "VehicleId": "VEH-LUS005-501",
+    "UnitNumber": "ZP-501",
+    "Status": "Available",
+    "Latitude": -15.4400,
+    "Longitude": 28.3100,
+    "Heading": 270,
+    "Speed": 0,
+    "LastUpdate": "2024-01-15T18:50:00Z",
+    "OfficerIds": ["LUS005-OFF-501", "LUS005-OFF-502"],
+    "IsEmergency": false
+  },
+  {
+    "VehicleId": "VEH-LUS005-502",
+    "UnitNumber": "ZP-505",
+    "Status": "Available",
+    "Latitude": -15.4402,
+    "Longitude": 28.3098,
+    "Heading": 90,
+    "Speed": 0,
+    "LastUpdate": "2024-01-15T18:51:00Z",
+    "OfficerIds": ["LUS005-OFF-503"],
+    "IsEmergency": false
+  },
+  {
+    "VehicleId": "VEH-LUS005-503",
+    "UnitNumber": "ZP-508",
+    "Status": "Dispatched",
+    "Latitude": -15.4395,
+    "Longitude": 28.3105,
+    "Heading": 180,
+    "Speed": 55,
+    "LastUpdate": "2024-01-15T18:52:00Z",
+    "OfficerIds": ["LUS005-OFF-504", "LUS005-OFF-505"],
+    "IsEmergency": true
+  }
+]

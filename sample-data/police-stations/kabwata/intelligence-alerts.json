@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "AlertId": "INTEL-LUS003-2024-001",
+    "Priority": "Medium",
+    "Category": "Vehicle Theft Ring",
+    "Title": "Organized vehicle theft gang suspected in Kabwata area",
+    "Description": "Intelligence suggests coordinated vehicle thefts targeting residential areas. Pattern indicates professional operation with chop shop suspected.",
+    "Source": "Community Tips and ALPR Analysis",
+    "Reliability": "B - Usually Reliable",
+    "ReceivedDate": "2024-01-12T14:00:00Z",
+    "ValidUntil": "2024-01-25T23:59:59Z",
+    "TargetLocation": "Kabwata Residential Areas",
+    "SuspectInformation": "Multiple suspects, use white Toyota vehicles for reconnaissance",
+    "RecommendedAction": "Increase patrols in residential areas, monitor known chop shops, brief patrol officers on vehicle descriptions",
+    "Status": "Active",
+    "DisseminatedTo": ["Patrol Units", "CID", "Traffic Division"]
+  },
+  {
+    "Id": 2,
+    "AlertId": "INTEL-LUS003-2024-002",
+    "Priority": "Low",
+    "Category": "Petty Crime",
+    "Title": "Shoplifting trend at Kabwata Shopping Mall",
+    "Description": "Retail theft incidents increasing at shopping mall. Multiple repeat offenders identified.",
+    "Source": "Mall Management",
+    "Reliability": "A - Completely Reliable",
+    "ReceivedDate": "2024-01-10T10:00:00Z",
+    "ValidUntil": "2024-01-31T23:59:59Z",
+    "TargetLocation": "Kabwata Shopping Mall",
+    "RecommendedAction": "Coordinate with mall security, conduct patrols, identify repeat offenders",
+    "Status": "Under Investigation",
+    "DisseminatedTo": ["Patrol Units", "Community Policing"]
+  }
+]

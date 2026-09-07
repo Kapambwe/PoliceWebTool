@@ -1,0 +1,53 @@
+[
+  {
+    "Id": 1,
+    "PlateNumber": "BAZ 4567",
+    "VehicleMake": "Toyota",
+    "VehicleModel": "Corolla",
+    "VehicleColor": "White",
+    "DetectedAt": "2024-01-09T02:45:00Z",
+    "Location": "Cairo Road Checkpoint",
+    "Latitude": -15.4170,
+    "Longitude": 28.2840,
+    "CameraId": "CAM-LUS003-01",
+    "Confidence": 0.92,
+    "ImageUrl": "/images/alpr/lus003-001.jpg",
+    "IsWanted": true,
+    "IsStolen": true,
+    "Alerts": ["Vehicle reported stolen LUS003-2024-001"]
+  },
+  {
+    "Id": 2,
+    "PlateNumber": "ABS 2891",
+    "VehicleMake": "Nissan",
+    "VehicleModel": "Qashqai",
+    "VehicleColor": "Black",
+    "DetectedAt": "2024-01-10T15:20:00Z",
+    "Location": "Great North Road, Kabwata",
+    "Latitude": -15.4350,
+    "Longitude": 28.2900,
+    "CameraId": "CAM-LUS003-02",
+    "Confidence": 0.88,
+    "ImageUrl": "/images/alpr/lus003-002.jpg",
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  },
+  {
+    "Id": 3,
+    "PlateNumber": "AAA 5432",
+    "VehicleMake": "Honda",
+    "VehicleModel": "Civic",
+    "VehicleColor": "Red",
+    "DetectedAt": "2024-01-12T10:30:00Z",
+    "Location": "Kabwata Shopping Mall",
+    "Latitude": -15.4355,
+    "Longitude": 28.2895,
+    "CameraId": "CAM-LUS003-01",
+    "Confidence": 0.91,
+    "ImageUrl": "/images/alpr/lus003-003.jpg",
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  }
+]

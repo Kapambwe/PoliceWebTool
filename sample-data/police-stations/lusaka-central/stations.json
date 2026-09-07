@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Type": "Station",
+    "Name": "Lusaka Central Police Station",
+    "StationCode": "LUS001",
+    "DistrictId": 1,
+    "IsActive": true,
+    "ContactNumber": "+260211234567",
+    "EmergencyNumber": "991",
+    "Email": "lusaka.central@police.gov.zm",
+    "Address": "Independence Avenue, Lusaka CBD",
+    "Latitude": -15.4167,
+    "Longitude": 28.2833,
+    "JurisdictionAreaId": 1,
+    "OfficerInCharge": "Inspector General John Banda",
+    "NumberOfOfficers": 85,
+    "OpeningHours": "24/7",
+    "Notes": "Main police station in Lusaka Central Business District",
+    "CreatedDate": "2022-01-15T08:00:00Z"
+  }
+]

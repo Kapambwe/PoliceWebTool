@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 11,
+    "ReportId": "UOF-LUS002-2024-011",
+    "OfficerId": "LUS002-OFF-201",
+    "OfficerName": "Sergeant Patrick Banda",
+    "IncidentNumber": "LUS002-2024-012",
+    "IncidentDate": "2024-01-14T17:30:00Z",
+    "Location": "Chilenje Market",
+    "SubjectName": "Unknown",
+    "ForceType": "Verbal Commands",
+    "ForceLevel": "None",
+    "InjuryToSubject": "None",
+    "InjuryToOfficer": "None",
+    "Justification": "Verbal de-escalation successful",
+    "Status": "Approved"
+  }
+]

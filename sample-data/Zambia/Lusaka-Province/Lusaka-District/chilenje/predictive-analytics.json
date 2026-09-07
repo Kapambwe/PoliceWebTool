@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 11,
+    "HotspotId": "HS-LUS002-01",
+    "Location": "Chilenje South Residential Area",
+    "Latitude": -15.3855,
+    "Longitude": 28.3230,
+    "CrimeType": "Burglary",
+    "IncidentCount": 12,
+    "RiskScore": 0.78,
+    "PredictedIncidents": 4,
+    "TimeFrame": "Next 7 days",
+    "RecommendedPatrols": 5,
+    "AnalysisDate": "2024-01-15T08:00:00Z",
+    "HistoricalPattern": "Burglaries occur mainly at night 20:00-04:00"
+  }
+]

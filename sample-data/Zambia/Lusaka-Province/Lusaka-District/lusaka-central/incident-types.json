@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Armed Robbery",
+    "Code": "AR",
+    "Description": "Report of armed robbery in progress or completed",
+    "DefaultPriority": "High",
+    "RequiresReport": true
+  },
+  {
+    "Id": 2,
+    "Name": "Domestic Disturbance",
+    "Code": "DD",
+    "Description": "Domestic violence or family dispute",
+    "DefaultPriority": "Medium",
+    "RequiresReport": true
+  },
+  {
+    "Id": 3,
+    "Name": "Traffic Accident",
+    "Code": "TA",
+    "Description": "Motor vehicle collision",
+    "DefaultPriority": "Medium",
+    "RequiresReport": true
+  },
+  {
+    "Id": 4,
+    "Name": "Public Nuisance",
+    "Code": "PN",
+    "Description": "Disorderly conduct or public disturbance",
+    "DefaultPriority": "Low",
+    "RequiresReport": false
+  },
+  {
+    "Id": 5,
+    "Name": "Suspicious Activity",
+    "Code": "SA",
+    "Description": "Report of suspicious persons or activities",
+    "DefaultPriority": "Medium",
+    "RequiresReport": true
+  }
+]

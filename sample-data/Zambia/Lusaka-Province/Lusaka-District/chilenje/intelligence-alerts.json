@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 11,
+    "AlertId": "INTEL-LUS002-2024-011",
+    "Priority": "Medium",
+    "Category": "Property Crime",
+    "Title": "Burglary ring targeting Chilenje area",
+    "Description": "Series of residential burglaries with similar modus operandi",
+    "Source": "Crime Analysis",
+    "Reliability": "A - Reliable",
+    "ReceivedDate": "2024-01-14T09:00:00Z",
+    "ValidUntil": "2024-01-28T23:59:59Z",
+    "RecommendedAction": "Increase night patrols, community awareness",
+    "Status": "Active",
+    "DisseminatedTo": ["Patrol Units", "CID"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 7,
+    "EntityId": "PERSON-1009",
+    "EntityType": "Person",
+    "RelatedToId": "PERSON-1010",
+    "RelatedToType": "Person",
+    "RelationshipType": "Accomplice",
+    "Strength": 0.92,
+    "IncidentNumbers": ["LUS005-2024-001"],
+    "SharedLocations": ["Woodlands Drive"],
+    "ContactFrequency": "Very High",
+    "Notes": "Associates apprehended together at burglary scene. Prior criminal history together."
+  },
+  {
+    "Id": 8,
+    "EntityId": "PERSON-1010",
+    "EntityType": "Person",
+    "RelatedToId": "VEH-ABB2222",
+    "RelatedToType": "Vehicle",
+    "RelationshipType": "Getaway Driver",
+    "Strength": 0.88,
+    "IncidentNumbers": ["LUS005-2024-001"],
+    "Notes": "Vehicle identified at burglary scene during escape"
+  },
+  {
+    "Id": 9,
+    "EntityId": "PERSON-1011",
+    "EntityType": "Person",
+    "RelatedToId": "VEH-BAZ9999",
+    "RelatedToType": "Vehicle",
+    "RelationshipType": "Hijacker",
+    "Strength": 0.95,
+    "IncidentNumbers": ["LUS005-2024-003"],
+    "Notes": "Suspect apprehended with stolen vehicle. Armed hijacking suspect."
+  }
+]

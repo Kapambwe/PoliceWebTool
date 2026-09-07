@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 1,
+    "PlateNumber": "BAZ 1234",
+    "VehicleMake": "Toyota",
+    "VehicleModel": "Hilux",
+    "VehicleColor": "White",
+    "DetectedAt": "2024-01-15T14:20:00Z",
+    "Location": "Cairo Road & Independence Avenue",
+    "Latitude": -15.4168,
+    "Longitude": 28.2838,
+    "CameraId": "CAM-LUS001-01",
+    "Confidence": 0.95,
+    "ImageUrl": "/images/alpr/lus001-001.jpg",
+    "IsWanted": false,
+    "IsStolen": false,
+    "Alerts": []
+  },
+  {
+    "Id": 2,
+    "PlateNumber": "ABB 5678",
+    "VehicleMake": "Nissan",
+    "VehicleModel": "Navara",
+    "VehicleColor": "Blue",
+    "DetectedAt": "2024-01-15T15:45:00Z",
+    "Location": "Freedom Way",
+    "Latitude": -15.4165,
+    "Longitude": 28.2835,
+    "CameraId": "CAM-LUS001-02",
+    "Confidence": 0.88,
+    "ImageUrl": "/images/alpr/lus001-002.jpg",
+    "IsWanted": true,
+    "IsStolen": false,
+    "Alerts": ["Vehicle wanted in connection with robbery case INC-2024-001"]
+  }
+]

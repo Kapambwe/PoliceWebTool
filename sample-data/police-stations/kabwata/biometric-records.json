@@ -1,0 +1,57 @@
+[
+  {
+    "PersonId": 1003,
+    "Name": "Chilekela Moyo",
+    "HasFaceRecord": true,
+    "FaceImageCount": 2,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "RightIndex", "LeftThumb"],
+    "HasDNAProfile": false,
+    "HasIrisScan": false,
+    "Tattoos": [
+      {
+        "Id": 1,
+        "BodyLocation": "Left Shoulder",
+        "Description": "Dragon tattoo",
+        "GangAffiliation": null,
+        "Recorded": "2023-10-12T09:30:00Z"
+      }
+    ],
+    "LastUpdated": "2024-01-08T10:00:00Z",
+    "EnrolledBy": "LUS003-OFF-201"
+  },
+  {
+    "PersonId": 1004,
+    "Name": "Twafiq Banda",
+    "HasFaceRecord": true,
+    "FaceImageCount": 3,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "RightIndex", "RightMiddle", "LeftThumb"],
+    "HasDNAProfile": true,
+    "HasIrisScan": false,
+    "Tattoos": [],
+    "LastUpdated": "2023-11-20T14:15:00Z",
+    "EnrolledBy": "LUS003-OFF-202"
+  },
+  {
+    "PersonId": 1005,
+    "Name": "Sibongile Njovu",
+    "HasFaceRecord": true,
+    "FaceImageCount": 1,
+    "HasFingerprints": true,
+    "EnrolledFingerprints": ["RightThumb", "LeftThumb"],
+    "HasDNAProfile": false,
+    "HasIrisScan": false,
+    "Tattoos": [
+      {
+        "Id": 2,
+        "BodyLocation": "Right Ankle",
+        "Description": "Star symbol",
+        "GangAffiliation": null,
+        "Recorded": "2024-01-12T11:30:00Z"
+      }
+    ],
+    "LastUpdated": "2024-01-12T12:00:00Z",
+    "EnrolledBy": "LUS003-OFF-203"
+  }
+]

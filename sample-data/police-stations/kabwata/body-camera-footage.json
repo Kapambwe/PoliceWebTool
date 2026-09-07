@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "OfficerId": "LUS003-OFF-201",
+    "OfficerName": "Sergeant Kabwe Mwale",
+    "RecordingId": "BWC-20240108-001",
+    "StartTime": "2024-01-08T09:20:00Z",
+    "EndTime": "2024-01-08T11:30:00Z",
+    "Duration": 130,
+    "IncidentNumber": "LUS003-2024-001",
+    "Location": "Great North Road, Kabwata",
+    "FileSize": 1856000,
+    "IsEvidence": true,
+    "Status": "Archived",
+    "Tags": ["vehicle-theft", "evidence", "interview"]
+  },
+  {
+    "Id": 2,
+    "OfficerId": "LUS003-OFF-202",
+    "OfficerName": "Constable Nkula Chansa",
+    "RecordingId": "BWC-20240110-001",
+    "StartTime": "2024-01-10T08:00:00Z",
+    "EndTime": "2024-01-10T10:15:00Z",
+    "Duration": 135,
+    "IncidentNumber": "LUS003-2024-002",
+    "Location": "Plot 234, Kabwata Extension",
+    "FileSize": 1920000,
+    "IsEvidence": true,
+    "Status": "Archived",
+    "Tags": ["housebreaking", "evidence", "scene-investigation"]
+  },
+  {
+    "Id": 3,
+    "OfficerId": "LUS003-OFF-203",
+    "OfficerName": "Constable Tessa Banda",
+    "RecordingId": "BWC-20240112-001",
+    "StartTime": "2024-01-12T11:25:00Z",
+    "EndTime": "2024-01-12T12:00:00Z",
+    "Duration": 35,
+    "IncidentNumber": "LUS003-2024-003",
+    "Location": "Kabwata Shopping Mall",
+    "FileSize": 624000,
+    "IsEvidence": true,
+    "Status": "Active",
+    "Tags": ["shoplifting", "suspect-apprehension", "interview"]
+  }
+]

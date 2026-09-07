@@ -1,0 +1,25 @@
+[
+  {
+    "Id": 2,
+    "ReportId": "UOF-LUS004-2024-001",
+    "OfficerId": "LUS004-OFF-402",
+    "OfficerName": "Sergeant Mwale Chanda",
+    "IncidentNumber": "LUS004-2024-002",
+    "IncidentDate": "2024-01-11T16:50:00Z",
+    "Location": "Kabulonga Road, Kamwala Market",
+    "SubjectName": "Jabulani Mwenya",
+    "SubjectAge": 34,
+    "ForceType": "Physical Restraint",
+    "ForceLevel": "Medium",
+    "WeaponUsed": null,
+    "InjuryToSubject": "Minor injuries from restraint",
+    "InjuryToOfficer": "Knife wound to left arm - non-critical",
+    "Justification": "Subject was armed with knife and actively attacking victim. Officer applied necessary restraint to disarm and protect victim. Weapon recovered.",
+    "WitnessOfficers": ["LUS004-OFF-404"],
+    "BodyCameraFootage": "BWC-20240111-001",
+    "SupervisorReview": "Appropriate and justified use of force. Officer acted to protect victim from serious injury.",
+    "ReviewedBy": "Inspector Grace Zulu",
+    "ReviewDate": "2024-01-12T10:00:00Z",
+    "Status": "Approved"
+  }
+]

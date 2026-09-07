@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 3,
+    "CertificateNumber": "PC-LUS004-2024-001",
+    "ApplicantName": "Richard Kalombo",
+    "ApplicantNRC": "654321/11/5",
+    "ApplicantPhone": "+260977778899",
+    "ApplicantEmail": "richard.kalombo@email.com",
+    "Purpose": "Employment - Banking Position",
+    "ApplicationDate": "2024-01-05T09:00:00Z",
+    "Status": "Approved",
+    "IssuedDate": "2024-01-10T14:00:00Z",
+    "CollectionDate": "2024-01-11T10:00:00Z",
+    "ProcessedBy": "LUS004-OFF-405",
+    "VerificationNotes": "Clean background check. No criminal history found.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  },
+  {
+    "Id": 4,
+    "CertificateNumber": "PC-LUS004-2024-002",
+    "ApplicantName": "Olivia Sichone",
+    "ApplicantNRC": "789123/45/6",
+    "ApplicantPhone": "+260966999000",
+    "ApplicantEmail": "olivia.sichone@email.com",
+    "Purpose": "Travel - International Business Trip",
+    "ApplicationDate": "2024-01-12T11:00:00Z",
+    "Status": "Approved",
+    "IssuedDate": "2024-01-14T16:30:00Z",
+    "CollectionDate": null,
+    "ProcessedBy": "LUS004-OFF-406",
+    "VerificationNotes": "Travel clearance verified. No restrictions.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  }
+]

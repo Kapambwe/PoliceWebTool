@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 2,
+    "Type": "Station",
+    "Name": "Chilenje Police Station",
+    "StationCode": "LUS002",
+    "DistrictId": 1,
+    "IsActive": true,
+    "ContactNumber": "+260211234568",
+    "EmergencyNumber": "991",
+    "Email": "chilenje@police.gov.zm",
+    "Address": "Chilenje Township, Lusaka",
+    "Latitude": -15.3850,
+    "Longitude": 28.3226,
+    "JurisdictionAreaId": 2,
+    "OfficerInCharge": "Chief Inspector Alice Mwanza",
+    "NumberOfOfficers": 45,
+    "OpeningHours": "24/7",
+    "Notes": "Community police station serving Chilenje and surrounding townships",
+    "CreatedDate": "2021-06-01T08:00:00Z"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "CallId": 1,
+    "CallNumber": "CAD-LUS001-20240115-001",
+    "CallerName": "Anonymous",
+    "CallerPhone": "+260977123456",
+    "IncidentType": "Suspicious Activity",
+    "Priority": "Medium",
+    "Status": "Dispatched",
+    "Location": "Near Shoprite, Cairo Road",
+    "Latitude": -15.4172,
+    "Longitude": 28.2842,
+    "Description": "Group of suspicious individuals loitering near ATM machines",
+    "ReceivedAt": "2024-01-15T18:30:00Z",
+    "DispatchedAt": "2024-01-15T18:32:00Z",
+    "AssignedUnits": ["UNIT-101"],
+    "CallTakerOfficerId": "DISP-001"
+  },
+  {
+    "CallId": 2,
+    "CallNumber": "CAD-LUS001-20240115-002",
+    "CallerName": "John Tembo",
+    "CallerPhone": "+260966234567",
+    "IncidentType": "Theft",
+    "Priority": "High",
+    "Status": "Active",
+    "Location": "Bus Station, Dedan Kimathi Road",
+    "Latitude": -15.4185,
+    "Longitude": 28.2830,
+    "Description": "Pickpocket reported. Victim's wallet stolen in crowded bus station",
+    "ReceivedAt": "2024-01-15T18:45:00Z",
+    "AssignedUnits": [],
+    "CallTakerOfficerId": "DISP-002"
+  }
+]

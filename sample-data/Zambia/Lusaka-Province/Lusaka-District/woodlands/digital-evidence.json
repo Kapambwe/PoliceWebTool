@@ -1,0 +1,73 @@
+[
+  {
+    "Id": 7,
+    "EvidenceId": "DIGI-LUS005-2024-001",
+    "CaseNumber": "LUS005-2024-001",
+    "EvidenceType": "Video",
+    "FileName": "woodlands_burglary_cctv.mp4",
+    "FileSize": 156583936,
+    "FileSizeDisplay": "149.3 MB",
+    "CollectedDate": "2024-01-07T09:00:00Z",
+    "CollectedBy": "Det. Ronald Mwila",
+    "Description": "High-resolution CCTV footage of burglary at residence. Clear footage of suspects entering and exiting property.",
+    "HashValue": "m5n6o7p8q9r0...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/woodlands/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Det. Ronald Mwila",
+        "Action": "Collected",
+        "DateTime": "2024-01-07T09:00:00Z"
+      },
+      {
+        "Officer": "Evidence Officer",
+        "Action": "Catalogued",
+        "DateTime": "2024-01-07T13:00:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "EvidenceId": "DIGI-LUS005-2024-002",
+    "CaseNumber": "LUS005-2024-001",
+    "EvidenceType": "Document",
+    "FileName": "burglary_scene_photos.zip",
+    "FileSize": 45678912,
+    "FileSizeDisplay": "43.6 MB",
+    "CollectedDate": "2024-01-07T09:30:00Z",
+    "CollectedBy": "Forensic Photography Team",
+    "Description": "Scene photography documentation of burglary entry points and safe area",
+    "HashValue": "s1t2u3v4w5x6...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/woodlands/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Forensic Photography Team",
+        "Action": "Collected",
+        "DateTime": "2024-01-07T09:30:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "EvidenceId": "DIGI-LUS005-2024-003",
+    "CaseNumber": "LUS005-2024-003",
+    "EvidenceType": "Video",
+    "FileName": "hijacking_chase_footage.mp4",
+    "FileSize": 234881024,
+    "FileSizeDisplay": "224 MB",
+    "CollectedDate": "2024-01-13T15:00:00Z",
+    "CollectedBy": "Traffic Division",
+    "Description": "Dashcam and CCTV footage of vehicle hijacking and police pursuit",
+    "HashValue": "y7z8a9b0c1d2...",
+    "IsAuthenticated": true,
+    "StorageLocation": "/evidence/woodlands/2024/01/",
+    "ChainOfCustody": [
+      {
+        "Officer": "Traffic Division",
+        "Action": "Collected",
+        "DateTime": "2024-01-13T15:00:00Z"
+      }
+    ]
+  }
+]

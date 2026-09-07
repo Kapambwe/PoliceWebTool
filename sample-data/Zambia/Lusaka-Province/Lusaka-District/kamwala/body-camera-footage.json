@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 4,
+    "OfficerId": "LUS004-OFF-401",
+    "OfficerName": "Inspector Henry Mushili",
+    "RecordingId": "BWC-20240109-001",
+    "StartTime": "2024-01-09T10:45:00Z",
+    "EndTime": "2024-01-09T13:00:00Z",
+    "Duration": 135,
+    "IncidentNumber": "LUS004-2024-001",
+    "Location": "Nasser Road, Kamwala Commercial Area",
+    "FileSize": 1920000,
+    "IsEvidence": true,
+    "Status": "Archived",
+    "Tags": ["theft", "evidence", "cctv-review"]
+  },
+  {
+    "Id": 5,
+    "OfficerId": "LUS004-OFF-402",
+    "OfficerName": "Sergeant Mwale Chanda",
+    "RecordingId": "BWC-20240111-001",
+    "StartTime": "2024-01-11T16:50:00Z",
+    "EndTime": "2024-01-11T18:20:00Z",
+    "Duration": 90,
+    "IncidentNumber": "LUS004-2024-002",
+    "Location": "Kabulonga Road, Kamwala Market",
+    "FileSize": 1600000,
+    "IsEvidence": true,
+    "Status": "Archived",
+    "Tags": ["assault", "evidence", "suspect-apprehension"]
+  },
+  {
+    "Id": 6,
+    "OfficerId": "LUS004-OFF-403",
+    "OfficerName": "Constable Alice Mulenga",
+    "RecordingId": "BWC-20240114-001",
+    "StartTime": "2024-01-14T13:15:00Z",
+    "EndTime": "2024-01-14T14:45:00Z",
+    "Duration": 90,
+    "IncidentNumber": "LUS004-2024-003",
+    "Location": "Kamwala Business Centre",
+    "FileSize": 1600000,
+    "IsEvidence": true,
+    "Status": "Active",
+    "Tags": ["fraud", "evidence", "document-collection"]
+  }
+]

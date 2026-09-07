@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 5,
+    "CertificateNumber": "PC-LUS005-2024-001",
+    "ApplicantName": "Harriet Makumbi",
+    "ApplicantNRC": "111222/33/4",
+    "ApplicantPhone": "+260966223344",
+    "ApplicantEmail": "harriet.makumbi@email.com",
+    "Purpose": "Employment - Director Position",
+    "ApplicationDate": "2024-01-06T10:00:00Z",
+    "Status": "Approved",
+    "IssuedDate": "2024-01-09T15:00:00Z",
+    "CollectionDate": "2024-01-10T11:00:00Z",
+    "ProcessedBy": "LUS005-OFF-506",
+    "VerificationNotes": "Executive level clearance. International background check completed successfully.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  },
+  {
+    "Id": 6,
+    "CertificateNumber": "PC-LUS005-2024-002",
+    "ApplicantName": "Mwila Chanda",
+    "ApplicantNRC": "555666/77/8",
+    "ApplicantPhone": "+260977445566",
+    "ApplicantEmail": "mwila.chanda@email.com",
+    "Purpose": "Visa Application - United States",
+    "ApplicationDate": "2024-01-12T13:30:00Z",
+    "Status": "Under Review",
+    "IssuedDate": null,
+    "CollectionDate": null,
+    "ProcessedBy": "LUS005-OFF-507",
+    "VerificationNotes": "US embassy coordination in progress. Additional documents requested.",
+    "Fee": 50.00,
+    "PaymentStatus": "Paid"
+  }
+]
