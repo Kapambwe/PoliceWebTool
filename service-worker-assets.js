@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "btntoGvt",
+  "version": "vX7R7Q0Y",
   "assets": [
     {
       "hash": "sha256-L8hZTC166zvDIvxNDvnwSrop/Ve4LUsHYV/NmpIOYZA=",
@@ -1194,7 +1194,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-zrRVz+imMDM+RsMHGlKtSvesAsHGmiN5NtLc1k+5gGU=",
+      "hash": "sha256-xrw37LPLRwp1UkSyqhBEO95rB8LvMvl5BhRFDzPFGLU=",
       "url": "index.html"
     },
     {
