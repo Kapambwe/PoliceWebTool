@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "XbZhDWhg",
+  "version": "btntoGvt",
   "assets": [
     {
-      "hash": "sha256-CPBjqaqxukq/GF2JbYIsTgi5NUxJFwe7PAOaAGl6+Ts=",
+      "hash": "sha256-L8hZTC166zvDIvxNDvnwSrop/Ve4LUsHYV/NmpIOYZA=",
       "url": "404.html"
     },
     {
@@ -18,15 +18,15 @@ self.assetsManifest = {
       "url": "_content/CompanyApp.Components.Dashboard.Police/background.png"
     },
     {
-      "hash": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
+      "hash": "sha256-Q4NTLlisgAvNajNKkeD3c0qLXE5q8YduQMx9wE/SeNk=",
       "url": "_content/CompanyApp.Components.Dashboard.Police/exampleJsInterop.js"
     },
     {
-      "hash": "sha256-26pUC8XU1TEVJ46xwsIL4WTKUQv2C335c/ROhTZngT0=",
+      "hash": "sha256-MnRVwvj6Kr3KfUf15fDoKN7h1WIJXKdy1JTp5af3oww=",
       "url": "_content/CompanyApp.Components.Dashboard.Police/investigationMap.css"
     },
     {
-      "hash": "sha256-4kNE1/RhT2YYOz+E1reGBjMP2ObBAxLat/wOYKlxjos=",
+      "hash": "sha256-+ny8tw6jXo0OhofcCjIZ0WUTq/rq7cIsRBS7E3rzvUk=",
       "url": "_content/CompanyApp.Components.Dashboard.Police/investigationMap.js"
     },
     {
@@ -38,7 +38,7 @@ self.assetsManifest = {
       "url": "_content/CompanyApp.Components.Police.DecisionEngine/background.png"
     },
     {
-      "hash": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
+      "hash": "sha256-Q4NTLlisgAvNajNKkeD3c0qLXE5q8YduQMx9wE/SeNk=",
       "url": "_content/CompanyApp.Components.Police.DecisionEngine/exampleJsInterop.js"
     },
     {
@@ -50,11 +50,11 @@ self.assetsManifest = {
       "url": "_content/CompanyApp.Components.Police/background.png"
     },
     {
-      "hash": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
+      "hash": "sha256-Q4NTLlisgAvNajNKkeD3c0qLXE5q8YduQMx9wE/SeNk=",
       "url": "_content/CompanyApp.Components.Police/exampleJsInterop.js"
     },
     {
-      "hash": "sha256-UPQDq7xxpdujNjBllN/c3NfYdVlyvvijlQ5odDpYbII=",
+      "hash": "sha256-3v+gcNy9izT7T14cxjYaX/tSku9UPAia5+UN+fdHHCk=",
       "url": "_content/CompanyApp.Components.Police/js/leafletInterop.js"
     },
     {
@@ -206,28 +206,28 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-qYhHPKWtAxMUUXlgTcZ2y4TXqjbGfsUcfFnVGv0ni1c=",
-      "url": "_framework/CompanyApp.Client.LawOrder.l9teh7d0fj.wasm"
+      "hash": "sha256-VUbIzSFTtCsATAMmno6pLOG+LGcas569UaCr2ZK9cBQ=",
+      "url": "_framework/CompanyApp.Client.LawOrder.tqhepr33mc.wasm"
     },
     {
-      "hash": "sha256-0zcc7LE5CL6sTD6GDiIE9BsM1/rp+AqT2zhht+Moii8=",
-      "url": "_framework/CompanyApp.Components.ComplianceControls.1381xa8l3h.wasm"
+      "hash": "sha256-5ADrvZD6LrL6WfrlpQsPIdLjkweUFBP6uwkdesrr+Fo=",
+      "url": "_framework/CompanyApp.Components.ComplianceControls.8hzy3x14kl.wasm"
     },
     {
-      "hash": "sha256-TvHQu3+6YUpsSXKSDdlE6jaEpykn48IqxvOHBPJfvo4=",
-      "url": "_framework/CompanyApp.Components.Dashboard.Police.atb2drx3j1.wasm"
+      "hash": "sha256-QilLHEGJJ3KqJ/KM/LYKe45Mrgfx1FbcgfVlsq2l0SY=",
+      "url": "_framework/CompanyApp.Components.Dashboard.Police.myqp286bzo.wasm"
     },
     {
-      "hash": "sha256-94hibMclsNDiMAsX/+/zKGxBo+7EU38eKSC+G0xl51g=",
-      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.98ad6f2i0r.wasm"
+      "hash": "sha256-Mxd54OpkGqDKnW7nzc0R9RfIFyFt9QKaG0s1xbLiRgk=",
+      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.libevq5h4n.wasm"
     },
     {
-      "hash": "sha256-vnAn5CUqQ7TyKhbgi3ahWeeCHTWPql4tzOLp4zb/eCA=",
-      "url": "_framework/CompanyApp.Components.Police.yszk13pqtq.wasm"
+      "hash": "sha256-JN4VIF+kDYtKuz7r6XNhA1/4SsWToU23DavFPWOSdcI=",
+      "url": "_framework/CompanyApp.Components.Police.syk8iopyid.wasm"
     },
     {
-      "hash": "sha256-pwKzBpp3AdKTFJQ8SW4RVjh/vYBUSWK+qScrM46hM+8=",
-      "url": "_framework/CompanyApp.Integration.Contracts.9on25hxwdk.wasm"
+      "hash": "sha256-L2HmCPe3tGTsGRHa2DuYndwF2lHnnC5E0RG8RQ1TxIs=",
+      "url": "_framework/CompanyApp.Integration.Contracts.hkvwjhyxw0.wasm"
     },
     {
       "hash": "sha256-7MB/AdpJ1M5QLPfFuGFjCLGIJyd1QJSLoYMVWiC8/QU=",
@@ -1110,7 +1110,7 @@ self.assetsManifest = {
       "url": "_framework/de/Radzen.Blazor.resources.dxelnbfurb.wasm"
     },
     {
-      "hash": "sha256-d7x/VBMdHBBZsau9AlhJRPQAJreWPkFcL5xSFJyvn5Q=",
+      "hash": "sha256-lt4AlsxGmEakkno2jfj8FDMET7RUeGnk7MNWOE4lhDY=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -1162,23 +1162,23 @@ self.assetsManifest = {
       "url": "_framework/netstandard.8ql06rx5ae.wasm"
     },
     {
-      "hash": "sha256-jbecoSvU4urycsna8aHYF8o+sgyDuHFdo54YrJcRa54=",
+      "hash": "sha256-vhMHkwG4lkbiBysQB9jLmJni8rKm+/w+epeXYCEZuWI=",
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-V8ncsloTKTUCaQ1H7A5Mbx8x4IWbv+QSD6dqd52KI0w=",
+      "hash": "sha256-+nzG2KjwwPRzQ197nxpqVWFC+F23IpahZXyeH5RWo6I=",
       "url": "appsettings.Github.json"
     },
     {
-      "hash": "sha256-YdLNVnP5GEJn8xK+Osuu+Q7WwhVuPswFKi17f/0gR+c=",
+      "hash": "sha256-lZGgyB/cKrUg0CoEQnRL8yPsF87IEAdh9rjB/7FFBXo=",
       "url": "appsettings.Production.json"
     },
     {
-      "hash": "sha256-EmXWRS3VOVxxDAw5BDd5oWtY/iFHn9eGl19R9elswM8=",
+      "hash": "sha256-drIBXjqNxrThxp74W/cYEZBG7JX9aXSadTKklMzs8Fc=",
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=",
+      "hash": "sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=",
       "url": "css/app.css"
     },
     {
@@ -1194,23 +1194,23 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-oDFhmp8KA5ZUevlytsnQ0OgKKPPpPQfc8h3ikQDV3PY=",
+      "hash": "sha256-zrRVz+imMDM+RsMHGlKtSvesAsHGmiN5NtLc1k+5gGU=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-qE+et7VursH+A5D5IpX4782PTewIREfuGFj5WzubQxw=",
+      "hash": "sha256-HJ3gNx8Y7bQIjw8uvjdtOn741yXfXLD3nITG2S8bnUY=",
       "url": "js/investigationMap.js"
     },
     {
-      "hash": "sha256-1U5A54QR2YACzvHtXFxLaW1fkSLuO9QdAUQ3aFqPizM=",
+      "hash": "sha256-JLbwUgOd0sPAjoziGGC9afVAnvlXwxORKOij9lXMMPM=",
       "url": "js/leafletWrapper.js"
     },
     {
-      "hash": "sha256-7+ddj/hB3J9lc1rrdX8wVwYLtdO2BknDf4WQX8wJoE8=",
+      "hash": "sha256-lLixK8kcW9YHYELHX8wVkpPedNQOZ2heYFVveqjiyfA=",
       "url": "leaflet/Control.MiniMap.css"
     },
     {
-      "hash": "sha256-XUhGDjhQUj88SKTUsLyUGxXQ8FGcv+fGjZdMLHeu1oM=",
+      "hash": "sha256-N6kfEWX+8TVGmjNwgVxlW45I68hxREfIc6aeOCCVeK0=",
       "url": "leaflet/Control.MiniMap.js"
     },
     {
@@ -1234,11 +1234,11 @@ self.assetsManifest = {
       "url": "leaflet/images/marker-shadow.png"
     },
     {
-      "hash": "sha256-UvS+nviTs2vMu0ronLMFwZQHwffat8n1Pajw0S7BQ8w=",
+      "hash": "sha256-UdjXiMsBve1HARv7QH6VY6+SnEJItWzJuRg3jq1ICPk=",
       "url": "leaflet/leaflet-minimap/Control.MiniMap.css"
     },
     {
-      "hash": "sha256-0o12+zH2u25HB9pOuwj9lTgIZmFMoktZq4VXD/ZFcGw=",
+      "hash": "sha256-woTLbYU4WE+QsLx36xh5cBzZKj4I6pe0sM1rfDhAbXQ=",
       "url": "leaflet/leaflet-minimap/Control.MiniMap.js"
     },
     {
@@ -1258,7 +1258,7 @@ self.assetsManifest = {
       "url": "leaflet/leaflet-minimap/images/toggle.svg"
     },
     {
-      "hash": "sha256-Y0Ki5d8X0X1H2YiS590G4GgQTUnf6kP26s5XsJ2w76Q=",
+      "hash": "sha256-IV8Omcuoc8Y1mhT0Sv+yu2T+CxccDjkT2w8Qdb7SJ6Y=",
       "url": "leaflet/leaflet-src.js"
     },
     {
@@ -1270,11 +1270,11 @@ self.assetsManifest = {
       "url": "leaflet/leaflet-src.min.js"
     },
     {
-      "hash": "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=",
+      "hash": "sha256-M3v8pcq9A7OYFbJwD+vis7ft9VkhxZzUn4jssyghIwM=",
       "url": "leaflet/leaflet.css"
     },
     {
-      "hash": "sha256-MQS1JlBNDWH9MJmkUh6H9zLMwxdN7FTgjea6i94+Ff8=",
+      "hash": "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=",
       "url": "leaflet/leaflet.js"
     },
     {
@@ -1290,7 +1290,7 @@ self.assetsManifest = {
       "url": "leaflet/leaflet.min.js"
     },
     {
-      "hash": "sha256-f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ=",
+      "hash": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=",
       "url": "lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
@@ -1298,7 +1298,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "hash": "sha256-hN2ttMG/K3wQlFrN3SbQ1YF4tIJHCE4oYP+QibT3vOY=",
+      "hash": "sha256-5nDHMGiyfZHl3UXePuhLDQR9ncPfBR1HJeZLXyJNV24=",
       "url": "lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
@@ -1306,7 +1306,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "hash": "sha256-M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc=",
+      "hash": "sha256-CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM=",
       "url": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
@@ -1314,7 +1314,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "hash": "sha256-+rGG3u63SMkHL80Ga42LAawPUj7i8vaR2Kuenqlta2E=",
+      "hash": "sha256-vMxTcvkC4Ly7LiAT3G8yEy9EpTr7Fge4SczWp07/p3k=",
       "url": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
@@ -1322,7 +1322,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "hash": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=",
+      "hash": "sha256-lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=",
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
@@ -1330,7 +1330,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "hash": "sha256-y72bT5TKmFmfvw3bNEzPRNZa/8595xtseZIcBUV0PdM=",
+      "hash": "sha256-l8vt5oozv958eMd9TFsPAWgl9JJK9YKfbVSs8mchQ84=",
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
@@ -1338,7 +1338,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "hash": "sha256-gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI=",
+      "hash": "sha256-V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg=",
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
@@ -1346,7 +1346,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "hash": "sha256-UkajePbMzGj8y73Imkd3dWWnLJr0v2CrBCLMrVMleP8=",
+      "hash": "sha256-/8jh8hcEMFKyS6goWqnNu7t3EzZPCGdQZgO6sCkI8tI=",
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
@@ -1354,7 +1354,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "hash": "sha256-uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE=",
+      "hash": "sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=",
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
@@ -1362,7 +1362,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "hash": "sha256-ZBXbYF8OZrF1GDOLMLvW/zRPtx1RfeMDYj5D2Wb/9jo=",
+      "hash": "sha256-KyE9xbKO9CuYx0HXpIKgsWIvXkAfITtiQ172j26wmRs=",
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
@@ -1370,7 +1370,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "hash": "sha256-MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI=",
+      "hash": "sha256-H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ=",
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
@@ -1378,7 +1378,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "hash": "sha256-7MYEMUFgHEc1CjrfAK/TlV30POxgoxXk2b+vAs/143U=",
+      "hash": "sha256-GAUum6FjwQ8HrXGaoFRnHTqQQLpljXGavT7mBX8E9qU=",
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
@@ -1386,7 +1386,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "hash": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=",
+      "hash": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
       "url": "lib/bootstrap/dist/css/bootstrap.css"
     },
     {
@@ -1394,7 +1394,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "hash": "sha256-sKIQRfQriISuQ9l/44b1zHfQniGXJhGonVtB2LlSuIs=",
+      "hash": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
       "url": "lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
@@ -1402,7 +1402,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38=",
+      "hash": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=",
       "url": "lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
@@ -1410,7 +1410,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "hash": "sha256-rI1w2GDxZPCr77bpZIGQ8mUvMVtEr+gBtahl5RIPJpA=",
+      "hash": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=",
       "url": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
@@ -1418,7 +1418,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "hash": "sha256-Znwl8m45pI6dFiUXgQNU9M6GlHx8hliw4BO0iW+NWkc=",
+      "hash": "sha256-tcmoPa8qNE+UJ1xb1AsmPmkzZYxT9wBz2GiaFVrE+X4=",
       "url": "lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
@@ -1426,7 +1426,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "hash": "sha256-6zfk2L8R3wCgRbZzpkEi7UYC2bc6fYGIgFfNeqyOWnQ=",
+      "hash": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=",
       "url": "lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
@@ -1434,7 +1434,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "hash": "sha256-L78mApvjZVlENEu6UR4DPwHI2SLxxHfHQdN8IIiiuMk=",
+      "hash": "sha256-VrtBtGOVND/Q4EM7dbyqVLpMOEloQA60kbKE1RUiAr4=",
       "url": "lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
@@ -1442,7 +1442,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "hash": "sha256-REjSeieVKd00nAKwd6dv7MMhuVKvKctPmLI4iDRs/cc=",
+      "hash": "sha256-QZdFT1ZNdly4rmgUBtXmXFS9BU1FTa+sPe6h794sFRQ=",
       "url": "lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
@@ -1450,7 +1450,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "hash": "sha256-9puWVMVW8hbQUjnvLjSrb4rFjvKKp+7PgCh7px7KZ0Q=",
+      "hash": "sha256-Nch2KoFhcOw/774lzVhPgh7O9gk3ryIsc/il7pR2hfA=",
       "url": "lib/bootstrap/dist/js/bootstrap.js"
     },
     {
@@ -1458,7 +1458,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "hash": "sha256-aCTIqw9op0XQGYnNe1649V7fnihACD48OP3M8BP2xVM=",
+      "hash": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
       "url": "lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
@@ -1466,711 +1466,711 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "hash": "sha256-8xNadz+zGvzX7iYp8D0KyeEZ3//AyZTgSQs8elLTdJI=",
+      "hash": "sha256-nRGSuo4E/p7sKUc9oPRydXs3nK7fla78rlbRK6uUQgY=",
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-s+koz4Iu1pZNgxqPwWmBVmSG1eNZ0I1Bt0XhCp0xnoA=",
+      "hash": "sha256-pbEbKCaJzAXTSHm3QYvJVN0DsgvuBLsZX96AQqUCXz0=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/alpr-detections.json"
     },
     {
-      "hash": "sha256-ChMfbc10fC7HhTRPSnsxuaCoM66cl7iv3CMd1YabWhw=",
+      "hash": "sha256-77YwTNtNzRDlLYJYGPOmujeAX0nefF/gTBpHuCejqCo=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/authcomponent.json"
     },
     {
-      "hash": "sha256-lZ8yX1DZy+vhUJ9B1NG819q0kwQvw+YowEp8nGBlhFc=",
+      "hash": "sha256-yojD2E4i4fJAQUzo5Fc71SzBZyd6f9j0PIJctyI4l/w=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/avl-vehicles.json"
     },
     {
-      "hash": "sha256-AlCpWu5KIa4zEmz2EsfoH/U30eayD1cqoYqTawPExms=",
+      "hash": "sha256-FafTmQ19L9t2YikPE6ykf/IxRwpw3V9sEHcZKoHOVEY=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/biometric-records.json"
     },
     {
-      "hash": "sha256-mzDplio0Pk4MHAMdLpOCA0HYWwl8BzK22WXYbevpctA=",
+      "hash": "sha256-h5Z1Pd1lg7gW+k/j/4TedH9o3EDY6/groyWQdevaDiE=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/body-camera-footage.json"
     },
     {
-      "hash": "sha256-SBo0x6LpDCzb2YCjzrGkfb3Sb+Sw6ZW3xJXmcR9E8X0=",
+      "hash": "sha256-/ZsgH/kQoksDuV18OyzDmBYfOX3/L7gELWZMhwhAxik=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/cad-calls.json"
     },
     {
-      "hash": "sha256-qEfmKR4YRxSnfC+3CVvEUiDBuP0CQT4tCnOA5JtRc6M=",
+      "hash": "sha256-wetw5rpxRBL0fLnLZbPy6J8rIXQpru4MTjDZbpt1u10=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/case-lookups.json"
     },
     {
-      "hash": "sha256-Vb0oCsvOQvu5AGmAsJbRfleFeyoefmpR/y89OWI9Ngo=",
+      "hash": "sha256-00znUnDNVolKOyyAZYqWV7xvTP4kKiBSdNuTMOLDOPA=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/certificates.json"
     },
     {
-      "hash": "sha256-1j71cgI2s5nQpKN4qqX6lPe6lz40bLlMEAWEEdPsWYQ=",
+      "hash": "sha256-qdQ2UTTRgp9HgPF+ta8bcxYGlm9WrdcH5xvf/v38L6U=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/crime-incidents.json"
     },
     {
-      "hash": "sha256-jCb19YpLWk5Rf5luvFrYouKzXatGJ8gs97bjnid7khE=",
+      "hash": "sha256-tCUT6JlBSijvT2yvhaVEJoXnHkH00f6NO+Lmg1lWFd4=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-Jhmb/vl0v3An2QiTHUwxdbFnGQbarfE71ckKYwvps5k=",
+      "hash": "sha256-eMrOIVmlGcDMmaitrKmxSJYoqTabUluUrqvY21mC1v4=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/digital-evidence.json"
     },
     {
-      "hash": "sha256-FLhW4er8oOhVMrrZ1IgOA/w6967wBOFRRfxmr030u5A=",
+      "hash": "sha256-FwpNfebWf9UizhG1ur6xibnu/VwLSwhC2jil2NVNHvc=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/dispatches.json"
     },
     {
-      "hash": "sha256-cf/vS3YOUtxa4DOSZAqpucjvKjqtPrkrL68izAZUQ0U=",
+      "hash": "sha256-qzj2MnbKPUCvicQ3aC0T9WA3ZpJOECzh1U1f32e5KpA=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/incident-types.json"
     },
     {
-      "hash": "sha256-SeP2s13NgAsx+7fQmuwfKBfAqB+PLHYvjSaOCOJm2Tw=",
+      "hash": "sha256-CJMGzeCEolzHuihXgpStOOjev8TYN9iIz1tUEXBfp2w=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-Hf/GhvS5HrYOe0mmppkOQcl9yJLiQN29no3qj50XwCg=",
+      "hash": "sha256-O//Kma/kbhhAE+SeRIyaLdk5v5z/ucrxFLDyj+q0hTY=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/link-analysis.json"
     },
     {
-      "hash": "sha256-STsUxDvG/+fdnRvEpBFHMnHvQEzIZ1xbdj2u5unYZHY=",
+      "hash": "sha256-pTIjGqkbHu27ncdqe9Nyy8u34766yhO4PaqNSCu7JXI=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/predictive-analytics.json"
     },
     {
-      "hash": "sha256-kL/mchfOYbJ9PBI58gl7s4kBPobVVZDmrKKEwkeoUBU=",
+      "hash": "sha256-ijnjwqCr/YpT6zX4DOuXe8iPMiN3Ci1CcStfsRsrO+A=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/stations.json"
     },
     {
-      "hash": "sha256-1EB/GOxMWpd4MrbTEkZfOD/oVqSbgEGCKTlpgTXeWIc=",
+      "hash": "sha256-0itPpPKkTWKLvoglWjK7q//VdwRLs+xWAPkPjDwJAuw=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/chilenje/use-of-force.json"
     },
     {
-      "hash": "sha256-fK41HiHy/4UYK98iH3EGfwVkZDqArVKL1BM1wvwAAfY=",
+      "hash": "sha256-coCGPCrCd0exyFNCWR4cdpUKy84eqrv0zfUdpbojfe0=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/alpr-detections.json"
     },
     {
-      "hash": "sha256-/L4BT19zWCtMsb3RuaM2Yp1cGwQN3hHvVijv4roBJJU=",
+      "hash": "sha256-YN6TJgjXFn7MN88ytA0PCJqFbQfjP+3RQ+BFJjC8dSU=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/authcomponent.json"
     },
     {
-      "hash": "sha256-bduc+8ZCfAvr584KA+MlCiPNXvMvtOKt2zDT2OHlL8I=",
+      "hash": "sha256-NFWIrYfgWZXEKic7IRwS9k3JUnvxd4nArzPr+h5cwBw=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/avl-vehicles.json"
     },
     {
-      "hash": "sha256-hY4vMH/3luacGr6UNZtvfMZN4hWNJcd+fKmbTNRAShk=",
+      "hash": "sha256-30d2BBoT/8fJimSKAM2yxDfG30wuk0lN3X3vsiLgcrE=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/biometric-records.json"
     },
     {
-      "hash": "sha256-wqyhD31gea5VyEHItmD1mHPuclQpEmHki6uRo1mDOXU=",
+      "hash": "sha256-rajwYmrgpmqt77QdJBLF0GucXJVgJOX6s7zAWqXbIak=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/body-camera-footage.json"
     },
     {
-      "hash": "sha256-7FAlG84FBf21rEOjFIk6rUU4x08HN2CFVMxevWtY644=",
+      "hash": "sha256-HEndXl7h0qW66Xl3mvAgz+yE83u1oYb3tnypJuPBagM=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/cad-calls.json"
     },
     {
-      "hash": "sha256-flobtNSBgfsV/fVNfuk/dnfY9nyPwuz8ayoZNE51TVU=",
+      "hash": "sha256-9U0BC9laqScXs0YVAxN/6UxPpTT/ZX1v7LrIEIAxn3c=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/case-lookups.json"
     },
     {
-      "hash": "sha256-99P9sE6oVN1/KtcB9dsKB2mmbWCoLNNJZe2zyW1RrSM=",
+      "hash": "sha256-pVfyaOmzG6n/lHhl28+FgeidG79UijG0LiWdozH6U94=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/certificates.json"
     },
     {
-      "hash": "sha256-XThKVIRHC19apj778bmUOfoq3Ms6lMYa+VvVFOT8NF8=",
+      "hash": "sha256-HKEspdZjkWCO1PI2CaNLMnhMb8ES5KHVlkvZ3bJwe1A=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/crime-incidents.json"
     },
     {
-      "hash": "sha256-hmu494l+xnoEITu1bk5vnggBIkUfWpzrLdfXlYSV2CM=",
+      "hash": "sha256-1D87oDO2lI+k6tkdhVEl+0IM4t0Li71R80mbcsc/KV8=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-YcKYzqMRz25c1ycUIX3AGSt0vcZ0+lkIjmFS1zQJWQ8=",
+      "hash": "sha256-WCvt6jDMXgwuJ1FQ/jxvCPnSYTUndLicWrAecxRjcUo=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/digital-evidence.json"
     },
     {
-      "hash": "sha256-Yz/RBTbbBbMdCQOAW3K98fjDG0Da8sNfduT1QWhnlCc=",
+      "hash": "sha256-BnyB5jxXalpWC932SAjqC8WBvSFoXR+qR2DtssAdqYo=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/dispatches.json"
     },
     {
-      "hash": "sha256-3DhRhzlKt613jnB95QRubYXbJvChIEL6jgxgA7OJh7o=",
+      "hash": "sha256-KuOWiDzj5U1QsQahIKiNlZYO6VxeSXA/Q3TVH323ThU=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/incident-types.json"
     },
     {
-      "hash": "sha256-ISP5y2uW+6AW9hbDfpLEhboUbLHFiK4tdF7k3UmKEXk=",
+      "hash": "sha256-vntAji0ww1t9VjR5Hr+YTBXwrqDlZu0T7/1RypRWzVs=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-dl4B61iPHmUUir0CTAn895aPu4PvrMiAkfymS9oQAQE=",
+      "hash": "sha256-lzvvjoX8MQogv+UGh/fsHcBWCpCIF9AE2I0Z4EKvFdQ=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/link-analysis.json"
     },
     {
-      "hash": "sha256-36r4ckhMUn16w7M9yCFcXa73KrQqWB+du8fqFWGwJ5g=",
+      "hash": "sha256-1nLuex70T/I1boMUhQqddJxX1HxfYLaTyqY4EVAFpRY=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/predictive-analytics.json"
     },
     {
-      "hash": "sha256-5GjtRthMXxd8jJaTHNeTlZf/T7QJ04toSbiyJ3/1r7k=",
+      "hash": "sha256-UPx1CbvuOFNeXAYEtr764V4iDf9EWvVuF7pfU0pgY4c=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/stations.json"
     },
     {
-      "hash": "sha256-Sj6k3MV/9n6QeSHoTvodBnM4zC9rD687o2BUXzNRX4Q=",
+      "hash": "sha256-Z6uCZqUFWMJFy/RzPcAzz1PQu/eL7vMck32gd69efFM=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kabwata/use-of-force.json"
     },
     {
-      "hash": "sha256-LKPOrn7oAynK/ee6zOKpvfbF8ajyrJ/T/aAJcs0TB2U=",
+      "hash": "sha256-kpbDepbMybKqP8ppzPqlxFpR02hpa3XHGaTTRkOW7Ww=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/alpr-detections.json"
     },
     {
-      "hash": "sha256-mka0FNhxHNhK34JhBLKqZbTH4xo33/2Ppg6xwBNxrFY=",
+      "hash": "sha256-aubTuW7SZYySQVUMqqRnbuVfFaJZWBfoEZAAGhUMIbc=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/authcomponent.json"
     },
     {
-      "hash": "sha256-6LmxMt5JmsjL0HWom2GeE9O6RdPgc8NNQ67nNW+cWho=",
+      "hash": "sha256-6C0UNpU5s4SM/3kQy9mewm6Cw0hTo2dF+Ck9IKlHiMM=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/avl-vehicles.json"
     },
     {
-      "hash": "sha256-BAMd4gKxQFVZwGw7DI7HpsiY7aQMRaSq/z23cEYXvbA=",
+      "hash": "sha256-6pskYl5QATbhwkY5wPkfZd9a8G/YmWnyPkRjypviP50=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/biometric-records.json"
     },
     {
-      "hash": "sha256-4aH/7nLWtGNDTCy0TShtQhlSknXn44QNEqHSUqUHU0o=",
+      "hash": "sha256-55Ce0iSFkCbuWIV3IG/TY0c5rMWo3YaoZO38uelX47k=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/body-camera-footage.json"
     },
     {
-      "hash": "sha256-Qvkeq0gC9jbSEYMmFYOLfe/oBUMvhnlGY8ITV3Xqcq0=",
+      "hash": "sha256-F6SqjK4MTKoSU+pEVcKzcKmjeo5l3bT+YWC4Ho9eJnE=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/cad-calls.json"
     },
     {
-      "hash": "sha256-iXxkpvRFU0EfmnKvEphnrxM58BnpSQXU/DSg1wMT9bw=",
+      "hash": "sha256-5MxhJfl9yiOgQHOXMNRaUHGGH4MuUTpmbUrbEud7c18=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/case-lookups.json"
     },
     {
-      "hash": "sha256-TeDMAm9Ls8TQhmtwCQyKh2PaH22G7cnyvISKoRJuwdQ=",
+      "hash": "sha256-63OdrYZ4DV5cEJFvhylkrl7uD1U1AeO/XhxDU1scbcE=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/certificates.json"
     },
     {
-      "hash": "sha256-rAsLQHHOLayNypcUTN3CUeenQWUW+6oDycrCfD3/uNo=",
+      "hash": "sha256-hj03znopHWMa7SQc5kwecELsu2J8HEoVVJuamj3RxWo=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/crime-incidents.json"
     },
     {
-      "hash": "sha256-FpZKev4Bj+QAWXmJNci1g4mU3v3WPmSJf+nxrTc6hJs=",
+      "hash": "sha256-tvmM31keRKrW6Wwk938EY3tRlErbZuVKxW4YHrOhbeA=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-3JWr3xmCKe/k90Gk13Isn1u0ixKCMD1ir0kJiexLe0s=",
+      "hash": "sha256-8ylC+9LAAbMgmFY4aSVSZ3uVI6VGtVgSN1nhmLiD+3k=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/digital-evidence.json"
     },
     {
-      "hash": "sha256-1CCIstOSqL0K0OKHRvuSdH1WZizmEakkN9+prRz5ep0=",
+      "hash": "sha256-T0H7kbRsUpIb7h76NERyDq0V9zX9gvyf3sVZZCxylWY=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/dispatches.json"
     },
     {
-      "hash": "sha256-GlQDk450J1fOOXp7xX/4jeMpHWOaOIebI2PuYs+ft2E=",
+      "hash": "sha256-zgjBYKxOqgncvb7cTZ9EVslQQu1A/VFJj7y6erzv8Hc=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/incident-types.json"
     },
     {
-      "hash": "sha256-7j7GpO60Y+OMNpt5h50F/4nMijx2HebLq+AsbSvR2cc=",
+      "hash": "sha256-B9m/HKo6l97jTneYD1OtD0TQtrIrFl7NzqK4w8PYfoQ=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-OYXIE7a0mgAPR1cD/6gHvVclsUmva77VFA5jX4WCy5I=",
+      "hash": "sha256-Sa6nJ12GgosCoHFibp/jbUINynPjuCWL8EkarSw214c=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/link-analysis.json"
     },
     {
-      "hash": "sha256-ccNQ/mIoyS0xV9zfNhBkHVxe2BYgYHCQAnTQ3kTNrD0=",
+      "hash": "sha256-vo0/os2OtT3j2K1F7Jt9195u6HY898bsSAeTPpycyn4=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/predictive-analytics.json"
     },
     {
-      "hash": "sha256-23yyTIed3aEei5Tcv3/q78gvkB2TXtKbL5oYZcQFwkE=",
+      "hash": "sha256-RiSFbYN+KxkgEAqTI5i2dxaQf66fGm1wRAdzHfwcdU8=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/stations.json"
     },
     {
-      "hash": "sha256-X/bLBljntgkg1sJfyXZfgsf4CfEb68eptgUavbNQZDw=",
+      "hash": "sha256-EL8ChNkWYS8b9/x95/ihYo9jAlGRx12hVUVFqtCnDME=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/kamwala/use-of-force.json"
     },
     {
-      "hash": "sha256-PXf+t4XDYN6USCnxXIr2tOEmwImBSL1VTikRQRPhr6M=",
+      "hash": "sha256-MoNV40wt6k/eSTPCqCgNo6NNWAQakH+qVrnD7pOMt5k=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/alpr-detections.json"
     },
     {
-      "hash": "sha256-K1h0NAeaVBEoS5BagDftlMZco8Ink5EfPAVN3cbWrag=",
+      "hash": "sha256-lJ3jliDnA4PDDoalPL14zef0XkoDI+RBt725jCJQ+9w=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/authcomponent.json"
     },
     {
-      "hash": "sha256-70lbNfP4p4tshYJ8NLDIpqOFvoMS+u3A58aZdCk4KAI=",
+      "hash": "sha256-EKxAKXnnjtmkGKjXWx2vuz+1ILJx1cdkvHNG6hyJKX8=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/avl-vehicles.json"
     },
     {
-      "hash": "sha256-H2qFV7ZKA2Wn/hD3xLz29awVMdUCUg1iAs+l17ZHHPw=",
+      "hash": "sha256-guESY33OmA0z8bMr3wNmG3764VPj6HXtxbQGsLv7214=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/biometric-records.json"
     },
     {
-      "hash": "sha256-6RXIe03/sbj7jC5tlrvdWmrzQcRhCffA07cyVKLk64Y=",
+      "hash": "sha256-U6ywzAx5MWttUUBXXJu3NCkBokN+6ZeYE1I5OwdGCig=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/body-camera-footage.json"
     },
     {
-      "hash": "sha256-k0DlT9iVlpwe6Ao8v9fD2JJb55xMOf2QSfVrvH7QKvM=",
+      "hash": "sha256-phjbFU5Sqh2F1Eba2H2UdsLCEEGvsoBAofIOxbsKwzs=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/cad-calls.json"
     },
     {
-      "hash": "sha256-Ra1qdywXeGquGcQMqxbrUcM1o5GJOivi7tcPxca2Eys=",
+      "hash": "sha256-dS5v6l2nEtJ57qLicg/28qe5nSOaMy73g7s0bbvevuA=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/case-lookups.json"
     },
     {
-      "hash": "sha256-gQ8ldisZtgfDwLa+IYJS/wvB7CsygZ0FlhLSqdSB8po=",
+      "hash": "sha256-bU8WhsTUJMqZ8NVSpNJiDTFJGH4WMydPbNVsNN8SXLQ=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/certificates.json"
     },
     {
-      "hash": "sha256-6lRNx+TTZw0ntT8edgc0ZMTnjIudNiN0yuDI6aqzrWU=",
+      "hash": "sha256-YIgq0g8+Apzg/4cOV05KHY/yRG8IiOjp1s6+XSDFOtI=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/crime-incidents.json"
     },
     {
-      "hash": "sha256-H2mTFnTVZL5JUwkPleUAKt3HZRuExmc7whybMJ2SfPE=",
+      "hash": "sha256-YdbtY0xJLTdiq7vlpWnkeKenIRpIqc04I9shkRD5zLU=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-cNEYbIR6/z2zqMDnD1kMF05E56tli6Fli0TKww6+xSU=",
+      "hash": "sha256-s5GXUNMsicG9W4D8tXyTuktYrqVaOmLKw0qoDaLIh5g=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/digital-evidence.json"
     },
     {
-      "hash": "sha256-hNT0IyMhiMOF5ci4tfVVxw2eVSA7MdO6bMynHIF74GE=",
+      "hash": "sha256-oS2fJOiFWDPHiqHi4jCVgvevE9UwSR+Dpd4qTwMF0iU=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/dispatches.json"
     },
     {
-      "hash": "sha256-DxI+6bV7QrmbMdfJg/T4eTbhVMk4UUSHLQYl65DID6c=",
+      "hash": "sha256-hGBUUi8GXWkYhULE+ueTyDvS6yqsJfvzqUZQvT+aNl0=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/incident-types.json"
     },
     {
-      "hash": "sha256-dMhlYZZdpSQUMlLzLQI9wr6GfgeN4Cn3bvWwf89nr0o=",
+      "hash": "sha256-Wj8WbhOTb50T9lDlh5yiIgyvDpMpr8aT33nnmQ47ouc=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-lKj9RlZC3mx/Uk5o71aamzlHFyYdMtPGtXC0rYBRC/w=",
+      "hash": "sha256-HcmcV3l+DIsQkSYU48DSsYLmVlZ22ED6NhgTKUy2gF0=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/link-analysis.json"
     },
     {
-      "hash": "sha256-EjYJBfh+mUk2Ei9ZtMvl9l5VvIIQ42OFWOuxJ/9JPSw=",
+      "hash": "sha256-tZRQuwPaFs2/ajAz6vPzgUjlRssX5rgiG6PecNJBdXU=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/predictive-analytics.json"
     },
     {
-      "hash": "sha256-alupKvlgmcoDJ8HoUjvfNDEBhFKvMIIM2F3wfUgFh6c=",
+      "hash": "sha256-+3dfqXpljMX2tFoygvTPTQmuKIY8toLVJCSr8HxjttI=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/stations.json"
     },
     {
-      "hash": "sha256-EyQQrlPWc9KMp18IDKWgx0F0bAxfBEIRzn6NBv+wwwg=",
+      "hash": "sha256-5yz8pgf0WeW2GZlsEtcknOp5DeFL7vWp6NdaPjPcXO0=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/lusaka-central/use-of-force.json"
     },
     {
-      "hash": "sha256-DOt70WM/AzluDq+fjwf4UxwA7rS0vhcaDEphK3Nmt1w=",
+      "hash": "sha256-pjySAAyzJkEtoqkAYozLXREfVPoVFirOLSDahBApFRo=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/alpr-detections.json"
     },
     {
-      "hash": "sha256-Bj1vL0KEJ4l9p/RM7yQCz609JCi4mIAT/67DbcWYqyY=",
+      "hash": "sha256-xfa47xeOBMX2VFhhFDHFBop4wKy5+KATmNiXdwQTKGk=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/authcomponent.json"
     },
     {
-      "hash": "sha256-U9WH7CwOQvANziSGzO2/DnFiq4fhCLSj7G6Oghe0q+Q=",
+      "hash": "sha256-9vqXpGh4PIYCygPDkFlj04LCLpe8K2sZIj8XWvoNzAI=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/avl-vehicles.json"
     },
     {
-      "hash": "sha256-xSJPghMoRgntQi9FIC9Q5nmS/yIUBwFmO9B1XWBFgNU=",
+      "hash": "sha256-dNmgoY03/J6ZOA1IItDwIpbcEvLdm4HNcxzUSDSLPZI=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/biometric-records.json"
     },
     {
-      "hash": "sha256-3Ii+1ZdtZlyxCMnhKKdC7H3aylJJo5gvLi6F88IK0/Y=",
+      "hash": "sha256-Y9pnb4tUbW6WjwKMn6bqm0f96vDaDvm8DcPAG/JMj/A=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/body-camera-footage.json"
     },
     {
-      "hash": "sha256-IpqxDcJcLBN4mcz+5mmU5gcWzXxjE1zrrRMK8PhgMPc=",
+      "hash": "sha256-w83LX3z4abCmfZqPbPdkzHnMPDSyL1mfZzr9nIIWytU=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/cad-calls.json"
     },
     {
-      "hash": "sha256-kktdy1lT+B0KMvPNg9CX0nNt41lMI0TDkod3KTK58fI=",
+      "hash": "sha256-9FXK4JjM+Hg7Svj2ke3sGIoW4RxoyauBal1uBDGJ6xA=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/case-lookups.json"
     },
     {
-      "hash": "sha256-GFfN5dbFmttx3YCi66fTSup/52BLbIv+w3VO3AvsRQM=",
+      "hash": "sha256-x5x06IiWNOAbsr6pvMe6bdX/tB2Q2sZhWdxtOROFVhA=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/certificates.json"
     },
     {
-      "hash": "sha256-6g64jI39Fwz7tGQSWHO8iVx0jbYz89Wdn8VgwhuwUnE=",
+      "hash": "sha256-bb9TQf05tZeDfvS3SD9yoBgJ6iN4ix6aEjGGUdwbIaw=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/crime-incidents.json"
     },
     {
-      "hash": "sha256-uz1HYksGbBVFX2oKUADeTpRO+SsA6vPlEm0e/VVodtU=",
+      "hash": "sha256-DbYrmqE6gNoWpBursw1p4SdaiOlNw7z3ucOzgVug1Gg=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-Sf/zeJ16ZklLY4oQPhjFHU7KWvhsni3tFSSa6fqXL8s=",
+      "hash": "sha256-/02k2g6gYL6dgATNrD7N+TYUKH5jlvD6x2SLSNnYcKw=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/digital-evidence.json"
     },
     {
-      "hash": "sha256-QW7GqNcyKTcWH6xgruH/uiqcz26Su2IGZsJvkRHPQ/k=",
+      "hash": "sha256-O1xCuVWuxD+bWaFku0U7Qyx3gXGI6JMG6uPr3H7b6Zk=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/dispatches.json"
     },
     {
-      "hash": "sha256-lGO2YiWJwKWLt2j/thGomIX6Kjf2xtLBKqKjREuUCC0=",
+      "hash": "sha256-74hOz7Lp/NpxjzrcMbifwP3+mchXDD/yfpAx3jXj5HY=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/incident-types.json"
     },
     {
-      "hash": "sha256-wLcqNmwtF9iU2IKvayJiSc4b7u0c2CzdgbhPLARnJ9Q=",
+      "hash": "sha256-YebyM+9/Kul9IZ/iF4aG1ulkVw9G1Y4XZFVJhpIza6Q=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-q4tei3FHL0COc04V4Ly/dbFeJN3/f7NLPZwHfb73BDw=",
+      "hash": "sha256-ThF//H/rfwrN5mK/1HjTkbCDm4ooKECoh/7qFsDqED4=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/link-analysis.json"
     },
     {
-      "hash": "sha256-qspgaUyS5MZi1D/9EToSvzVJmeFkIqVkbt+/kNoE018=",
+      "hash": "sha256-nPpB0+bo3AH3SaaU5qor/v82FA0E0Q4ld4a4kXhIqwQ=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/predictive-analytics.json"
     },
     {
-      "hash": "sha256-urZwbBPonzOikEeXtGqojl+iYYVdbq7N0+pT+drSJj4=",
+      "hash": "sha256-HEFrPbceKgFCUF8kyTdUlSqo3GR2rCeuFaLlj2/kAM0=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/stations.json"
     },
     {
-      "hash": "sha256-kA/RpFqfH8WNZm029SjjnteVZMA8oJ2O234w2o5bHsM=",
+      "hash": "sha256-y7rdp9gTzs9hGDTA1SE//tFzWGHrxDNzXLTsCOX35ao=",
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/use-of-force.json"
     },
     {
-      "hash": "sha256-s+koz4Iu1pZNgxqPwWmBVmSG1eNZ0I1Bt0XhCp0xnoA=",
+      "hash": "sha256-pbEbKCaJzAXTSHm3QYvJVN0DsgvuBLsZX96AQqUCXz0=",
       "url": "sample-data/police-stations/chilenje/alpr-detections.json"
     },
     {
-      "hash": "sha256-lZ8yX1DZy+vhUJ9B1NG819q0kwQvw+YowEp8nGBlhFc=",
+      "hash": "sha256-yojD2E4i4fJAQUzo5Fc71SzBZyd6f9j0PIJctyI4l/w=",
       "url": "sample-data/police-stations/chilenje/avl-vehicles.json"
     },
     {
-      "hash": "sha256-AlCpWu5KIa4zEmz2EsfoH/U30eayD1cqoYqTawPExms=",
+      "hash": "sha256-FafTmQ19L9t2YikPE6ykf/IxRwpw3V9sEHcZKoHOVEY=",
       "url": "sample-data/police-stations/chilenje/biometric-records.json"
     },
     {
-      "hash": "sha256-mzDplio0Pk4MHAMdLpOCA0HYWwl8BzK22WXYbevpctA=",
+      "hash": "sha256-h5Z1Pd1lg7gW+k/j/4TedH9o3EDY6/groyWQdevaDiE=",
       "url": "sample-data/police-stations/chilenje/body-camera-footage.json"
     },
     {
-      "hash": "sha256-SBo0x6LpDCzb2YCjzrGkfb3Sb+Sw6ZW3xJXmcR9E8X0=",
+      "hash": "sha256-/ZsgH/kQoksDuV18OyzDmBYfOX3/L7gELWZMhwhAxik=",
       "url": "sample-data/police-stations/chilenje/cad-calls.json"
     },
     {
-      "hash": "sha256-qEfmKR4YRxSnfC+3CVvEUiDBuP0CQT4tCnOA5JtRc6M=",
+      "hash": "sha256-wetw5rpxRBL0fLnLZbPy6J8rIXQpru4MTjDZbpt1u10=",
       "url": "sample-data/police-stations/chilenje/case-lookups.json"
     },
     {
-      "hash": "sha256-Vb0oCsvOQvu5AGmAsJbRfleFeyoefmpR/y89OWI9Ngo=",
+      "hash": "sha256-00znUnDNVolKOyyAZYqWV7xvTP4kKiBSdNuTMOLDOPA=",
       "url": "sample-data/police-stations/chilenje/certificates.json"
     },
     {
-      "hash": "sha256-1j71cgI2s5nQpKN4qqX6lPe6lz40bLlMEAWEEdPsWYQ=",
+      "hash": "sha256-qdQ2UTTRgp9HgPF+ta8bcxYGlm9WrdcH5xvf/v38L6U=",
       "url": "sample-data/police-stations/chilenje/crime-incidents.json"
     },
     {
-      "hash": "sha256-jCb19YpLWk5Rf5luvFrYouKzXatGJ8gs97bjnid7khE=",
+      "hash": "sha256-tCUT6JlBSijvT2yvhaVEJoXnHkH00f6NO+Lmg1lWFd4=",
       "url": "sample-data/police-stations/chilenje/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-Jhmb/vl0v3An2QiTHUwxdbFnGQbarfE71ckKYwvps5k=",
+      "hash": "sha256-eMrOIVmlGcDMmaitrKmxSJYoqTabUluUrqvY21mC1v4=",
       "url": "sample-data/police-stations/chilenje/digital-evidence.json"
     },
     {
-      "hash": "sha256-FLhW4er8oOhVMrrZ1IgOA/w6967wBOFRRfxmr030u5A=",
+      "hash": "sha256-FwpNfebWf9UizhG1ur6xibnu/VwLSwhC2jil2NVNHvc=",
       "url": "sample-data/police-stations/chilenje/dispatches.json"
     },
     {
-      "hash": "sha256-cf/vS3YOUtxa4DOSZAqpucjvKjqtPrkrL68izAZUQ0U=",
+      "hash": "sha256-qzj2MnbKPUCvicQ3aC0T9WA3ZpJOECzh1U1f32e5KpA=",
       "url": "sample-data/police-stations/chilenje/incident-types.json"
     },
     {
-      "hash": "sha256-SeP2s13NgAsx+7fQmuwfKBfAqB+PLHYvjSaOCOJm2Tw=",
+      "hash": "sha256-CJMGzeCEolzHuihXgpStOOjev8TYN9iIz1tUEXBfp2w=",
       "url": "sample-data/police-stations/chilenje/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-Hf/GhvS5HrYOe0mmppkOQcl9yJLiQN29no3qj50XwCg=",
+      "hash": "sha256-O//Kma/kbhhAE+SeRIyaLdk5v5z/ucrxFLDyj+q0hTY=",
       "url": "sample-data/police-stations/chilenje/link-analysis.json"
     },
     {
-      "hash": "sha256-STsUxDvG/+fdnRvEpBFHMnHvQEzIZ1xbdj2u5unYZHY=",
+      "hash": "sha256-pTIjGqkbHu27ncdqe9Nyy8u34766yhO4PaqNSCu7JXI=",
       "url": "sample-data/police-stations/chilenje/predictive-analytics.json"
     },
     {
-      "hash": "sha256-kL/mchfOYbJ9PBI58gl7s4kBPobVVZDmrKKEwkeoUBU=",
+      "hash": "sha256-ijnjwqCr/YpT6zX4DOuXe8iPMiN3Ci1CcStfsRsrO+A=",
       "url": "sample-data/police-stations/chilenje/stations.json"
     },
     {
-      "hash": "sha256-1EB/GOxMWpd4MrbTEkZfOD/oVqSbgEGCKTlpgTXeWIc=",
+      "hash": "sha256-0itPpPKkTWKLvoglWjK7q//VdwRLs+xWAPkPjDwJAuw=",
       "url": "sample-data/police-stations/chilenje/use-of-force.json"
     },
     {
-      "hash": "sha256-fK41HiHy/4UYK98iH3EGfwVkZDqArVKL1BM1wvwAAfY=",
+      "hash": "sha256-coCGPCrCd0exyFNCWR4cdpUKy84eqrv0zfUdpbojfe0=",
       "url": "sample-data/police-stations/kabwata/alpr-detections.json"
     },
     {
-      "hash": "sha256-bduc+8ZCfAvr584KA+MlCiPNXvMvtOKt2zDT2OHlL8I=",
+      "hash": "sha256-NFWIrYfgWZXEKic7IRwS9k3JUnvxd4nArzPr+h5cwBw=",
       "url": "sample-data/police-stations/kabwata/avl-vehicles.json"
     },
     {
-      "hash": "sha256-hY4vMH/3luacGr6UNZtvfMZN4hWNJcd+fKmbTNRAShk=",
+      "hash": "sha256-30d2BBoT/8fJimSKAM2yxDfG30wuk0lN3X3vsiLgcrE=",
       "url": "sample-data/police-stations/kabwata/biometric-records.json"
     },
     {
-      "hash": "sha256-wqyhD31gea5VyEHItmD1mHPuclQpEmHki6uRo1mDOXU=",
+      "hash": "sha256-rajwYmrgpmqt77QdJBLF0GucXJVgJOX6s7zAWqXbIak=",
       "url": "sample-data/police-stations/kabwata/body-camera-footage.json"
     },
     {
-      "hash": "sha256-7FAlG84FBf21rEOjFIk6rUU4x08HN2CFVMxevWtY644=",
+      "hash": "sha256-HEndXl7h0qW66Xl3mvAgz+yE83u1oYb3tnypJuPBagM=",
       "url": "sample-data/police-stations/kabwata/cad-calls.json"
     },
     {
-      "hash": "sha256-flobtNSBgfsV/fVNfuk/dnfY9nyPwuz8ayoZNE51TVU=",
+      "hash": "sha256-9U0BC9laqScXs0YVAxN/6UxPpTT/ZX1v7LrIEIAxn3c=",
       "url": "sample-data/police-stations/kabwata/case-lookups.json"
     },
     {
-      "hash": "sha256-99P9sE6oVN1/KtcB9dsKB2mmbWCoLNNJZe2zyW1RrSM=",
+      "hash": "sha256-pVfyaOmzG6n/lHhl28+FgeidG79UijG0LiWdozH6U94=",
       "url": "sample-data/police-stations/kabwata/certificates.json"
     },
     {
-      "hash": "sha256-XThKVIRHC19apj778bmUOfoq3Ms6lMYa+VvVFOT8NF8=",
+      "hash": "sha256-HKEspdZjkWCO1PI2CaNLMnhMb8ES5KHVlkvZ3bJwe1A=",
       "url": "sample-data/police-stations/kabwata/crime-incidents.json"
     },
     {
-      "hash": "sha256-hmu494l+xnoEITu1bk5vnggBIkUfWpzrLdfXlYSV2CM=",
+      "hash": "sha256-1D87oDO2lI+k6tkdhVEl+0IM4t0Li71R80mbcsc/KV8=",
       "url": "sample-data/police-stations/kabwata/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-YcKYzqMRz25c1ycUIX3AGSt0vcZ0+lkIjmFS1zQJWQ8=",
+      "hash": "sha256-WCvt6jDMXgwuJ1FQ/jxvCPnSYTUndLicWrAecxRjcUo=",
       "url": "sample-data/police-stations/kabwata/digital-evidence.json"
     },
     {
-      "hash": "sha256-Yz/RBTbbBbMdCQOAW3K98fjDG0Da8sNfduT1QWhnlCc=",
+      "hash": "sha256-BnyB5jxXalpWC932SAjqC8WBvSFoXR+qR2DtssAdqYo=",
       "url": "sample-data/police-stations/kabwata/dispatches.json"
     },
     {
-      "hash": "sha256-3DhRhzlKt613jnB95QRubYXbJvChIEL6jgxgA7OJh7o=",
+      "hash": "sha256-KuOWiDzj5U1QsQahIKiNlZYO6VxeSXA/Q3TVH323ThU=",
       "url": "sample-data/police-stations/kabwata/incident-types.json"
     },
     {
-      "hash": "sha256-ISP5y2uW+6AW9hbDfpLEhboUbLHFiK4tdF7k3UmKEXk=",
+      "hash": "sha256-vntAji0ww1t9VjR5Hr+YTBXwrqDlZu0T7/1RypRWzVs=",
       "url": "sample-data/police-stations/kabwata/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-dl4B61iPHmUUir0CTAn895aPu4PvrMiAkfymS9oQAQE=",
+      "hash": "sha256-lzvvjoX8MQogv+UGh/fsHcBWCpCIF9AE2I0Z4EKvFdQ=",
       "url": "sample-data/police-stations/kabwata/link-analysis.json"
     },
     {
-      "hash": "sha256-36r4ckhMUn16w7M9yCFcXa73KrQqWB+du8fqFWGwJ5g=",
+      "hash": "sha256-1nLuex70T/I1boMUhQqddJxX1HxfYLaTyqY4EVAFpRY=",
       "url": "sample-data/police-stations/kabwata/predictive-analytics.json"
     },
     {
-      "hash": "sha256-5GjtRthMXxd8jJaTHNeTlZf/T7QJ04toSbiyJ3/1r7k=",
+      "hash": "sha256-UPx1CbvuOFNeXAYEtr764V4iDf9EWvVuF7pfU0pgY4c=",
       "url": "sample-data/police-stations/kabwata/stations.json"
     },
     {
-      "hash": "sha256-Sj6k3MV/9n6QeSHoTvodBnM4zC9rD687o2BUXzNRX4Q=",
+      "hash": "sha256-Z6uCZqUFWMJFy/RzPcAzz1PQu/eL7vMck32gd69efFM=",
       "url": "sample-data/police-stations/kabwata/use-of-force.json"
     },
     {
-      "hash": "sha256-LKPOrn7oAynK/ee6zOKpvfbF8ajyrJ/T/aAJcs0TB2U=",
+      "hash": "sha256-kpbDepbMybKqP8ppzPqlxFpR02hpa3XHGaTTRkOW7Ww=",
       "url": "sample-data/police-stations/kamwala/alpr-detections.json"
     },
     {
-      "hash": "sha256-6LmxMt5JmsjL0HWom2GeE9O6RdPgc8NNQ67nNW+cWho=",
+      "hash": "sha256-6C0UNpU5s4SM/3kQy9mewm6Cw0hTo2dF+Ck9IKlHiMM=",
       "url": "sample-data/police-stations/kamwala/avl-vehicles.json"
     },
     {
-      "hash": "sha256-BAMd4gKxQFVZwGw7DI7HpsiY7aQMRaSq/z23cEYXvbA=",
+      "hash": "sha256-6pskYl5QATbhwkY5wPkfZd9a8G/YmWnyPkRjypviP50=",
       "url": "sample-data/police-stations/kamwala/biometric-records.json"
     },
     {
-      "hash": "sha256-4aH/7nLWtGNDTCy0TShtQhlSknXn44QNEqHSUqUHU0o=",
+      "hash": "sha256-55Ce0iSFkCbuWIV3IG/TY0c5rMWo3YaoZO38uelX47k=",
       "url": "sample-data/police-stations/kamwala/body-camera-footage.json"
     },
     {
-      "hash": "sha256-Qvkeq0gC9jbSEYMmFYOLfe/oBUMvhnlGY8ITV3Xqcq0=",
+      "hash": "sha256-F6SqjK4MTKoSU+pEVcKzcKmjeo5l3bT+YWC4Ho9eJnE=",
       "url": "sample-data/police-stations/kamwala/cad-calls.json"
     },
     {
-      "hash": "sha256-iXxkpvRFU0EfmnKvEphnrxM58BnpSQXU/DSg1wMT9bw=",
+      "hash": "sha256-5MxhJfl9yiOgQHOXMNRaUHGGH4MuUTpmbUrbEud7c18=",
       "url": "sample-data/police-stations/kamwala/case-lookups.json"
     },
     {
-      "hash": "sha256-TeDMAm9Ls8TQhmtwCQyKh2PaH22G7cnyvISKoRJuwdQ=",
+      "hash": "sha256-63OdrYZ4DV5cEJFvhylkrl7uD1U1AeO/XhxDU1scbcE=",
       "url": "sample-data/police-stations/kamwala/certificates.json"
     },
     {
-      "hash": "sha256-rAsLQHHOLayNypcUTN3CUeenQWUW+6oDycrCfD3/uNo=",
+      "hash": "sha256-hj03znopHWMa7SQc5kwecELsu2J8HEoVVJuamj3RxWo=",
       "url": "sample-data/police-stations/kamwala/crime-incidents.json"
     },
     {
-      "hash": "sha256-FpZKev4Bj+QAWXmJNci1g4mU3v3WPmSJf+nxrTc6hJs=",
+      "hash": "sha256-tvmM31keRKrW6Wwk938EY3tRlErbZuVKxW4YHrOhbeA=",
       "url": "sample-data/police-stations/kamwala/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-3JWr3xmCKe/k90Gk13Isn1u0ixKCMD1ir0kJiexLe0s=",
+      "hash": "sha256-8ylC+9LAAbMgmFY4aSVSZ3uVI6VGtVgSN1nhmLiD+3k=",
       "url": "sample-data/police-stations/kamwala/digital-evidence.json"
     },
     {
-      "hash": "sha256-1CCIstOSqL0K0OKHRvuSdH1WZizmEakkN9+prRz5ep0=",
+      "hash": "sha256-T0H7kbRsUpIb7h76NERyDq0V9zX9gvyf3sVZZCxylWY=",
       "url": "sample-data/police-stations/kamwala/dispatches.json"
     },
     {
-      "hash": "sha256-GlQDk450J1fOOXp7xX/4jeMpHWOaOIebI2PuYs+ft2E=",
+      "hash": "sha256-zgjBYKxOqgncvb7cTZ9EVslQQu1A/VFJj7y6erzv8Hc=",
       "url": "sample-data/police-stations/kamwala/incident-types.json"
     },
     {
-      "hash": "sha256-7j7GpO60Y+OMNpt5h50F/4nMijx2HebLq+AsbSvR2cc=",
+      "hash": "sha256-B9m/HKo6l97jTneYD1OtD0TQtrIrFl7NzqK4w8PYfoQ=",
       "url": "sample-data/police-stations/kamwala/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-OYXIE7a0mgAPR1cD/6gHvVclsUmva77VFA5jX4WCy5I=",
+      "hash": "sha256-Sa6nJ12GgosCoHFibp/jbUINynPjuCWL8EkarSw214c=",
       "url": "sample-data/police-stations/kamwala/link-analysis.json"
     },
     {
-      "hash": "sha256-ccNQ/mIoyS0xV9zfNhBkHVxe2BYgYHCQAnTQ3kTNrD0=",
+      "hash": "sha256-vo0/os2OtT3j2K1F7Jt9195u6HY898bsSAeTPpycyn4=",
       "url": "sample-data/police-stations/kamwala/predictive-analytics.json"
     },
     {
-      "hash": "sha256-23yyTIed3aEei5Tcv3/q78gvkB2TXtKbL5oYZcQFwkE=",
+      "hash": "sha256-RiSFbYN+KxkgEAqTI5i2dxaQf66fGm1wRAdzHfwcdU8=",
       "url": "sample-data/police-stations/kamwala/stations.json"
     },
     {
-      "hash": "sha256-X/bLBljntgkg1sJfyXZfgsf4CfEb68eptgUavbNQZDw=",
+      "hash": "sha256-EL8ChNkWYS8b9/x95/ihYo9jAlGRx12hVUVFqtCnDME=",
       "url": "sample-data/police-stations/kamwala/use-of-force.json"
     },
     {
-      "hash": "sha256-PXf+t4XDYN6USCnxXIr2tOEmwImBSL1VTikRQRPhr6M=",
+      "hash": "sha256-MoNV40wt6k/eSTPCqCgNo6NNWAQakH+qVrnD7pOMt5k=",
       "url": "sample-data/police-stations/lusaka-central/alpr-detections.json"
     },
     {
-      "hash": "sha256-70lbNfP4p4tshYJ8NLDIpqOFvoMS+u3A58aZdCk4KAI=",
+      "hash": "sha256-EKxAKXnnjtmkGKjXWx2vuz+1ILJx1cdkvHNG6hyJKX8=",
       "url": "sample-data/police-stations/lusaka-central/avl-vehicles.json"
     },
     {
-      "hash": "sha256-H2qFV7ZKA2Wn/hD3xLz29awVMdUCUg1iAs+l17ZHHPw=",
+      "hash": "sha256-guESY33OmA0z8bMr3wNmG3764VPj6HXtxbQGsLv7214=",
       "url": "sample-data/police-stations/lusaka-central/biometric-records.json"
     },
     {
-      "hash": "sha256-6RXIe03/sbj7jC5tlrvdWmrzQcRhCffA07cyVKLk64Y=",
+      "hash": "sha256-U6ywzAx5MWttUUBXXJu3NCkBokN+6ZeYE1I5OwdGCig=",
       "url": "sample-data/police-stations/lusaka-central/body-camera-footage.json"
     },
     {
-      "hash": "sha256-k0DlT9iVlpwe6Ao8v9fD2JJb55xMOf2QSfVrvH7QKvM=",
+      "hash": "sha256-phjbFU5Sqh2F1Eba2H2UdsLCEEGvsoBAofIOxbsKwzs=",
       "url": "sample-data/police-stations/lusaka-central/cad-calls.json"
     },
     {
-      "hash": "sha256-Ra1qdywXeGquGcQMqxbrUcM1o5GJOivi7tcPxca2Eys=",
+      "hash": "sha256-dS5v6l2nEtJ57qLicg/28qe5nSOaMy73g7s0bbvevuA=",
       "url": "sample-data/police-stations/lusaka-central/case-lookups.json"
     },
     {
-      "hash": "sha256-gQ8ldisZtgfDwLa+IYJS/wvB7CsygZ0FlhLSqdSB8po=",
+      "hash": "sha256-bU8WhsTUJMqZ8NVSpNJiDTFJGH4WMydPbNVsNN8SXLQ=",
       "url": "sample-data/police-stations/lusaka-central/certificates.json"
     },
     {
-      "hash": "sha256-6lRNx+TTZw0ntT8edgc0ZMTnjIudNiN0yuDI6aqzrWU=",
+      "hash": "sha256-YIgq0g8+Apzg/4cOV05KHY/yRG8IiOjp1s6+XSDFOtI=",
       "url": "sample-data/police-stations/lusaka-central/crime-incidents.json"
     },
     {
-      "hash": "sha256-H2mTFnTVZL5JUwkPleUAKt3HZRuExmc7whybMJ2SfPE=",
+      "hash": "sha256-YdbtY0xJLTdiq7vlpWnkeKenIRpIqc04I9shkRD5zLU=",
       "url": "sample-data/police-stations/lusaka-central/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-cNEYbIR6/z2zqMDnD1kMF05E56tli6Fli0TKww6+xSU=",
+      "hash": "sha256-s5GXUNMsicG9W4D8tXyTuktYrqVaOmLKw0qoDaLIh5g=",
       "url": "sample-data/police-stations/lusaka-central/digital-evidence.json"
     },
     {
-      "hash": "sha256-hNT0IyMhiMOF5ci4tfVVxw2eVSA7MdO6bMynHIF74GE=",
+      "hash": "sha256-oS2fJOiFWDPHiqHi4jCVgvevE9UwSR+Dpd4qTwMF0iU=",
       "url": "sample-data/police-stations/lusaka-central/dispatches.json"
     },
     {
-      "hash": "sha256-DxI+6bV7QrmbMdfJg/T4eTbhVMk4UUSHLQYl65DID6c=",
+      "hash": "sha256-hGBUUi8GXWkYhULE+ueTyDvS6yqsJfvzqUZQvT+aNl0=",
       "url": "sample-data/police-stations/lusaka-central/incident-types.json"
     },
     {
-      "hash": "sha256-dMhlYZZdpSQUMlLzLQI9wr6GfgeN4Cn3bvWwf89nr0o=",
+      "hash": "sha256-Wj8WbhOTb50T9lDlh5yiIgyvDpMpr8aT33nnmQ47ouc=",
       "url": "sample-data/police-stations/lusaka-central/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-lKj9RlZC3mx/Uk5o71aamzlHFyYdMtPGtXC0rYBRC/w=",
+      "hash": "sha256-HcmcV3l+DIsQkSYU48DSsYLmVlZ22ED6NhgTKUy2gF0=",
       "url": "sample-data/police-stations/lusaka-central/link-analysis.json"
     },
     {
-      "hash": "sha256-EjYJBfh+mUk2Ei9ZtMvl9l5VvIIQ42OFWOuxJ/9JPSw=",
+      "hash": "sha256-tZRQuwPaFs2/ajAz6vPzgUjlRssX5rgiG6PecNJBdXU=",
       "url": "sample-data/police-stations/lusaka-central/predictive-analytics.json"
     },
     {
-      "hash": "sha256-alupKvlgmcoDJ8HoUjvfNDEBhFKvMIIM2F3wfUgFh6c=",
+      "hash": "sha256-+3dfqXpljMX2tFoygvTPTQmuKIY8toLVJCSr8HxjttI=",
       "url": "sample-data/police-stations/lusaka-central/stations.json"
     },
     {
-      "hash": "sha256-EyQQrlPWc9KMp18IDKWgx0F0bAxfBEIRzn6NBv+wwwg=",
+      "hash": "sha256-5yz8pgf0WeW2GZlsEtcknOp5DeFL7vWp6NdaPjPcXO0=",
       "url": "sample-data/police-stations/lusaka-central/use-of-force.json"
     },
     {
-      "hash": "sha256-DOt70WM/AzluDq+fjwf4UxwA7rS0vhcaDEphK3Nmt1w=",
+      "hash": "sha256-pjySAAyzJkEtoqkAYozLXREfVPoVFirOLSDahBApFRo=",
       "url": "sample-data/police-stations/woodlands/alpr-detections.json"
     },
     {
-      "hash": "sha256-U9WH7CwOQvANziSGzO2/DnFiq4fhCLSj7G6Oghe0q+Q=",
+      "hash": "sha256-9vqXpGh4PIYCygPDkFlj04LCLpe8K2sZIj8XWvoNzAI=",
       "url": "sample-data/police-stations/woodlands/avl-vehicles.json"
     },
     {
-      "hash": "sha256-xSJPghMoRgntQi9FIC9Q5nmS/yIUBwFmO9B1XWBFgNU=",
+      "hash": "sha256-dNmgoY03/J6ZOA1IItDwIpbcEvLdm4HNcxzUSDSLPZI=",
       "url": "sample-data/police-stations/woodlands/biometric-records.json"
     },
     {
-      "hash": "sha256-3Ii+1ZdtZlyxCMnhKKdC7H3aylJJo5gvLi6F88IK0/Y=",
+      "hash": "sha256-Y9pnb4tUbW6WjwKMn6bqm0f96vDaDvm8DcPAG/JMj/A=",
       "url": "sample-data/police-stations/woodlands/body-camera-footage.json"
     },
     {
-      "hash": "sha256-IpqxDcJcLBN4mcz+5mmU5gcWzXxjE1zrrRMK8PhgMPc=",
+      "hash": "sha256-w83LX3z4abCmfZqPbPdkzHnMPDSyL1mfZzr9nIIWytU=",
       "url": "sample-data/police-stations/woodlands/cad-calls.json"
     },
     {
-      "hash": "sha256-kktdy1lT+B0KMvPNg9CX0nNt41lMI0TDkod3KTK58fI=",
+      "hash": "sha256-9FXK4JjM+Hg7Svj2ke3sGIoW4RxoyauBal1uBDGJ6xA=",
       "url": "sample-data/police-stations/woodlands/case-lookups.json"
     },
     {
-      "hash": "sha256-GFfN5dbFmttx3YCi66fTSup/52BLbIv+w3VO3AvsRQM=",
+      "hash": "sha256-x5x06IiWNOAbsr6pvMe6bdX/tB2Q2sZhWdxtOROFVhA=",
       "url": "sample-data/police-stations/woodlands/certificates.json"
     },
     {
-      "hash": "sha256-6g64jI39Fwz7tGQSWHO8iVx0jbYz89Wdn8VgwhuwUnE=",
+      "hash": "sha256-bb9TQf05tZeDfvS3SD9yoBgJ6iN4ix6aEjGGUdwbIaw=",
       "url": "sample-data/police-stations/woodlands/crime-incidents.json"
     },
     {
-      "hash": "sha256-uz1HYksGbBVFX2oKUADeTpRO+SsA6vPlEm0e/VVodtU=",
+      "hash": "sha256-DbYrmqE6gNoWpBursw1p4SdaiOlNw7z3ucOzgVug1Gg=",
       "url": "sample-data/police-stations/woodlands/cybercrime-cases.json"
     },
     {
-      "hash": "sha256-Sf/zeJ16ZklLY4oQPhjFHU7KWvhsni3tFSSa6fqXL8s=",
+      "hash": "sha256-/02k2g6gYL6dgATNrD7N+TYUKH5jlvD6x2SLSNnYcKw=",
       "url": "sample-data/police-stations/woodlands/digital-evidence.json"
     },
     {
-      "hash": "sha256-QW7GqNcyKTcWH6xgruH/uiqcz26Su2IGZsJvkRHPQ/k=",
+      "hash": "sha256-O1xCuVWuxD+bWaFku0U7Qyx3gXGI6JMG6uPr3H7b6Zk=",
       "url": "sample-data/police-stations/woodlands/dispatches.json"
     },
     {
-      "hash": "sha256-lGO2YiWJwKWLt2j/thGomIX6Kjf2xtLBKqKjREuUCC0=",
+      "hash": "sha256-74hOz7Lp/NpxjzrcMbifwP3+mchXDD/yfpAx3jXj5HY=",
       "url": "sample-data/police-stations/woodlands/incident-types.json"
     },
     {
-      "hash": "sha256-wLcqNmwtF9iU2IKvayJiSc4b7u0c2CzdgbhPLARnJ9Q=",
+      "hash": "sha256-YebyM+9/Kul9IZ/iF4aG1ulkVw9G1Y4XZFVJhpIza6Q=",
       "url": "sample-data/police-stations/woodlands/intelligence-alerts.json"
     },
     {
-      "hash": "sha256-q4tei3FHL0COc04V4Ly/dbFeJN3/f7NLPZwHfb73BDw=",
+      "hash": "sha256-ThF//H/rfwrN5mK/1HjTkbCDm4ooKECoh/7qFsDqED4=",
       "url": "sample-data/police-stations/woodlands/link-analysis.json"
     },
     {
-      "hash": "sha256-qspgaUyS5MZi1D/9EToSvzVJmeFkIqVkbt+/kNoE018=",
+      "hash": "sha256-nPpB0+bo3AH3SaaU5qor/v82FA0E0Q4ld4a4kXhIqwQ=",
       "url": "sample-data/police-stations/woodlands/predictive-analytics.json"
     },
     {
-      "hash": "sha256-urZwbBPonzOikEeXtGqojl+iYYVdbq7N0+pT+drSJj4=",
+      "hash": "sha256-HEFrPbceKgFCUF8kyTdUlSqo3GR2rCeuFaLlj2/kAM0=",
       "url": "sample-data/police-stations/woodlands/stations.json"
     },
     {
-      "hash": "sha256-kA/RpFqfH8WNZm029SjjnteVZMA8oJ2O234w2o5bHsM=",
+      "hash": "sha256-y7rdp9gTzs9hGDTA1SE//tFzWGHrxDNzXLTsCOX35ao=",
       "url": "sample-data/police-stations/woodlands/use-of-force.json"
     },
     {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
+      "hash": "sha256-paIeuWnSzjeLGITWkk4p3rcejUsZWCJGPeOK9UhWXtg=",
       "url": "sample-data/weather.json"
     }
   ]
