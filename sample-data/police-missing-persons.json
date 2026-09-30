@@ -1,0 +1,4 @@
+[
+ { "recordId": "MISS-0001", "policeJourneyId": "PJ-ZM-0002", "personReference": "Protected person P-0007", "riskLevel": "High", "searchState": "Search actions open", "familyLiaison": "Family liaison assigned", "interAgencyReferral": "Social welfare referral accepted", "safeguardingGate": "Safeguarding review required before closure" },
+ { "recordId": "MISS-0002", "policeJourneyId": "PJ-ZM-0003", "personReference": "Unknown person reference U-0013", "riskLevel": "Medium - unverified signal", "searchState": "Needs triage", "familyLiaison": "Not assigned", "interAgencyReferral": "Not referred", "safeguardingGate": "Risk assessment pending" }
+]

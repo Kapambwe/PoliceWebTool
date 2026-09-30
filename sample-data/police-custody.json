@@ -1,0 +1,4 @@
+[
+ { "recordId": "CUST-0001", "policeJourneyId": "PJ-ZM-0001", "personReference": "Protected person P-0004", "authorityState": "Authority reference recorded; review required", "custodyState": "Detained pending review", "detentionLocation": "Lusaka Central holding area", "nextReview": "Supervisor review due 27 Sep 2026 14:00", "safeguard": "Rights and medical screening pending", "sensitivity": "Highly restricted" },
+ { "recordId": "CUST-0002", "policeJourneyId": "PJ-ZM-0002", "personReference": "Protected person P-0005", "authorityState": "No custody authority recorded", "custodyState": "Not in custody", "detentionLocation": "Not applicable", "nextReview": "No review scheduled", "safeguard": "Safeguarding referral active", "sensitivity": "Restricted" }
+]

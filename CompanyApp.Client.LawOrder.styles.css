@@ -164,3 +164,125 @@ main[b-3z9n0p4bsw] {
         overflow-y: auto;
     }
 }
+/* /Police/PoliceJourneyDetail.razor.rz.scp.css */
+.police-detail-safety[b-k9kmu3zw57] {
+    border-left: 3px solid var(--rz-warning);
+}
+
+.police-detail-safety[b-k9kmu3zw57]  h2 {
+    margin-top: 0;
+}
+/* /Police/PoliceMetricCard.razor.rz.scp.css */
+.police-metric-card[b-f777562sgh] {
+    display: flex;
+    align-items: center;
+    gap: 0.875rem;
+    height: 100%;
+    border-left: 3px solid var(--police-metric-accent);
+}
+
+.police-metric-card--primary[b-f777562sgh] {
+    --police-metric-accent: var(--rz-primary);
+}
+
+.police-metric-card--danger[b-f777562sgh] {
+    --police-metric-accent: var(--rz-danger);
+}
+
+.police-metric-card--warning[b-f777562sgh] {
+    --police-metric-accent: var(--rz-warning);
+}
+
+.police-metric-card--success[b-f777562sgh] {
+    --police-metric-accent: var(--rz-success);
+}
+
+.police-metric-card--info[b-f777562sgh] {
+    --police-metric-accent: var(--rz-info);
+}
+
+.police-metric-icon[b-f777562sgh] {
+    display: grid;
+    width: 2.5rem;
+    height: 2.5rem;
+    flex: 0 0 2.5rem;
+    place-items: center;
+    border-radius: 50%;
+    color: var(--police-metric-accent);
+    background: color-mix(in srgb, var(--police-metric-accent) 12%, transparent);
+}
+
+.police-metric-content[b-f777562sgh]  h5,
+.police-metric-content[b-f777562sgh]  p {
+    margin: 0;
+}
+
+.police-metric-content[b-f777562sgh]  p {
+    color: var(--rz-text-secondary-color);
+}
+/* /Police/PolicePageHeader.razor.rz.scp.css */
+.police-page-header[b-076qd9l0x5] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.police-page-heading[b-076qd9l0x5] {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    min-width: 0;
+}
+
+.police-page-heading[b-076qd9l0x5]  .rz-icon {
+    font-size: 1.75rem;
+    margin-top: 0.2rem;
+}
+
+.police-page-heading[b-076qd9l0x5]  h1,
+.police-page-heading[b-076qd9l0x5]  p {
+    margin: 0;
+}
+
+.police-page-actions[b-076qd9l0x5] {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+}
+
+@media (max-width: 640px) {
+    .police-page-header[b-076qd9l0x5] {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .police-page-actions[b-076qd9l0x5] {
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+}
+/* /Police/PoliceRecordsCard.razor.rz.scp.css */
+.police-records-heading[b-jasol3q1nl] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.police-records-heading[b-jasol3q1nl]  h2 {
+    margin: 0;
+}
+
+.police-records-card[b-jasol3q1nl] {
+    min-width: 0;
+}
+/* /Police/PoliceWorkspaceSelector.razor.rz.scp.css */
+.police-workspace-selector[b-y36vh3q5ns] {
+    min-width: 0;
+}
+
+.police-workspace-selector[b-y36vh3q5ns]  .rz-dropdown {
+    max-width: 100%;
+}

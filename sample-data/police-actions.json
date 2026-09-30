@@ -1,0 +1,6 @@
+[
+ { "actionId": "PA-0001", "policeJourneyId": "PJ-ZM-0001", "actionType": "Evidence request", "description": "Confirm authorised media intake and integrity check", "owner": "Evidence desk", "status": "Open", "sensitivity": "Restricted", "dueAt": "2026-09-27T12:00:00+02:00" },
+ { "actionId": "PA-0002", "policeJourneyId": "PJ-ZM-0002", "actionType": "Safeguarding referral", "description": "Complete protected-person safety plan review", "owner": "Victim Support Unit", "status": "Escalated", "sensitivity": "Highly restricted", "dueAt": "2026-09-27T10:00:00+02:00" },
+ { "actionId": "PA-0003", "policeJourneyId": "PJ-ZM-0003", "actionType": "Supervisor review", "description": "Record source confidence and corroboration decision", "owner": "Authorised intelligence reviewer", "status": "Needs review", "sensitivity": "Highly restricted", "dueAt": "2026-09-28T12:00:00+02:00" },
+ { "actionId": "PA-0004", "policeJourneyId": "PJ-ZM-0004", "actionType": "Response escalation", "description": "Coordinate medical and road-safety response before dispatch", "owner": "Dispatch desk", "status": "Blocked", "sensitivity": "Operational", "dueAt": "2026-09-27T09:00:00+02:00" }
+]

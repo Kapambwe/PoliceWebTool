@@ -1,0 +1,4 @@
+[
+ { "recordId": "TRAF-0001", "policeJourneyId": "PJ-ZM-0004", "violationType": "Road traffic collision review", "vehicleReference": "Vehicle reference V-0021", "personReference": "Person reference U-0091", "noticeState": "Needs review", "paymentOrReferral": "Referral to traffic review desk", "outcome": "Not recorded", "sensitivity": "Operational" },
+ { "recordId": "TRAF-0002", "policeJourneyId": "PJ-ZM-0001", "violationType": "Traffic obstruction signal", "vehicleReference": "Vehicle reference V-0035", "personReference": "Unknown person reference", "noticeState": "Draft only", "paymentOrReferral": "No payment action", "outcome": "Not recorded", "sensitivity": "Operational" }
+]

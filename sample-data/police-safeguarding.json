@@ -1,0 +1,5 @@
+[
+ { "recordId": "SAFE-0001", "policeJourneyId": "PJ-ZM-0002", "personRole": "Victim", "displayReference": "Protected person P-0001", "vulnerability": "Immediate safety and medical concern", "protectedIdentity": true, "referralStatus": "Accepted by Victim Support Unit", "assignedTeam": "Kitwe Victim Support Unit", "sensitivity": "Restricted" },
+ { "recordId": "SAFE-0002", "policeJourneyId": "PJ-ZM-0002", "personRole": "Witness", "displayReference": "Protected witness W-0001", "vulnerability": "Child witness indicator requires assessment", "protectedIdentity": true, "referralStatus": "Needs review", "assignedTeam": "Safeguarding desk", "sensitivity": "Highly restricted" },
+ { "recordId": "SAFE-0003", "policeJourneyId": "PJ-ZM-0001", "personRole": "Unknown person", "displayReference": "Person reference U-0001", "vulnerability": "Not assessed", "protectedIdentity": false, "referralStatus": "Not referred", "assignedTeam": "", "sensitivity": "Operational" }
+]

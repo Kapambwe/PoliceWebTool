@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "ZakdXgOb",
+  "version": "rv8rP7yR",
   "assets": [
     {
       "hash": "sha256-L8hZTC166zvDIvxNDvnwSrop/Ve4LUsHYV/NmpIOYZA=",
       "url": "404.html"
     },
     {
-      "hash": "sha256-JDSJaxjVCvpNN58pDeAdC07QXfU/XBdRajLRYu9eNqw=",
+      "hash": "sha256-ZBBVI/21y42k6rlrSVbzeDkxPLSlK6mxTnHBv8KdllM=",
       "url": "CompanyApp.Client.LawOrder.styles.css"
     },
     {
@@ -206,28 +206,28 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-s/ZZnn4BRFEavfmKagzqaR38tn6bSys7tB4LJdF90Bk=",
-      "url": "_framework/CompanyApp.Client.LawOrder.n3nrlph4dr.wasm"
+      "hash": "sha256-l/dP7mrJTH+YJdiYeN2Qt0LCiQC9PR02UEtd37zdBBY=",
+      "url": "_framework/CompanyApp.Client.LawOrder.1yied9sgnm.wasm"
     },
     {
-      "hash": "sha256-CB0AmkKx5Bi+0GZasPn1iCD0BauPc+nUqo2xsVzpTvE=",
-      "url": "_framework/CompanyApp.Components.ComplianceControls.49vfvqvev3.wasm"
+      "hash": "sha256-YQDnSiPbFy+JhGXimlwukKnB+LQm77Ax/4EYp4ayDpQ=",
+      "url": "_framework/CompanyApp.Components.ComplianceControls.n6jqwjhve8.wasm"
     },
     {
-      "hash": "sha256-QilLHEGJJ3KqJ/KM/LYKe45Mrgfx1FbcgfVlsq2l0SY=",
-      "url": "_framework/CompanyApp.Components.Dashboard.Police.myqp286bzo.wasm"
+      "hash": "sha256-sLNgDLcGeKMrt6O36+PZ91Tj7CqDUsg9BSdprxTu+W0=",
+      "url": "_framework/CompanyApp.Components.Dashboard.Police.c5jrufuboh.wasm"
     },
     {
-      "hash": "sha256-Mxd54OpkGqDKnW7nzc0R9RfIFyFt9QKaG0s1xbLiRgk=",
-      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.libevq5h4n.wasm"
+      "hash": "sha256-WnUyc3UU9Y7pJdtObc+zadqkuVjWeCKJnfBBlIoQ36o=",
+      "url": "_framework/CompanyApp.Components.Police.DecisionEngine.ua20b9hfah.wasm"
     },
     {
-      "hash": "sha256-JN4VIF+kDYtKuz7r6XNhA1/4SsWToU23DavFPWOSdcI=",
-      "url": "_framework/CompanyApp.Components.Police.syk8iopyid.wasm"
+      "hash": "sha256-DWUzDwI5pr310l6Zy6zict8XOtSlGRBEO+lwWF/4Au8=",
+      "url": "_framework/CompanyApp.Components.Police.bqksz43mmk.wasm"
     },
     {
-      "hash": "sha256-L2HmCPe3tGTsGRHa2DuYndwF2lHnnC5E0RG8RQ1TxIs=",
-      "url": "_framework/CompanyApp.Integration.Contracts.hkvwjhyxw0.wasm"
+      "hash": "sha256-xAcvFHX/Oe6vjawvEySBBnYLH63xRlsw73JpnFZSO1g=",
+      "url": "_framework/CompanyApp.Integration.Contracts.8hd0011sog.wasm"
     },
     {
       "hash": "sha256-7MB/AdpJ1M5QLPfFuGFjCLGIJyd1QJSLoYMVWiC8/QU=",
@@ -1106,12 +1106,8 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.w3qd1tpl0e.js"
     },
     {
-      "hash": "sha256-L86ZwdChowiLnQc5vC7hb8aAN/oeTOcvUJVVG39fj9U=",
-      "url": "_framework/de/Radzen.Blazor.resources.dxelnbfurb.wasm"
-    },
-    {
-      "hash": "sha256-Vjc8btSK6C9GCt0jaP+q4Y/XoBjgvGQu3ESpYXfNOv4=",
-      "url": "_framework/dotnet.e6fy6ku9dh.js"
+      "hash": "sha256-/Efz4hc0bTowOVkTw4HQbeYh0m6vG5l3mrot7XMP1cM=",
+      "url": "_framework/de/Radzen.Blazor.resources.w7a5tisoh7.wasm"
     },
     {
       "hash": "sha256-hYigRhIZKHyCXxXWqL/yR3ZWzZhV2oSi+2N3/UPeoxk=",
@@ -1126,12 +1122,16 @@ self.assetsManifest = {
       "url": "_framework/dotnet.runtime.zbexyp8zrs.js"
     },
     {
-      "hash": "sha256-5ugfZW+xVmKC+UMMhVCKh6ud6dt88cjFRrDPQv870ls=",
-      "url": "_framework/es/Radzen.Blazor.resources.qw0u39lzjz.wasm"
+      "hash": "sha256-sT5Ecxv7yea2Iva1cOlvVSd6ujuaW7rXbOAOEPeStNw=",
+      "url": "_framework/dotnet.z73ceui0ib.js"
     },
     {
-      "hash": "sha256-x+9bl/7aXfc5CLXPiSOGLYNQDGPffFpd8F46L2nBm5k=",
-      "url": "_framework/fr/Radzen.Blazor.resources.7kf0hoxi7g.wasm"
+      "hash": "sha256-IifQMUDjB5rUvqS6aNlWG+JgpNp8UcE9whm/YXTax5k=",
+      "url": "_framework/es/Radzen.Blazor.resources.6uubgued6f.wasm"
+    },
+    {
+      "hash": "sha256-fxrH8T661Wh8RQ/343vDO2zqSDU6xcbYszxjSkVERYY=",
+      "url": "_framework/fr/Radzen.Blazor.resources.7qxnw0zvpg.wasm"
     },
     {
       "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -1146,12 +1146,12 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-d6y0TRZ69MIvuvyqrzbZU+J78HJKZb9JlRNv7UAT/lM=",
-      "url": "_framework/it/Radzen.Blazor.resources.742zb7tagl.wasm"
+      "hash": "sha256-3rrNISj+5Ic3rVvA3liMGO1HMxAFryrZGMuhjbbpKrY=",
+      "url": "_framework/it/Radzen.Blazor.resources.q5lbvz9ssp.wasm"
     },
     {
-      "hash": "sha256-JGw/YQ/xdJWggudrdE095cGuqquC7/T/t5sPDUwyWGg=",
-      "url": "_framework/ja/Radzen.Blazor.resources.o596krsiyt.wasm"
+      "hash": "sha256-n8R4ccsaMoYn00wdOZd8c/rlNi86re0cKXXTiXuynwM=",
+      "url": "_framework/ja/Radzen.Blazor.resources.nyswy6nj10.wasm"
     },
     {
       "hash": "sha256-L55XGcSlCWjg/nPH8pqX4FoLUqcw89+V7xgu0GWwKSU=",
@@ -1162,19 +1162,19 @@ self.assetsManifest = {
       "url": "_framework/netstandard.8ql06rx5ae.wasm"
     },
     {
-      "hash": "sha256-vhMHkwG4lkbiBysQB9jLmJni8rKm+/w+epeXYCEZuWI=",
+      "hash": "sha256-qox/XEzOk2h4shzU2nMZUdGfNbEAqd4NNkGV//AgcEo=",
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-+nzG2KjwwPRzQ197nxpqVWFC+F23IpahZXyeH5RWo6I=",
+      "hash": "sha256-OlIu4/wNaMwH9nynPkrtPgoREf4hhKEkRR7+iGttpnY=",
       "url": "appsettings.Github.json"
     },
     {
-      "hash": "sha256-lZGgyB/cKrUg0CoEQnRL8yPsF87IEAdh9rjB/7FFBXo=",
+      "hash": "sha256-9S2hcZgmRtokMTj/cHISUXW/3XNw0+zYwjqhHWkwiVs=",
       "url": "appsettings.Production.json"
     },
     {
-      "hash": "sha256-drIBXjqNxrThxp74W/cYEZBG7JX9aXSadTKklMzs8Fc=",
+      "hash": "sha256-n92LbCOfww565Lt1bhRP0WZ8xVPA6V9dqKxESMyqVcE=",
       "url": "appsettings.json"
     },
     {
@@ -1194,7 +1194,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-53Rr4bmBjpuV5bFSvZGN7/EvSmilkChtPBR9Snq+6QM=",
+      "hash": "sha256-/mWwxG1PW3gd661AnDWGcbGmpvvM8TFEAKf2RDpsKJM=",
       "url": "index.html"
     },
     {
@@ -1830,6 +1830,54 @@ self.assetsManifest = {
       "url": "sample-data/Zambia/Lusaka-Province/Lusaka-District/woodlands/use-of-force.json"
     },
     {
+      "hash": "sha256-L3cGhehR2s/d1q9aDIPz9KYqfbVYVRtJS8UOuRuv7qg=",
+      "url": "sample-data/police-actions.json"
+    },
+    {
+      "hash": "sha256-h10rrLWlwEqFnDlbRloDCXOiIhfA3llxwie91+/tPVY=",
+      "url": "sample-data/police-complaints.json"
+    },
+    {
+      "hash": "sha256-nnv6m/LXldkeNR4i0LqPVDudd1KieEXfQPynUwekcnc=",
+      "url": "sample-data/police-custody.json"
+    },
+    {
+      "hash": "sha256-5pVjSgIoox9MJ3ywyYBhnzxm+RWNMqiaOeqR+LcBW2s=",
+      "url": "sample-data/police-evidence.json"
+    },
+    {
+      "hash": "sha256-2EdvZkt2nkjTwX8JuDALkK3tdp0pm+Yop1GHt1x+zls=",
+      "url": "sample-data/police-high-risk.json"
+    },
+    {
+      "hash": "sha256-JXhpP4iJNEL6Qu4wSWz1jobXWrFS7cHwqJKR5REpFz8=",
+      "url": "sample-data/police-intelligence.json"
+    },
+    {
+      "hash": "sha256-DDep8cKVSIGQX027r7quBNyJTuT4RFkox3GP4uh0rok=",
+      "url": "sample-data/police-investigations.json"
+    },
+    {
+      "hash": "sha256-hInOIGblirXBucgYksKxmB7YWUbe99Yfrss3IXeCWa0=",
+      "url": "sample-data/police-journeys.json"
+    },
+    {
+      "hash": "sha256-pjChyNx1AFxD9se8hmWboKo98l7TeCAi20IdvEnWm6M=",
+      "url": "sample-data/police-missing-persons.json"
+    },
+    {
+      "hash": "sha256-o4Q9vkxzNWW9U84rFJOFcZb+qjDL0Ny+l7gEo2P3pMw=",
+      "url": "sample-data/police-officer-safety.json"
+    },
+    {
+      "hash": "sha256-jre17iUKBCdu9FF3GC8CxsXL3FEzjuq3L0bYuZLIPDY=",
+      "url": "sample-data/police-referrals.json"
+    },
+    {
+      "hash": "sha256-X5WFcJfAu4KI+QcNoD4/hphD2Q4K5GEoJCHwIFXAanY=",
+      "url": "sample-data/police-safeguarding.json"
+    },
+    {
       "hash": "sha256-pbEbKCaJzAXTSHm3QYvJVN0DsgvuBLsZX96AQqUCXz0=",
       "url": "sample-data/police-stations/chilenje/alpr-detections.json"
     },
@@ -2168,6 +2216,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-y7rdp9gTzs9hGDTA1SE//tFzWGHrxDNzXLTsCOX35ao=",
       "url": "sample-data/police-stations/woodlands/use-of-force.json"
+    },
+    {
+      "hash": "sha256-G/BPB3WgzhCWd4ZoSzITvX7rYMWUfAuK3tcT9Sfdprc=",
+      "url": "sample-data/police-traffic.json"
     },
     {
       "hash": "sha256-paIeuWnSzjeLGITWkk4p3rcejUsZWCJGPeOK9UhWXtg=",
