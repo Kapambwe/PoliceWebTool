@@ -1,4 +1,4 @@
-/* Manifest version: rv8rP7yR */
+/* Manifest version: W/WgeIvv */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -10,7 +10,13 @@ self.addEventListener('fetch', event => event.respondWith(onFetch(event)));
 const cacheNamePrefix = 'offline-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
 const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [ /^service-worker\.js$/ ];
+// GitHub Pages replaces 404.html with the deployment's index.html so that
+// client-side routes can be restored. That deployment-time replacement makes
+// the generated service-worker-assets.js hash stale, causing the browser to
+// reject 404.html during service-worker installation because of SRI.
+// Keep the fallback document out of the offline precache; navigations are
+// still handled by the GitHub Pages fallback and the application shell.
+const offlineAssetsExclude = [ /^service-worker\.js$/, /^404\.html$/ ];
 
 // Replace with your base path if you are hosting on a subfolder. Ensure there is a trailing '/'.
 const base = "/";
